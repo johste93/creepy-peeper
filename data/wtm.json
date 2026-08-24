@@ -1,0 +1,3488 @@
+[
+ {
+  "slug": "google_tag",
+  "name": "Google Tag",
+  "category": "advertising",
+  "reach": 0.3804846694874094,
+  "rank": 1
+ },
+ {
+  "slug": "doubleclick",
+  "name": "Google Marketing Platform",
+  "category": "advertising",
+  "reach": 0.2309587932903264,
+  "rank": 2
+ },
+ {
+  "slug": "google",
+  "name": "Google",
+  "category": "advertising",
+  "reach": 0.1407065204713065,
+  "rank": 3
+ },
+ {
+  "slug": "google_adservices",
+  "name": "Google AdServices",
+  "category": "advertising",
+  "reach": 0.0924007866727139,
+  "rank": 4
+ },
+ {
+  "slug": "cloudflare_insights",
+  "name": "Cloudflare Insights",
+  "category": "site_analytics",
+  "reach": 0.0882929910765668,
+  "rank": 5
+ },
+ {
+  "slug": "google_syndication",
+  "name": "Google Syndication",
+  "category": "advertising",
+  "reach": 0.0697136625608232,
+  "rank": 6
+ },
+ {
+  "slug": "facebook",
+  "name": "Facebook",
+  "category": "advertising",
+  "reach": 0.0601606936433362,
+  "rank": 7
+ },
+ {
+  "slug": "google_analytics",
+  "name": "Google Analytics",
+  "category": "site_analytics",
+  "reach": 0.055056657717167,
+  "rank": 8
+ },
+ {
+  "slug": "amazon_adsystem",
+  "name": "Amazon Advertising",
+  "category": "advertising",
+  "reach": 0.0539241597436097,
+  "rank": 9
+ },
+ {
+  "slug": "mixpanel",
+  "name": "Mixpanel",
+  "category": "site_analytics",
+  "reach": 0.0262813705181659,
+  "rank": 10
+ },
+ {
+  "slug": "scorecard_research_beacon",
+  "name": "ScoreCard Research Beacon",
+  "category": "site_analytics",
+  "reach": 0.0255751840465507,
+  "rank": 11
+ },
+ {
+  "slug": "bing_ads",
+  "name": "Microsoft Advertising",
+  "category": "advertising",
+  "reach": 0.0207452568717872,
+  "rank": 12
+ },
+ {
+  "slug": "adobe_audience_manager",
+  "name": "Adobe Audience Manager",
+  "category": "advertising",
+  "reach": 0.0182689729351338,
+  "rank": 13
+ },
+ {
+  "slug": "microsoft_clarity",
+  "name": "Microsoft Clarity",
+  "category": "site_analytics",
+  "reach": 0.0180574502608852,
+  "rank": 14
+ },
+ {
+  "slug": "criteo",
+  "name": "Criteo",
+  "category": "advertising",
+  "reach": 0.017561705718008,
+  "rank": 15
+ },
+ {
+  "slug": "new_relic",
+  "name": "New Relic",
+  "category": "site_analytics",
+  "reach": 0.0175611489023749,
+  "rank": 16
+ },
+ {
+  "slug": "rubicon",
+  "name": "Magnite",
+  "category": "advertising",
+  "reach": 0.0167764514264969,
+  "rank": 17
+ },
+ {
+  "slug": "taboola",
+  "name": "Taboola",
+  "category": "advertising",
+  "reach": 0.0145276113541801,
+  "rank": 18
+ },
+ {
+  "slug": "soasta_mpulse",
+  "name": "mPulse",
+  "category": "site_analytics",
+  "reach": 0.0141670362352922,
+  "rank": 19
+ },
+ {
+  "slug": "google_signals",
+  "name": "Google Analytics with signals",
+  "category": "advertising",
+  "reach": 0.0140484524431331,
+  "rank": 20
+ },
+ {
+  "slug": "yandex_metrika",
+  "name": "Yandex Metrika",
+  "category": "site_analytics",
+  "reach": 0.0135531608267977,
+  "rank": 21
+ },
+ {
+  "slug": "chartbeat",
+  "name": "ChartBeat",
+  "category": "site_analytics",
+  "reach": 0.0124399099890563,
+  "rank": 22
+ },
+ {
+  "slug": "appnexus",
+  "name": "AppNexus",
+  "category": "advertising",
+  "reach": 0.0114431360129107,
+  "rank": 23
+ },
+ {
+  "slug": "yahoo_japan_retargeting",
+  "name": "Yahoo! Japan Retargeting",
+  "category": "advertising",
+  "reach": 0.0111302841044963,
+  "rank": 24
+ },
+ {
+  "slug": "tradedesk",
+  "name": "TradeDesk",
+  "category": "advertising",
+  "reach": 0.0106943692145416,
+  "rank": 25
+ },
+ {
+  "slug": "tiktok_analytics",
+  "name": "TikTok Analytics",
+  "category": "site_analytics",
+  "reach": 0.0103801495576595,
+  "rank": 26
+ },
+ {
+  "slug": "pubmatic",
+  "name": "PubMatic",
+  "category": "advertising",
+  "reach": 0.0103409773910221,
+  "rank": 27
+ },
+ {
+  "slug": "adobe_experience_cloud",
+  "name": "Adobe Experience Cloud",
+  "category": "site_analytics",
+  "reach": 0.0100789466807311,
+  "rank": 28
+ },
+ {
+  "slug": "liveramp",
+  "name": "LiveRamp",
+  "category": "advertising",
+  "reach": 0.0100216761375101,
+  "rank": 29
+ },
+ {
+  "slug": "twitter_ads",
+  "name": "X Advertising",
+  "category": "advertising",
+  "reach": 0.0096668052023961,
+  "rank": 30
+ },
+ {
+  "slug": "wordpress_stats",
+  "name": "WordPress Stats",
+  "category": "site_analytics",
+  "reach": 0.0094771231542275,
+  "rank": 31
+ },
+ {
+  "slug": "piano",
+  "name": "Piano Analytics",
+  "category": "site_analytics",
+  "reach": 0.0091709380853393,
+  "rank": 32
+ },
+ {
+  "slug": "qualtrics",
+  "name": "Qualtrics",
+  "category": "site_analytics",
+  "reach": 0.0091500743156787,
+  "rank": 33
+ },
+ {
+  "slug": "tealium",
+  "name": "Tealium",
+  "category": "site_analytics",
+  "reach": 0.0086595593553312,
+  "rank": 34
+ },
+ {
+  "slug": "hotjar",
+  "name": "Hotjar",
+  "category": "site_analytics",
+  "reach": 0.0086509156334567,
+  "rank": 35
+ },
+ {
+  "slug": "yandex",
+  "name": "Yandex",
+  "category": "advertising",
+  "reach": 0.0081882646242723,
+  "rank": 36
+ },
+ {
+  "slug": "quantcast",
+  "name": "Quantcast",
+  "category": "advertising",
+  "reach": 0.0081306039364063,
+  "rank": 37
+ },
+ {
+  "slug": "braze",
+  "name": "Braze",
+  "category": "site_analytics",
+  "reach": 0.007767755215967,
+  "rank": 38
+ },
+ {
+  "slug": "id5_sync",
+  "name": "ID5 Sync",
+  "category": "advertising",
+  "reach": 0.0074879430281909,
+  "rank": 39
+ },
+ {
+  "slug": "yahoo",
+  "name": "Yahoo!",
+  "category": "site_analytics",
+  "reach": 0.0074296044453194,
+  "rank": 40
+ },
+ {
+  "slug": "permutive",
+  "name": "Permutive",
+  "category": "advertising",
+  "reach": 0.0074221490950645,
+  "rank": 41
+ },
+ {
+  "slug": "klaviyo",
+  "name": "Klaviyo",
+  "category": "site_analytics",
+  "reach": 0.0073978809023051,
+  "rank": 42
+ },
+ {
+  "slug": "ebay",
+  "name": "eBay Stats",
+  "category": "advertising",
+  "reach": 0.0073931894503201,
+  "rank": 43
+ },
+ {
+  "slug": "cxense",
+  "name": "cXense",
+  "category": "advertising",
+  "reach": 0.007367196997607,
+  "rank": 44
+ },
+ {
+  "slug": "outbrain",
+  "name": "Outbrain",
+  "category": "advertising",
+  "reach": 0.0071602678654804,
+  "rank": 45
+ },
+ {
+  "slug": "amplitude",
+  "name": "Amplitude",
+  "category": "site_analytics",
+  "reach": 0.0071401059077385,
+  "rank": 46
+ },
+ {
+  "slug": "triplelift",
+  "name": "TripleLift",
+  "category": "advertising",
+  "reach": 0.0068163179908099,
+  "rank": 47
+ },
+ {
+  "slug": "index_exchange",
+  "name": "Index Exchange",
+  "category": "advertising",
+  "reach": 0.0066455504838844,
+  "rank": 48
+ },
+ {
+  "slug": "gemius",
+  "name": "Gemius",
+  "category": "advertising",
+  "reach": 0.0066336876949876,
+  "rank": 49
+ },
+ {
+  "slug": "teads",
+  "name": "Teads",
+  "category": "advertising",
+  "reach": 0.0064381011588979,
+  "rank": 50
+ },
+ {
+  "slug": "openx",
+  "name": "OpenX",
+  "category": "advertising",
+  "reach": 0.0058145012830183,
+  "rank": 51
+ },
+ {
+  "slug": "marfeel",
+  "name": "Marfeel",
+  "category": "advertising",
+  "reach": 0.0057847583593699,
+  "rank": 52
+ },
+ {
+  "slug": "amazon_metrics",
+  "name": "Amazon Metrics",
+  "category": "site_analytics",
+  "reach": 0.0057162334137291,
+  "rank": 53
+ },
+ {
+  "slug": "pendo.io",
+  "name": "pendo",
+  "category": "site_analytics",
+  "reach": 0.0057094768857788,
+  "rank": 54
+ },
+ {
+  "slug": "smart_adserver",
+  "name": "Smart AdServer",
+  "category": "advertising",
+  "reach": 0.0057029400944676,
+  "rank": 55
+ },
+ {
+  "slug": "bugsnag",
+  "name": "Bugsnag",
+  "category": "site_analytics",
+  "reach": 0.0056456075167533,
+  "rank": 56
+ },
+ {
+  "slug": "rtb_house",
+  "name": "RTB House",
+  "category": "advertising",
+  "reach": 0.0055420188817033,
+  "rank": 57
+ },
+ {
+  "slug": "netratings_sitecensus",
+  "name": "NetRatings SiteCensus",
+  "category": "advertising",
+  "reach": 0.0054977172846098,
+  "rank": 58
+ },
+ {
+  "slug": "integral_ad_science",
+  "name": "Integral Ad Science",
+  "category": "advertising",
+  "reach": 0.0053000133543073,
+  "rank": 59
+ },
+ {
+  "slug": "jetpack",
+  "name": "Jetpack",
+  "category": "site_analytics",
+  "reach": 0.0051933454166959,
+  "rank": 60
+ },
+ {
+  "slug": "visual_website_optimizer",
+  "name": "VWO",
+  "category": "site_analytics",
+  "reach": 0.0051242658976326,
+  "rank": 61
+ },
+ {
+  "slug": "gumgum",
+  "name": "gumgum",
+  "category": "advertising",
+  "reach": 0.005012650148624,
+  "rank": 62
+ },
+ {
+  "slug": "segment",
+  "name": "Segment",
+  "category": "site_analytics",
+  "reach": 0.0048276655316686,
+  "rank": 63
+ },
+ {
+  "slug": "dotmetrics.net",
+  "name": "Dotmetrics",
+  "category": "site_analytics",
+  "reach": 0.0046818852197025,
+  "rank": 64
+ },
+ {
+  "slug": "adform",
+  "name": "Adform",
+  "category": "advertising",
+  "reach": 0.0045086587551491,
+  "rank": 65
+ },
+ {
+  "slug": "hubspot",
+  "name": "HubSpot",
+  "category": "site_analytics",
+  "reach": 0.0043564320876995,
+  "rank": 66
+ },
+ {
+  "slug": "pubstack",
+  "name": "Pubstack",
+  "category": "advertising",
+  "reach": 0.0042908190262284,
+  "rank": 67
+ },
+ {
+  "slug": "linkedin_analytics",
+  "name": "LinkedIn Analytics",
+  "category": "site_analytics",
+  "reach": 0.0042886328708905,
+  "rank": 68
+ },
+ {
+  "slug": "live_intent",
+  "name": "Live Intent",
+  "category": "site_analytics",
+  "reach": 0.0041714646610254,
+  "rank": 69
+ },
+ {
+  "slug": "kameleoon",
+  "name": "Kameleoon",
+  "category": "site_analytics",
+  "reach": 0.0041483497119194,
+  "rank": 70
+ },
+ {
+  "slug": "pub.network",
+  "name": "pub.network",
+  "category": "advertising",
+  "reach": 0.0041443167224482,
+  "rank": 71
+ },
+ {
+  "slug": "lotame",
+  "name": "Lotame",
+  "category": "advertising",
+  "reach": 0.0040712445737045,
+  "rank": 72
+ },
+ {
+  "slug": "linkedin_ads",
+  "name": "LinkedIn Ads",
+  "category": "advertising",
+  "reach": 0.0040322555209331,
+  "rank": 73
+ },
+ {
+  "slug": "media.net",
+  "name": "Media.net",
+  "category": "advertising",
+  "reach": 0.0038985054162555,
+  "rank": 74
+ },
+ {
+  "slug": "histats",
+  "name": "Histats",
+  "category": "site_analytics",
+  "reach": 0.0037356454387231,
+  "rank": 75
+ },
+ {
+  "slug": "doubleverify",
+  "name": "DoubleVerify",
+  "category": "advertising",
+  "reach": 0.0036165549069677,
+  "rank": 76
+ },
+ {
+  "slug": "audigent",
+  "name": "Audience Square",
+  "category": "advertising",
+  "reach": 0.0036158635586984,
+  "rank": 77
+ },
+ {
+  "slug": "pusher.com",
+  "name": "Pusher",
+  "category": "site_analytics",
+  "reach": 0.003586631111664,
+  "rank": 78
+ },
+ {
+  "slug": "parsely",
+  "name": "Parse.ly",
+  "category": "site_analytics",
+  "reach": 0.0035651611977371,
+  "rank": 79
+ },
+ {
+  "slug": "yahoo_analytics",
+  "name": "Yahoo! Analytics",
+  "category": "site_analytics",
+  "reach": 0.0034969120440004,
+  "rank": 80
+ },
+ {
+  "slug": "sharethis",
+  "name": "ShareThis",
+  "category": "advertising",
+  "reach": 0.0034781851010444,
+  "rank": 81
+ },
+ {
+  "slug": "brandmetrics.com",
+  "name": "Brand Metrics",
+  "category": "advertising",
+  "reach": 0.0033856199207221,
+  "rank": 82
+ },
+ {
+  "slug": "bounce_exchange",
+  "name": "Wunderkind",
+  "category": "advertising",
+  "reach": 0.003253676290387,
+  "rank": 83
+ },
+ {
+  "slug": "dynatrace.com",
+  "name": "Dynatrace",
+  "category": "site_analytics",
+  "reach": 0.0031997608416316,
+  "rank": 84
+ },
+ {
+  "slug": "speedcurve",
+  "name": "SpeedCurve",
+  "category": "site_analytics",
+  "reach": 0.0031403071326868,
+  "rank": 85
+ },
+ {
+  "slug": "baidu_ads",
+  "name": "Baidu Ads",
+  "category": "advertising",
+  "reach": 0.0031237117846107,
+  "rank": 86
+ },
+ {
+  "slug": "connatix.com",
+  "name": "Connatix",
+  "category": "advertising",
+  "reach": 0.0031213821277943,
+  "rank": 87
+ },
+ {
+  "slug": "snapchat",
+  "name": "Snapchat For Business",
+  "category": "advertising",
+  "reach": 0.0027961031408147,
+  "rank": 88
+ },
+ {
+  "slug": "geoedge",
+  "name": "GeoEdge",
+  "category": "advertising",
+  "reach": 0.0027599818754045,
+  "rank": 89
+ },
+ {
+  "slug": "onetag",
+  "name": "OneTag",
+  "category": "advertising",
+  "reach": 0.0027457251529873,
+  "rank": 90
+ },
+ {
+  "slug": "bidswitch",
+  "name": "Bidswitch",
+  "category": "advertising",
+  "reach": 0.0027359984433916,
+  "rank": 91
+ },
+ {
+  "slug": "auth0",
+  "name": "Auth0 Inc.",
+  "category": "site_analytics",
+  "reach": 0.0027326343800836,
+  "rank": 92
+ },
+ {
+  "slug": "naver.com",
+  "name": "Naver",
+  "category": "advertising",
+  "reach": 0.002657515840463,
+  "rank": 93
+ },
+ {
+  "slug": "33across",
+  "name": "33Across",
+  "category": "advertising",
+  "reach": 0.0026400677049542,
+  "rank": 94
+ },
+ {
+  "slug": "ab_tasty",
+  "name": "AB Tasty",
+  "category": "site_analytics",
+  "reach": 0.0026299067539051,
+  "rank": 95
+ },
+ {
+  "slug": "quantum_metric",
+  "name": "Quantum Metric",
+  "category": "site_analytics",
+  "reach": 0.0025489861206476,
+  "rank": 96
+ },
+ {
+  "slug": "microad",
+  "name": "MicroAd",
+  "category": "advertising",
+  "reach": 0.0024921804624249,
+  "rank": 97
+ },
+ {
+  "slug": "intimate_merger",
+  "name": "Intimate Merger",
+  "category": "site_analytics",
+  "reach": 0.0024595353708528,
+  "rank": 98
+ },
+ {
+  "slug": "aggregate_knowledge",
+  "name": "Aggregate Knowledge",
+  "category": "advertising",
+  "reach": 0.0023568914538701,
+  "rank": 99
+ },
+ {
+  "slug": "fullstory",
+  "name": "FullStory",
+  "category": "site_analytics",
+  "reach": 0.002301500630538,
+  "rank": 100
+ },
+ {
+  "slug": "stackadapt",
+  "name": "StackAdapt",
+  "category": "advertising",
+  "reach": 0.0022157129054649,
+  "rank": 101
+ },
+ {
+  "slug": "datadome",
+  "name": "DataDome",
+  "category": "site_analytics",
+  "reach": 0.0021991691282327,
+  "rank": 102
+ },
+ {
+  "slug": "improve_digital",
+  "name": "Improve Digital",
+  "category": "advertising",
+  "reach": 0.0021686541367334,
+  "rank": 103
+ },
+ {
+  "slug": "seedtag.com",
+  "name": "Seedtag",
+  "category": "advertising",
+  "reach": 0.0021667146245618,
+  "rank": 104
+ },
+ {
+  "slug": "rich_audience",
+  "name": "Rich Audience",
+  "category": "advertising",
+  "reach": 0.0021548555726827,
+  "rank": 105
+ },
+ {
+  "slug": "appsflyer",
+  "name": "AppsFlyer",
+  "category": "site_analytics",
+  "reach": 0.0021440922143849,
+  "rank": 106
+ },
+ {
+  "slug": "viafoura",
+  "name": "Viafoura",
+  "category": "advertising",
+  "reach": 0.0020781981291849,
+  "rank": 107
+ },
+ {
+  "slug": "adaptmx",
+  "name": "AdaptMX",
+  "category": "advertising",
+  "reach": 0.0020764761114418,
+  "rank": 108
+ },
+ {
+  "slug": "sovrn",
+  "name": "sovrn",
+  "category": "advertising",
+  "reach": 0.0020748422873158,
+  "rank": 109
+ },
+ {
+  "slug": "unruly_media",
+  "name": "Unruly Media",
+  "category": "advertising",
+  "reach": 0.0019904282899388,
+  "rank": 110
+ },
+ {
+  "slug": "yotpo",
+  "name": "Yotpo",
+  "category": "site_analytics",
+  "reach": 0.0019894140633428,
+  "rank": 111
+ },
+ {
+  "slug": "rhythmone_beacon",
+  "name": "Rhythmone Beacon",
+  "category": "advertising",
+  "reach": 0.001969874692745,
+  "rank": 112
+ },
+ {
+  "slug": "crazy_egg",
+  "name": "Crazy Egg",
+  "category": "site_analytics",
+  "reach": 0.0019295119122774,
+  "rank": 113
+ },
+ {
+  "slug": "fluct",
+  "name": "Fluct",
+  "category": "advertising",
+  "reach": 0.0019069193982419,
+  "rank": 114
+ },
+ {
+  "slug": "adnami",
+  "name": "Adnami",
+  "category": "advertising",
+  "reach": 0.0018790532048682,
+  "rank": 115
+ },
+ {
+  "slug": "nativo",
+  "name": "Nativo",
+  "category": "advertising",
+  "reach": 0.00187868772454,
+  "rank": 116
+ },
+ {
+  "slug": "line_apps",
+  "name": "Line",
+  "category": "site_analytics",
+  "reach": 0.0018588890049158,
+  "rank": 117
+ },
+ {
+  "slug": "dotomi",
+  "name": "Dotomi",
+  "category": "advertising",
+  "reach": 0.0018496525920386,
+  "rank": 118
+ },
+ {
+  "slug": "contentsquare.net",
+  "name": "ContentSquare",
+  "category": "site_analytics",
+  "reach": 0.0018266258365497,
+  "rank": 119
+ },
+ {
+  "slug": "hubspot_ads_pixel",
+  "name": "HubSpot Ads pixel",
+  "category": "advertising",
+  "reach": 0.0018164940342384,
+  "rank": 120
+ },
+ {
+  "slug": "sharethrough",
+  "name": "ShareThrough",
+  "category": "advertising",
+  "reach": 0.001793979997574,
+  "rank": 121
+ },
+ {
+  "slug": "mercado",
+  "name": "Mercado",
+  "category": "advertising",
+  "reach": 0.0017698777283992,
+  "rank": 122
+ },
+ {
+  "slug": "sailthru_horizon",
+  "name": "Sailthru Horizon",
+  "category": "site_analytics",
+  "reach": 0.0017690324150018,
+  "rank": 123
+ },
+ {
+  "slug": "relevant_digital",
+  "name": "Relevant Digital",
+  "category": "advertising",
+  "reach": 0.0017467059766246,
+  "rank": 124
+ },
+ {
+  "slug": "anonymised",
+  "name": "Anonymised",
+  "category": "advertising",
+  "reach": 0.0017438785490542,
+  "rank": 125
+ },
+ {
+  "slug": "freewheel",
+  "name": "FreeWheel",
+  "category": "advertising",
+  "reach": 0.0017406363125223,
+  "rank": 126
+ },
+ {
+  "slug": "posthog",
+  "name": "PostHog",
+  "category": "site_analytics",
+  "reach": 0.0017289282361572,
+  "rank": 127
+ },
+ {
+  "slug": "cquotient.com",
+  "name": "CQuotient",
+  "category": "site_analytics",
+  "reach": 0.0017002339196675,
+  "rank": 128
+ },
+ {
+  "slug": "ad_lightning",
+  "name": "Ad Lightning",
+  "category": "advertising",
+  "reach": 0.0016962412899871,
+  "rank": 129
+ },
+ {
+  "slug": "twitter_analytics",
+  "name": "X Analytics",
+  "category": "advertising",
+  "reach": 0.0016795435476268,
+  "rank": 130
+ },
+ {
+  "slug": "kilkaya",
+  "name": "Kilkaya",
+  "category": "site_analytics",
+  "reach": 0.0016013778437968,
+  "rank": 131
+ },
+ {
+  "slug": "tapad",
+  "name": "Tapad",
+  "category": "advertising",
+  "reach": 0.0015977275249351,
+  "rank": 132
+ },
+ {
+  "slug": "branch_metrics",
+  "name": "Branch",
+  "category": "advertising",
+  "reach": 0.001584005196045,
+  "rank": 133
+ },
+ {
+  "slug": "nitropay",
+  "name": "NitroPay",
+  "category": "advertising",
+  "reach": 0.0015691266338872,
+  "rank": 134
+ },
+ {
+  "slug": "rakuten_globalmarket",
+  "name": "Rakuten",
+  "category": "advertising",
+  "reach": 0.0015679860960939,
+  "rank": 135
+ },
+ {
+  "slug": "1plusx",
+  "name": "1plusX",
+  "category": "site_analytics",
+  "reach": 0.0015648006622306,
+  "rank": 136
+ },
+ {
+  "slug": "beeswax",
+  "name": "Beeswax",
+  "category": "advertising",
+  "reach": 0.0015489190845298,
+  "rank": 137
+ },
+ {
+  "slug": "flashtalking",
+  "name": "Flashtalking",
+  "category": "advertising",
+  "reach": 0.0014647614465651,
+  "rank": 138
+ },
+ {
+  "slug": "hashtag_labs",
+  "name": "Hashtag Labs",
+  "category": "advertising",
+  "reach": 0.0014442960429882,
+  "rank": 139
+ },
+ {
+  "slug": "turn_inc.",
+  "name": "Turn Inc.",
+  "category": "advertising",
+  "reach": 0.0014334056260896,
+  "rank": 140
+ },
+ {
+  "slug": "smile_wanted",
+  "name": "Smile Wanted",
+  "category": "advertising",
+  "reach": 0.0014098616673549,
+  "rank": 141
+ },
+ {
+  "slug": "mediascope",
+  "name": "Mediascope",
+  "category": "site_analytics",
+  "reach": 0.0013984689952813,
+  "rank": 142
+ },
+ {
+  "slug": "adobe_advertising_cloud",
+  "name": "Adobe Advertising Cloud",
+  "category": "advertising",
+  "reach": 0.0013932005477678,
+  "rank": 143
+ },
+ {
+  "slug": "stickyads",
+  "name": "StickyAds",
+  "category": "advertising",
+  "reach": 0.0013708359918103,
+  "rank": 144
+ },
+ {
+  "slug": "kargo",
+  "name": "Kargo",
+  "category": "advertising",
+  "reach": 0.0013242114645322,
+  "rank": 145
+ },
+ {
+  "slug": "brightcove",
+  "name": "Brightcove",
+  "category": "site_analytics",
+  "reach": 0.0013179609287746,
+  "rank": 146
+ },
+ {
+  "slug": "temu",
+  "name": "Temu",
+  "category": "advertising",
+  "reach": 0.0013156185660981,
+  "rank": 147
+ },
+ {
+  "slug": "markmonitor",
+  "name": "MarkMonitor",
+  "category": "advertising",
+  "reach": 0.0012923190083191,
+  "rank": 148
+ },
+ {
+  "slug": "connectad",
+  "name": "ConnectAd",
+  "category": "advertising",
+  "reach": 0.0012921882127006,
+  "rank": 149
+ },
+ {
+  "slug": "addthis",
+  "name": "AddThis",
+  "category": "advertising",
+  "reach": 0.0012885483574885,
+  "rank": 150
+ },
+ {
+  "slug": "rise",
+  "name": "Rise",
+  "category": "advertising",
+  "reach": 0.0012499322590806,
+  "rank": 151
+ },
+ {
+  "slug": "digital_window",
+  "name": "Digital Window",
+  "category": "advertising",
+  "reach": 0.0012313577864456,
+  "rank": 152
+ },
+ {
+  "slug": "vntsm.com",
+  "name": "Venatus Media",
+  "category": "advertising",
+  "reach": 0.0012299840587496,
+  "rank": 153
+ },
+ {
+  "slug": "adman_media",
+  "name": "ADman Media",
+  "category": "advertising",
+  "reach": 0.0012230160155991,
+  "rank": 154
+ },
+ {
+  "slug": "skimlinks",
+  "name": "SkimLinks",
+  "category": "advertising",
+  "reach": 0.0012094625999077,
+  "rank": 155
+ },
+ {
+  "slug": "impact_radius",
+  "name": "Impact",
+  "category": "site_analytics",
+  "reach": 0.0011990430472357,
+  "rank": 156
+ },
+ {
+  "slug": "gfk",
+  "name": "GfK",
+  "category": "advertising",
+  "reach": 0.0011934591954307,
+  "rank": 157
+ },
+ {
+  "slug": "optable",
+  "name": "Optable",
+  "category": "advertising",
+  "reach": 0.0011778683577048,
+  "rank": 158
+ },
+ {
+  "slug": "hubvisor.io",
+  "name": "Hubvisor",
+  "category": "advertising",
+  "reach": 0.0011688135638865,
+  "rank": 159
+ },
+ {
+  "slug": "marketgid",
+  "name": "MarketGid",
+  "category": "advertising",
+  "reach": 0.0011506912703897,
+  "rank": 160
+ },
+ {
+  "slug": "gigya",
+  "name": "Gigya",
+  "category": "site_analytics",
+  "reach": 0.0011114226886964,
+  "rank": 161
+ },
+ {
+  "slug": "statcounter",
+  "name": "Statcounter",
+  "category": "site_analytics",
+  "reach": 0.0011090780838093,
+  "rank": 162
+ },
+ {
+  "slug": "intent_iq",
+  "name": "Intent IQ",
+  "category": "advertising",
+  "reach": 0.001108995122017,
+  "rank": 163
+ },
+ {
+  "slug": "adroll",
+  "name": "AdRoll",
+  "category": "advertising",
+  "reach": 0.0010882143141487,
+  "rank": 164
+ },
+ {
+  "slug": "google_website_optimizer",
+  "name": "Google Website Optimizer",
+  "category": "site_analytics",
+  "reach": 0.0010852224578008,
+  "rank": 165
+ },
+ {
+  "slug": "addefend",
+  "name": "AdDefend",
+  "category": "advertising",
+  "reach": 0.0010663856465252,
+  "rank": 166
+ },
+ {
+  "slug": "treasuredata",
+  "name": "Treasure Data",
+  "category": "site_analytics",
+  "reach": 0.0010624363662499,
+  "rank": 167
+ },
+ {
+  "slug": "ogury",
+  "name": "Ogury",
+  "category": "advertising",
+  "reach": 0.0010548584418154,
+  "rank": 168
+ },
+ {
+  "slug": "aaxads.com",
+  "name": "Acceptable Ads Exchange",
+  "category": "advertising",
+  "reach": 0.0010526580858103,
+  "rank": 169
+ },
+ {
+  "slug": "i-mobile",
+  "name": "i-mobile",
+  "category": "advertising",
+  "reach": 0.0010373445347956,
+  "rank": 170
+ },
+ {
+  "slug": "pulsepoint",
+  "name": "PulsePoint",
+  "category": "advertising",
+  "reach": 0.0010364341972908,
+  "rank": 171
+ },
+ {
+  "slug": "vg_wort",
+  "name": "VG Wort",
+  "category": "site_analytics",
+  "reach": 0.0010315237560703,
+  "rank": 172
+ },
+ {
+  "slug": "mediavine_exchange",
+  "name": "Mediavine Exchange",
+  "category": "advertising",
+  "reach": 0.0010206146540833,
+  "rank": 173
+ },
+ {
+  "slug": "smaato",
+  "name": "Smaato",
+  "category": "advertising",
+  "reach": 0.0010159792573635,
+  "rank": 174
+ },
+ {
+  "slug": "yieldmo",
+  "name": "Yieldmo",
+  "category": "advertising",
+  "reach": 0.0010021717244704,
+  "rank": 175
+ },
+ {
+  "slug": "wp.pl",
+  "name": "Wirtualna Polska",
+  "category": "advertising",
+  "reach": 0.0010004085995329,
+  "rank": 176
+ },
+ {
+  "slug": "blis",
+  "name": "Blis",
+  "category": "site_analytics",
+  "reach": 0.0009968360106389245,
+  "rank": 177
+ },
+ {
+  "slug": "dynamic_yield",
+  "name": "Dynamic Yield",
+  "category": "site_analytics",
+  "reach": 0.0009884598592297732,
+  "rank": 178
+ },
+ {
+  "slug": "adstir",
+  "name": "adstir",
+  "category": "advertising",
+  "reach": 0.0009799334797102228,
+  "rank": 179
+ },
+ {
+  "slug": "supership",
+  "name": "Supership",
+  "category": "advertising",
+  "reach": 0.0009788871147621717,
+  "rank": 180
+ },
+ {
+  "slug": "salesforce.com",
+  "name": "Salesforce",
+  "category": "site_analytics",
+  "reach": 0.0009696066050764898,
+  "rank": 181
+ },
+ {
+  "slug": "whos.amung.us",
+  "name": "Whos.amung.us",
+  "category": "site_analytics",
+  "reach": 0.0009618709784962526,
+  "rank": 182
+ },
+ {
+  "slug": "bluetriangle",
+  "name": "Blue Triangle",
+  "category": "site_analytics",
+  "reach": 0.000945351118177124,
+  "rank": 183
+ },
+ {
+  "slug": "adyoulike",
+  "name": "Adyoulike",
+  "category": "advertising",
+  "reach": 0.0009420393731165412,
+  "rank": 184
+ },
+ {
+  "slug": "conversant",
+  "name": "Epsilon",
+  "category": "advertising",
+  "reach": 0.0009401813279302156,
+  "rank": 185
+ },
+ {
+  "slug": "mail.ru_banner",
+  "name": "Mail.Ru Banner Network",
+  "category": "advertising",
+  "reach": 0.0009396641246844646,
+  "rank": 186
+ },
+ {
+  "slug": "yieldlab",
+  "name": "Yieldlab",
+  "category": "advertising",
+  "reach": 0.000939447377659511,
+  "rank": 187
+ },
+ {
+  "slug": "tvsquared.com",
+  "name": "TVSquared",
+  "category": "advertising",
+  "reach": 0.0009377119066528144,
+  "rank": 188
+ },
+ {
+  "slug": "marketo",
+  "name": "Adobe Marketo Engage",
+  "category": "advertising",
+  "reach": 0.0009340877469148848,
+  "rank": 189
+ },
+ {
+  "slug": "bombora",
+  "name": "Bombora",
+  "category": "site_analytics",
+  "reach": 0.0009203138471808568,
+  "rank": 190
+ },
+ {
+  "slug": "clever_push",
+  "name": "Clever Push",
+  "category": "site_analytics",
+  "reach": 0.0008989620230123336,
+  "rank": 191
+ },
+ {
+  "slug": "adscale",
+  "name": "AdScale",
+  "category": "advertising",
+  "reach": 0.0008983356988505714,
+  "rank": 192
+ },
+ {
+  "slug": "mparticle",
+  "name": "mParticle",
+  "category": "site_analytics",
+  "reach": 0.0008961689760045707,
+  "rank": 193
+ },
+ {
+  "slug": "convert",
+  "name": "Convert",
+  "category": "site_analytics",
+  "reach": 0.0008947294767974657,
+  "rank": 194
+ },
+ {
+  "slug": "revcontent",
+  "name": "RevContent",
+  "category": "advertising",
+  "reach": 0.000865775811281349,
+  "rank": 195
+ },
+ {
+  "slug": "arcpublishing",
+  "name": "Arc Publishing",
+  "category": "site_analytics",
+  "reach": 0.0008634596077284838,
+  "rank": 196
+ },
+ {
+  "slug": "platformone",
+  "name": "Platform One",
+  "category": "advertising",
+  "reach": 0.0008576874102329116,
+  "rank": 197
+ },
+ {
+  "slug": "adman",
+  "name": "ADMAN",
+  "category": "advertising",
+  "reach": 0.0008552179889555104,
+  "rank": 198
+ },
+ {
+  "slug": "inmobi",
+  "name": "InMobi",
+  "category": "advertising",
+  "reach": 0.0008439449014473251,
+  "rank": 199
+ },
+ {
+  "slug": "unifiedid",
+  "name": "Unified ID 2.0",
+  "category": "advertising",
+  "reach": 0.0008214824356267987,
+  "rank": 200
+ },
+ {
+  "slug": "adition",
+  "name": "Adition",
+  "category": "advertising",
+  "reach": 0.0008125958076037051,
+  "rank": 201
+ },
+ {
+  "slug": "siteimprove_analytics",
+  "name": "Siteimprove Analytics",
+  "category": "site_analytics",
+  "reach": 0.0008087003403828165,
+  "rank": 202
+ },
+ {
+  "slug": "itunes_link_maker",
+  "name": "iTunes Link Maker",
+  "category": "advertising",
+  "reach": 0.0008027876310227919,
+  "rank": 203
+ },
+ {
+  "slug": "semasio",
+  "name": "Semasio",
+  "category": "advertising",
+  "reach": 0.0008009191221869858,
+  "rank": 204
+ },
+ {
+  "slug": "airbrake",
+  "name": "Airbrake",
+  "category": "advertising",
+  "reach": 0.0007998361344657525,
+  "rank": 205
+ },
+ {
+  "slug": "conviva",
+  "name": "Conviva",
+  "category": "site_analytics",
+  "reach": 0.0007972717929394923,
+  "rank": 206
+ },
+ {
+  "slug": "valuecommerce",
+  "name": "ValueCommerce",
+  "category": "advertising",
+  "reach": 0.000796629025899975,
+  "rank": 207
+ },
+ {
+  "slug": "zoominfo",
+  "name": "ZoomInfo",
+  "category": "advertising",
+  "reach": 0.0007958950756292703,
+  "rank": 208
+ },
+ {
+  "slug": "ispot.tv",
+  "name": "iSpot.tv",
+  "category": "advertising",
+  "reach": 0.000794389804911145,
+  "rank": 209
+ },
+ {
+  "slug": "the_weather_company",
+  "name": "The Weather Company",
+  "category": "advertising",
+  "reach": 0.0007911565372216661,
+  "rank": 210
+ },
+ {
+  "slug": "nexx360",
+  "name": "nexx360",
+  "category": "advertising",
+  "reach": 0.0007852901668807694,
+  "rank": 211
+ },
+ {
+  "slug": "quora.com",
+  "name": "Quora",
+  "category": "advertising",
+  "reach": 0.0007813543398690275,
+  "rank": 212
+ },
+ {
+  "slug": "digiteka",
+  "name": "Digiteka",
+  "category": "advertising",
+  "reach": 0.0007775844364419051,
+  "rank": 213
+ },
+ {
+  "slug": "exelate",
+  "name": "eXelate",
+  "category": "advertising",
+  "reach": 0.0007757166750096333,
+  "rank": 214
+ },
+ {
+  "slug": "trueanthem",
+  "name": "True Anthem",
+  "category": "advertising",
+  "reach": 0.000773221842012065,
+  "rank": 215
+ },
+ {
+  "slug": "sitescout",
+  "name": "SiteScout by Centro",
+  "category": "advertising",
+  "reach": 0.0007674077899185709,
+  "rank": 216
+ },
+ {
+  "slug": "ziff_davis",
+  "name": "Ziff Davis",
+  "category": "advertising",
+  "reach": 0.000764999655730984,
+  "rank": 217
+ },
+ {
+  "slug": "loopme",
+  "name": "LoopMe",
+  "category": "advertising",
+  "reach": 0.0007647268534409563,
+  "rank": 218
+ },
+ {
+  "slug": "insider",
+  "name": "Insider",
+  "category": "site_analytics",
+  "reach": 0.0007636864677211795,
+  "rank": 219
+ },
+ {
+  "slug": "dailymotion_advertising",
+  "name": "Dailymotion Advertising",
+  "category": "advertising",
+  "reach": 0.000744394487693249,
+  "rank": 220
+ },
+ {
+  "slug": "yieldlove",
+  "name": "Yieldlove",
+  "category": "advertising",
+  "reach": 0.0007405797400540672,
+  "rank": 221
+ },
+ {
+  "slug": "anonymousads",
+  "name": "AnonymousAds",
+  "category": "advertising",
+  "reach": 0.0007344330933877996,
+  "rank": 222
+ },
+ {
+  "slug": "blueconic.net",
+  "name": "BlueConic Plugin",
+  "category": "site_analytics",
+  "reach": 0.0007322282529615484,
+  "rank": 223
+ },
+ {
+  "slug": "demandbase",
+  "name": "Demandbase",
+  "category": "advertising",
+  "reach": 0.0007310959366070499,
+  "rank": 224
+ },
+ {
+  "slug": "ninja_access_analysis",
+  "name": "Ninja Access Analysis",
+  "category": "site_analytics",
+  "reach": 0.0007268895495158833,
+  "rank": 225
+ },
+ {
+  "slug": "bidtellect",
+  "name": "Bidtellect",
+  "category": "advertising",
+  "reach": 0.0007183437375044406,
+  "rank": 226
+ },
+ {
+  "slug": "active_campaign",
+  "name": "Active Campaign",
+  "category": "site_analytics",
+  "reach": 0.0007095086803252151,
+  "rank": 227
+ },
+ {
+  "slug": "spotify_ad_analytics",
+  "name": "Spotify Ad Analytics",
+  "category": "site_analytics",
+  "reach": 0.0007075041440461623,
+  "rank": 228
+ },
+ {
+  "slug": "deepintent.com",
+  "name": "DeepIntent",
+  "category": "advertising",
+  "reach": 0.0007072395631950122,
+  "rank": 229
+ },
+ {
+  "slug": "ozone",
+  "name": "Ozone",
+  "category": "advertising",
+  "reach": 0.0007031161378961554,
+  "rank": 230
+ },
+ {
+  "slug": "pingdom",
+  "name": "Pingdom",
+  "category": "site_analytics",
+  "reach": 0.0007027910173587252,
+  "rank": 231
+ },
+ {
+  "slug": "maze",
+  "name": "Maze",
+  "category": "site_analytics",
+  "reach": 0.000700653443250563,
+  "rank": 232
+ },
+ {
+  "slug": "ladsp.com",
+  "name": "Logicad",
+  "category": "advertising",
+  "reach": 0.0006994979573865005,
+  "rank": 233
+ },
+ {
+  "slug": "dstillery",
+  "name": "Dstillery",
+  "category": "advertising",
+  "reach": 0.0006985622081615288,
+  "rank": 234
+ },
+ {
+  "slug": "adsco.re",
+  "name": "Adscore",
+  "category": "advertising",
+  "reach": 0.0006914469265147793,
+  "rank": 235
+ },
+ {
+  "slug": "heap",
+  "name": "Heap",
+  "category": "site_analytics",
+  "reach": 0.0006865611496109135,
+  "rank": 236
+ },
+ {
+  "slug": "bigcommerce.com",
+  "name": "BigCommerce",
+  "category": "site_analytics",
+  "reach": 0.000679128221462077,
+  "rank": 237
+ },
+ {
+  "slug": "adocean",
+  "name": "AdOcean",
+  "category": "advertising",
+  "reach": 0.0006764943714071247,
+  "rank": 238
+ },
+ {
+  "slug": "signifyd",
+  "name": "Signifyd",
+  "category": "site_analytics",
+  "reach": 0.000667494138046814,
+  "rank": 239
+ },
+ {
+  "slug": "adswizz",
+  "name": "AdsWizz",
+  "category": "advertising",
+  "reach": 0.0006622996834832731,
+  "rank": 240
+ },
+ {
+  "slug": "monetate",
+  "name": "Monetate",
+  "category": "site_analytics",
+  "reach": 0.0006615141623687002,
+  "rank": 241
+ },
+ {
+  "slug": "cpx.to",
+  "name": "Captify",
+  "category": "advertising",
+  "reach": 0.0006579804384584237,
+  "rank": 242
+ },
+ {
+  "slug": "cool_publisher_experiences",
+  "name": "COOL Publisher Experiences",
+  "category": "advertising",
+  "reach": 0.0006420338366501204,
+  "rank": 243
+ },
+ {
+  "slug": "eyeota",
+  "name": "Eyeota",
+  "category": "advertising",
+  "reach": 0.000639937369736346,
+  "rank": 244
+ },
+ {
+  "slug": "simpli.fi",
+  "name": "Simpli.fi",
+  "category": "advertising",
+  "reach": 0.0006164397500207831,
+  "rank": 245
+ },
+ {
+  "slug": "embed.ly",
+  "name": "Embedly",
+  "category": "site_analytics",
+  "reach": 0.000608855098954479,
+  "rank": 246
+ },
+ {
+  "slug": "videoadex.com",
+  "name": "VideoAdX",
+  "category": "advertising",
+  "reach": 0.0006036105683541385,
+  "rank": 247
+ },
+ {
+  "slug": "digital.gov",
+  "name": "Digital.gov",
+  "category": "site_analytics",
+  "reach": 0.0005935310842902662,
+  "rank": 248
+ },
+ {
+  "slug": "quantcount",
+  "name": "Quantcount",
+  "category": "site_analytics",
+  "reach": 0.0005784880933549587,
+  "rank": 249
+ },
+ {
+  "slug": "sprinklr",
+  "name": "Sprinklr",
+  "category": "site_analytics",
+  "reach": 0.000574696515225341,
+  "rank": 250
+ },
+ {
+  "slug": "dianomi",
+  "name": "Dianomi",
+  "category": "advertising",
+  "reach": 0.0005737749666675214,
+  "rank": 251
+ },
+ {
+  "slug": "weborama",
+  "name": "Weborama",
+  "category": "advertising",
+  "reach": 0.0005731531269269651,
+  "rank": 252
+ },
+ {
+  "slug": "netsprint_audience",
+  "name": "Netsprint Audience",
+  "category": "site_analytics",
+  "reach": 0.0005728810720404718,
+  "rank": 253
+ },
+ {
+  "slug": "comscore",
+  "name": "ComScore, Inc.",
+  "category": "site_analytics",
+  "reach": 0.0005713242304784781,
+  "rank": 254
+ },
+ {
+  "slug": "movable_ink",
+  "name": "Movable Ink",
+  "category": "site_analytics",
+  "reach": 0.0005710783347156861,
+  "rank": 255
+ },
+ {
+  "slug": "media_innovation_group",
+  "name": "Xaxis",
+  "category": "advertising",
+  "reach": 0.0005632193865522857,
+  "rank": 256
+ },
+ {
+  "slug": "scarabresearch",
+  "name": "Scarab Research",
+  "category": "advertising",
+  "reach": 0.000556296187613857,
+  "rank": 257
+ },
+ {
+  "slug": "samba.tv",
+  "name": "Samba TV",
+  "category": "advertising",
+  "reach": 0.0005553985559691358,
+  "rank": 258
+ },
+ {
+  "slug": "springserve",
+  "name": "SpringServe",
+  "category": "advertising",
+  "reach": 0.000554949366445008,
+  "rank": 259
+ },
+ {
+  "slug": "adelphic",
+  "name": "Adelphic",
+  "category": "site_analytics",
+  "reach": 0.000553208663613571,
+  "rank": 260
+ },
+ {
+  "slug": "nakanohito.jp",
+  "name": "Nakanohito",
+  "category": "advertising",
+  "reach": 0.0005499649322746117,
+  "rank": 261
+ },
+ {
+  "slug": "clicktale",
+  "name": "ClickTale",
+  "category": "site_analytics",
+  "reach": 0.0005491427883868571,
+  "rank": 262
+ },
+ {
+  "slug": "airbnb",
+  "name": "Airbnb",
+  "category": "site_analytics",
+  "reach": 0.0005480306519277852,
+  "rank": 263
+ },
+ {
+  "slug": "neodata",
+  "name": "Neodata",
+  "category": "advertising",
+  "reach": 0.0005476995521620804,
+  "rank": 264
+ },
+ {
+  "slug": "a8",
+  "name": "A8",
+  "category": "advertising",
+  "reach": 0.0005462480944984263,
+  "rank": 265
+ },
+ {
+  "slug": "zephr",
+  "name": "Zephr",
+  "category": "site_analytics",
+  "reach": 0.0005405244782325851,
+  "rank": 266
+ },
+ {
+  "slug": "sonobi",
+  "name": "Sonobi",
+  "category": "advertising",
+  "reach": 0.0005336805040687945,
+  "rank": 267
+ },
+ {
+  "slug": "roq.ad",
+  "name": "Roq.ad",
+  "category": "advertising",
+  "reach": 0.0005318329225319496,
+  "rank": 268
+ },
+ {
+  "slug": "moat",
+  "name": "Moat",
+  "category": "advertising",
+  "reach": 0.0005312484529681094,
+  "rank": 269
+ },
+ {
+  "slug": "mediarithmics.com",
+  "name": "Mediarithmics",
+  "category": "advertising",
+  "reach": 0.000530197603598852,
+  "rank": 270
+ },
+ {
+  "slug": "adgear",
+  "name": "AdGear",
+  "category": "advertising",
+  "reach": 0.0005220359570040511,
+  "rank": 271
+ },
+ {
+  "slug": "mediamath",
+  "name": "MediaMath",
+  "category": "advertising",
+  "reach": 0.0005208423535597382,
+  "rank": 272
+ },
+ {
+  "slug": "viglink",
+  "name": "VigLink",
+  "category": "advertising",
+  "reach": 0.0005123697870946591,
+  "rank": 273
+ },
+ {
+  "slug": "mediago",
+  "name": "MediaGo",
+  "category": "advertising",
+  "reach": 0.0005096873558099759,
+  "rank": 274
+ },
+ {
+  "slug": "rollbar",
+  "name": "Rollbar",
+  "category": "site_analytics",
+  "reach": 0.0004998604941407046,
+  "rank": 275
+ },
+ {
+  "slug": "performax",
+  "name": "Performax",
+  "category": "advertising",
+  "reach": 0.0004983955832134326,
+  "rank": 276
+ },
+ {
+  "slug": "adriver",
+  "name": "AdRiver",
+  "category": "advertising",
+  "reach": 0.0004976945186982381,
+  "rank": 277
+ },
+ {
+  "slug": "trackjs",
+  "name": "TrackJS",
+  "category": "site_analytics",
+  "reach": 0.0004955240588345658,
+  "rank": 278
+ },
+ {
+  "slug": "confirmit",
+  "name": "Confirmit",
+  "category": "advertising",
+  "reach": 0.0004936622766305687,
+  "rank": 279
+ },
+ {
+  "slug": "queue-it",
+  "name": "Queue-it",
+  "category": "site_analytics",
+  "reach": 0.000489523155857491,
+  "rank": 280
+ },
+ {
+  "slug": "seznam",
+  "name": "Seznam",
+  "category": "site_analytics",
+  "reach": 0.0004859296396644688,
+  "rank": 281
+ },
+ {
+  "slug": "zemanta",
+  "name": "Zemanta",
+  "category": "advertising",
+  "reach": 0.0004836687439731434,
+  "rank": 282
+ },
+ {
+  "slug": "matomo",
+  "name": "Matomo",
+  "category": "site_analytics",
+  "reach": 0.0004833914572619098,
+  "rank": 283
+ },
+ {
+  "slug": "undertone",
+  "name": "Undertone",
+  "category": "advertising",
+  "reach": 0.0004792979281044258,
+  "rank": 284
+ },
+ {
+  "slug": "merkle_rkg",
+  "name": "Merkle",
+  "category": "advertising",
+  "reach": 0.0004790505375345651,
+  "rank": 285
+ },
+ {
+  "slug": "adrecover",
+  "name": "AdRecover",
+  "category": "advertising",
+  "reach": 0.0004752342950883148,
+  "rank": 286
+ },
+ {
+  "slug": "logly",
+  "name": "logly",
+  "category": "site_analytics",
+  "reach": 0.00046832230720290094,
+  "rank": 287
+ },
+ {
+  "slug": "aniview.com",
+  "name": "Aniview",
+  "category": "advertising",
+  "reach": 0.0004643902172088306,
+  "rank": 288
+ },
+ {
+  "slug": "internet_billboard",
+  "name": "Internet BillBoard",
+  "category": "advertising",
+  "reach": 0.0004515199283477984,
+  "rank": 289
+ },
+ {
+  "slug": "receptiv",
+  "name": "Receptiv",
+  "category": "advertising",
+  "reach": 0.0004438949174906409,
+  "rank": 290
+ },
+ {
+  "slug": "eskimi",
+  "name": "Eskimi",
+  "category": "advertising",
+  "reach": 0.0004430279293908269,
+  "rank": 291
+ },
+ {
+  "slug": "acceleration_partners",
+  "name": "Acceleration Partners",
+  "category": "advertising",
+  "reach": 0.0004423306018933041,
+  "rank": 292
+ },
+ {
+  "slug": "newscgp.com",
+  "name": "News Connect",
+  "category": "advertising",
+  "reach": 0.0004380479796416366,
+  "rank": 293
+ },
+ {
+  "slug": "sirdata",
+  "name": "Sirdata",
+  "category": "advertising",
+  "reach": 0.0004364388198322404,
+  "rank": 294
+ },
+ {
+  "slug": "assertive_communications",
+  "name": "Assertive Communications",
+  "category": "advertising",
+  "reach": 0.0004355695895218234,
+  "rank": 295
+ },
+ {
+  "slug": "rambler",
+  "name": "Rambler",
+  "category": "site_analytics",
+  "reach": 0.0004336061604371584,
+  "rank": 296
+ },
+ {
+  "slug": "stroer_digital_media",
+  "name": "Stroer Digital Media",
+  "category": "advertising",
+  "reach": 0.00043106050399925616,
+  "rank": 297
+ },
+ {
+  "slug": "decibel_insight",
+  "name": "Decibel Insight",
+  "category": "site_analytics",
+  "reach": 0.00042623526678167055,
+  "rank": 298
+ },
+ {
+  "slug": "snowplow",
+  "name": "Snowplow",
+  "category": "site_analytics",
+  "reach": 0.0004186991969450975,
+  "rank": 299
+ },
+ {
+  "slug": "mouseflow",
+  "name": "Mouseflow",
+  "category": "site_analytics",
+  "reach": 0.00041128121686694735,
+  "rank": 300
+ },
+ {
+  "slug": "pubnation",
+  "name": "PubNation",
+  "category": "advertising",
+  "reach": 0.0004036823651334912,
+  "rank": 301
+ },
+ {
+  "slug": "the_adex",
+  "name": "The ADEX",
+  "category": "advertising",
+  "reach": 0.0004034215213000127,
+  "rank": 302
+ },
+ {
+  "slug": "accesstrade",
+  "name": "AccessTrade",
+  "category": "advertising",
+  "reach": 0.0004016045833080748,
+  "rank": 303
+ },
+ {
+  "slug": "alexa_metrics",
+  "name": "Alexa Metrics",
+  "category": "site_analytics",
+  "reach": 0.00040105225209621055,
+  "rank": 304
+ },
+ {
+  "slug": "digioh",
+  "name": "Digioh",
+  "category": "advertising",
+  "reach": 0.0003994034798994953,
+  "rank": 305
+ },
+ {
+  "slug": "opta.net",
+  "name": "Opta",
+  "category": "site_analytics",
+  "reach": 0.0003945984225773364,
+  "rank": 306
+ },
+ {
+  "slug": "tribal_fusion",
+  "name": "Tribal Fusion",
+  "category": "advertising",
+  "reach": 0.0003933853866411311,
+  "rank": 307
+ },
+ {
+  "slug": "fout.jp",
+  "name": "FreakOut",
+  "category": "advertising",
+  "reach": 0.0003870055500721548,
+  "rank": 308
+ },
+ {
+  "slug": "rtmark.net",
+  "name": "Advertising Technologies Ltd",
+  "category": "advertising",
+  "reach": 0.0003863762362962553,
+  "rank": 309
+ },
+ {
+  "slug": "clicky",
+  "name": "Clicky",
+  "category": "site_analytics",
+  "reach": 0.0003822916759811832,
+  "rank": 310
+ },
+ {
+  "slug": "claritas",
+  "name": "Claritas",
+  "category": "advertising",
+  "reach": 0.0003763969043059822,
+  "rank": 311
+ },
+ {
+  "slug": "ipinfo",
+  "name": "Ipinfo",
+  "category": "site_analytics",
+  "reach": 0.00037496562653775473,
+  "rank": 312
+ },
+ {
+  "slug": "izooto",
+  "name": "iZooto",
+  "category": "site_analytics",
+  "reach": 0.0003747914815142576,
+  "rank": 313
+ },
+ {
+  "slug": "acuity_ads",
+  "name": "Acuity Ads",
+  "category": "advertising",
+  "reach": 0.00037375034839094647,
+  "rank": 314
+ },
+ {
+  "slug": "infolinks",
+  "name": "InfoLinks",
+  "category": "advertising",
+  "reach": 0.0003733534771142213,
+  "rank": 315
+ },
+ {
+  "slug": "hybrid.ai",
+  "name": "Hybrid.ai",
+  "category": "advertising",
+  "reach": 0.00037189753502936114,
+  "rank": 316
+ },
+ {
+  "slug": "xplosion",
+  "name": "xplosion",
+  "category": "advertising",
+  "reach": 0.000371338477185688,
+  "rank": 317
+ },
+ {
+  "slug": "sales_manago",
+  "name": "SALESmanago",
+  "category": "site_analytics",
+  "reach": 0.0003708526648883784,
+  "rank": 318
+ },
+ {
+  "slug": "mediav",
+  "name": "MediaV",
+  "category": "advertising",
+  "reach": 0.0003693309512924979,
+  "rank": 319
+ },
+ {
+  "slug": "buysellads",
+  "name": "BuySellAds",
+  "category": "advertising",
+  "reach": 0.0003677001167806064,
+  "rank": 320
+ },
+ {
+  "slug": "turner",
+  "name": "Warner Media",
+  "category": "site_analytics",
+  "reach": 0.0003661126316737056,
+  "rank": 321
+ },
+ {
+  "slug": "yottaa",
+  "name": "Yottaa",
+  "category": "site_analytics",
+  "reach": 0.0003625041674099969,
+  "rank": 322
+ },
+ {
+  "slug": "columbia_online",
+  "name": "Columbia Online",
+  "category": "advertising",
+  "reach": 0.000361394273161528,
+  "rank": 323
+ },
+ {
+  "slug": "seeding_alliance",
+  "name": "Seeding Alliance",
+  "category": "advertising",
+  "reach": 0.00035052627836894555,
+  "rank": 324
+ },
+ {
+  "slug": "ipapi",
+  "name": "ipapi",
+  "category": "site_analytics",
+  "reach": 0.00034812636562023627,
+  "rank": 325
+ },
+ {
+  "slug": "adjust",
+  "name": "Adjust",
+  "category": "site_analytics",
+  "reach": 0.0003476046779532792,
+  "rank": 326
+ },
+ {
+  "slug": "shogun_analytics",
+  "name": "Shogun Analytics",
+  "category": "site_analytics",
+  "reach": 0.0003448639491929188,
+  "rank": 327
+ },
+ {
+  "slug": "eloqua",
+  "name": "Eloqua",
+  "category": "advertising",
+  "reach": 0.0003421815179082356,
+  "rank": 328
+ },
+ {
+  "slug": "delivrai",
+  "name": "Delivr.ai",
+  "category": "advertising",
+  "reach": 0.0003387359876150092,
+  "rank": 329
+ },
+ {
+  "slug": "6sense",
+  "name": "6Sense",
+  "category": "site_analytics",
+  "reach": 0.0003367262195112162,
+  "rank": 330
+ },
+ {
+  "slug": "cnzz.com",
+  "name": "Umeng",
+  "category": "site_analytics",
+  "reach": 0.0003363794242712906,
+  "rank": 331
+ },
+ {
+  "slug": "varify",
+  "name": "Varify",
+  "category": "site_analytics",
+  "reach": 0.00033434798146500224,
+  "rank": 332
+ },
+ {
+  "slug": "tradedoubler",
+  "name": "TradeDoubler",
+  "category": "advertising",
+  "reach": 0.0003298523492060528,
+  "rank": 333
+ },
+ {
+  "slug": "adotmob.com",
+  "name": "Adotmob",
+  "category": "advertising",
+  "reach": 0.00032943978245510684,
+  "rank": 334
+ },
+ {
+  "slug": "kenshoo",
+  "name": "Kenshoo",
+  "category": "site_analytics",
+  "reach": 0.0003261676497818432,
+  "rank": 335
+ },
+ {
+  "slug": "sendinblue",
+  "name": "sendinblue",
+  "category": "advertising",
+  "reach": 0.00032571920766124977,
+  "rank": 336
+ },
+ {
+  "slug": "gainsight_px",
+  "name": "Gainsight PX",
+  "category": "site_analytics",
+  "reach": 0.00031976165408916565,
+  "rank": 337
+ },
+ {
+  "slug": "adlabs",
+  "name": "AdLabs",
+  "category": "advertising",
+  "reach": 0.00031744545053630045,
+  "rank": 338
+ },
+ {
+  "slug": "catchpoint",
+  "name": "Catchpoint",
+  "category": "site_analytics",
+  "reach": 0.00031277417844678527,
+  "rank": 339
+ },
+ {
+  "slug": "bloomreach",
+  "name": "BloomReach",
+  "category": "advertising",
+  "reach": 0.00031197221445445727,
+  "rank": 340
+ },
+ {
+  "slug": "bluecore",
+  "name": "Bluecore",
+  "category": "advertising",
+  "reach": 0.00030995945673652697,
+  "rank": 341
+ },
+ {
+  "slug": "get_site_control",
+  "name": "Get Site Control",
+  "category": "advertising",
+  "reach": 0.0003072463819069366,
+  "rank": 342
+ },
+ {
+  "slug": "webtrekk",
+  "name": "Mapp Digital Analytics",
+  "category": "site_analytics",
+  "reach": 0.0003040146090245264,
+  "rank": 343
+ },
+ {
+  "slug": "yandex_direct",
+  "name": "Yandex.Direct",
+  "category": "site_analytics",
+  "reach": 0.0002993029771441578,
+  "rank": 344
+ },
+ {
+  "slug": "merchant_center_analytics",
+  "name": "Merchant Center Analytics",
+  "category": "site_analytics",
+  "reach": 0.0002942893942359229,
+  "rank": 345
+ },
+ {
+  "slug": "myfonts",
+  "name": "MyFonts",
+  "category": "site_analytics",
+  "reach": 0.0002941100173876855,
+  "rank": 346
+ },
+ {
+  "slug": "first_impression",
+  "name": "First Impression",
+  "category": "advertising",
+  "reach": 0.0002930883167562668,
+  "rank": 347
+ },
+ {
+  "slug": "wysistat.com",
+  "name": "WysiStat",
+  "category": "site_analytics",
+  "reach": 0.0002904679199649323,
+  "rank": 348
+ },
+ {
+  "slug": "qualaroo",
+  "name": "Qualaroo",
+  "category": "site_analytics",
+  "reach": 0.00028968763067509966,
+  "rank": 349
+ },
+ {
+  "slug": "streamrail.com",
+  "name": "StreamRail",
+  "category": "advertising",
+  "reach": 0.0002868400232093312,
+  "rank": 350
+ },
+ {
+  "slug": "sublime_skinz",
+  "name": "Azerion",
+  "category": "advertising",
+  "reach": 0.00028218967841877707,
+  "rank": 351
+ },
+ {
+  "slug": "mntn",
+  "name": "MNTN",
+  "category": "site_analytics",
+  "reach": 0.00027774113258249,
+  "rank": 352
+ },
+ {
+  "slug": "shopify_stats",
+  "name": "Shopify Stats",
+  "category": "site_analytics",
+  "reach": 0.0002755400291739104,
+  "rank": 353
+ },
+ {
+  "slug": "cognitiv",
+  "name": "Cognitiv",
+  "category": "advertising",
+  "reach": 0.00027546827843461544,
+  "rank": 354
+ },
+ {
+  "slug": "51.la",
+  "name": "51.La",
+  "category": "site_analytics",
+  "reach": 0.00027317075997010826,
+  "rank": 355
+ },
+ {
+  "slug": "smartclip",
+  "name": "SmartClip",
+  "category": "advertising",
+  "reach": 0.00026796509435355253,
+  "rank": 356
+ },
+ {
+  "slug": "alliance_gravity",
+  "name": "Alliance Gravity",
+  "category": "advertising",
+  "reach": 0.0002674277112123748,
+  "rank": 357
+ },
+ {
+  "slug": "clickonometrics",
+  "name": "Clickonometrics",
+  "category": "advertising",
+  "reach": 0.00026647701391671656,
+  "rank": 358
+ },
+ {
+  "slug": "onthe.io",
+  "name": "OnThe.io",
+  "category": "site_analytics",
+  "reach": 0.0002637422643846308,
+  "rank": 359
+ },
+ {
+  "slug": "crimtan",
+  "name": "Crimtan",
+  "category": "advertising",
+  "reach": 0.00025859190662961493,
+  "rank": 360
+ },
+ {
+  "slug": "crimsonhexagon_com",
+  "name": "Brandwatch",
+  "category": "site_analytics",
+  "reach": 0.0002573325316742816,
+  "rank": 361
+ },
+ {
+  "slug": "granify",
+  "name": "Granify",
+  "category": "site_analytics",
+  "reach": 0.0002548773110640325,
+  "rank": 362
+ },
+ {
+  "slug": "innovid",
+  "name": "Innovid",
+  "category": "advertising",
+  "reach": 0.00025131443841591743,
+  "rank": 363
+ },
+ {
+  "slug": "adtheorent",
+  "name": "Adtheorent",
+  "category": "advertising",
+  "reach": 0.0002512337188342106,
+  "rank": 364
+ },
+ {
+  "slug": "fit_analytics",
+  "name": "Fit Analytics",
+  "category": "site_analytics",
+  "reach": 0.0002502538728007139,
+  "rank": 365
+ },
+ {
+  "slug": "dataxu",
+  "name": "DataXu",
+  "category": "advertising",
+  "reach": 0.00024404743385170045,
+  "rank": 366
+ },
+ {
+  "slug": "trustx",
+  "name": "Trustx",
+  "category": "advertising",
+  "reach": 0.00024155334825766648,
+  "rank": 367
+ },
+ {
+  "slug": "securedvisit",
+  "name": "SecuredVisit",
+  "category": "advertising",
+  "reach": 0.0002405241735909045,
+  "rank": 368
+ },
+ {
+  "slug": "spotxchange",
+  "name": "SpotX",
+  "category": "advertising",
+  "reach": 0.00023862352640312252,
+  "rank": 369
+ },
+ {
+  "slug": "adverticum",
+  "name": "Adverticum",
+  "category": "advertising",
+  "reach": 0.000237129466738012,
+  "rank": 370
+ },
+ {
+  "slug": "moneytizer",
+  "name": "Moneytizer",
+  "category": "advertising",
+  "reach": 0.000235256473481,
+  "rank": 371
+ },
+ {
+  "slug": "nextmillmedia",
+  "name": "Next Millennium Media",
+  "category": "advertising",
+  "reach": 0.00022851863061908328,
+  "rank": 372
+ },
+ {
+  "slug": "admixer.net",
+  "name": "Admixer",
+  "category": "advertising",
+  "reach": 0.0002224803574652924,
+  "rank": 373
+ },
+ {
+  "slug": "invoca",
+  "name": "Invoca",
+  "category": "site_analytics",
+  "reach": 0.000220926505517436,
+  "rank": 374
+ },
+ {
+  "slug": "cpmstar",
+  "name": "CPMStar",
+  "category": "advertising",
+  "reach": 0.0002195580096460917,
+  "rank": 375
+ },
+ {
+  "slug": "narrative_io",
+  "name": "Narrative",
+  "category": "site_analytics",
+  "reach": 0.0002163105412894607,
+  "rank": 376
+ },
+ {
+  "slug": "adtelligent",
+  "name": "Adtelligent",
+  "category": "advertising",
+  "reach": 0.00021407281510769932,
+  "rank": 377
+ },
+ {
+  "slug": "enreach",
+  "name": "Enreach",
+  "category": "advertising",
+  "reach": 0.00021392109219023188,
+  "rank": 378
+ },
+ {
+  "slug": "kount",
+  "name": "Kount",
+  "category": "site_analytics",
+  "reach": 0.0002132835569754549,
+  "rank": 379
+ },
+ {
+  "slug": "singular",
+  "name": "Singular",
+  "category": "site_analytics",
+  "reach": 0.0002035120031677234,
+  "rank": 380
+ },
+ {
+  "slug": "sojern",
+  "name": "Sojern",
+  "category": "advertising",
+  "reach": 0.00020061730927929263,
+  "rank": 381
+ },
+ {
+  "slug": "arkoselabs.com",
+  "name": "Arkose Labs",
+  "category": "site_analytics",
+  "reach": 0.00020032059007616665,
+  "rank": 382
+ },
+ {
+  "slug": "pardot",
+  "name": "Marketing Cloud Account Engagement",
+  "category": "site_analytics",
+  "reach": 0.0001977211205837932,
+  "rank": 383
+ },
+ {
+  "slug": "onaudience",
+  "name": "OnAudience",
+  "category": "advertising",
+  "reach": 0.0001974916676987562,
+  "rank": 384
+ },
+ {
+  "slug": "vidazoo.com",
+  "name": "Vidazoo",
+  "category": "advertising",
+  "reach": 0.0001971381458270217,
+  "rank": 385
+ },
+ {
+  "slug": "bluekai",
+  "name": "BlueKai",
+  "category": "advertising",
+  "reach": 0.0001947494441313272,
+  "rank": 386
+ },
+ {
+  "slug": "betweendigital.com",
+  "name": "Between Digital",
+  "category": "advertising",
+  "reach": 0.00018816257678334365,
+  "rank": 387
+ },
+ {
+  "slug": "smi2.ru",
+  "name": "smi2.ru",
+  "category": "site_analytics",
+  "reach": 0.00018621484317289937,
+  "rank": 388
+ },
+ {
+  "slug": "krux_digital",
+  "name": "Salesforce DMP",
+  "category": "advertising",
+  "reach": 0.00018151591715261423,
+  "rank": 389
+ },
+ {
+  "slug": "globale_analytics",
+  "name": "Global-e Analytics",
+  "category": "site_analytics",
+  "reach": 0.0001811138140511488,
+  "rank": 390
+ },
+ {
+  "slug": "namogoo",
+  "name": "Wandz.ai",
+  "category": "site_analytics",
+  "reach": 0.0001799613178012236,
+  "rank": 391
+ },
+ {
+  "slug": "sundaysky",
+  "name": "SundaySky",
+  "category": "advertising",
+  "reach": 0.00017981706891909935,
+  "rank": 392
+ },
+ {
+  "slug": "maxmind",
+  "name": "MaxMind",
+  "category": "advertising",
+  "reach": 0.00017881779039371026,
+  "rank": 393
+ },
+ {
+  "slug": "insightexpress",
+  "name": "InsightExpress",
+  "category": "site_analytics",
+  "reach": 0.00017574895148178237,
+  "rank": 394
+ },
+ {
+  "slug": "true_fit",
+  "name": "True Fit",
+  "category": "advertising",
+  "reach": 0.00017515177605785875,
+  "rank": 395
+ },
+ {
+  "slug": "speee",
+  "name": "Speee",
+  "category": "advertising",
+  "reach": 0.00017197007921224817,
+  "rank": 396
+ },
+ {
+  "slug": "navegg_dmp",
+  "name": "Navegg",
+  "category": "site_analytics",
+  "reach": 0.00016840421694999585,
+  "rank": 397
+ },
+ {
+  "slug": "netease",
+  "name": "NetEase",
+  "category": "advertising",
+  "reach": 0.0001676134640106827,
+  "rank": 398
+ },
+ {
+  "slug": "mather_analytics",
+  "name": "Mather Analytics",
+  "category": "site_analytics",
+  "reach": 0.00016550354383329047,
+  "rank": 399
+ },
+ {
+  "slug": "beachfront",
+  "name": "Beachfront Media",
+  "category": "advertising",
+  "reach": 0.00016306999792553665,
+  "rank": 400
+ },
+ {
+  "slug": "orc_international",
+  "name": "ORC International",
+  "category": "advertising",
+  "reach": 0.00016211855322634418,
+  "rank": 401
+ },
+ {
+  "slug": "gravitec",
+  "name": "Gravitec",
+  "category": "site_analytics",
+  "reach": 0.00016046081218721705,
+  "rank": 402
+ },
+ {
+  "slug": "datonics",
+  "name": "Datonics",
+  "category": "advertising",
+  "reach": 0.00015936063418469442,
+  "rank": 403
+ },
+ {
+  "slug": "cardinal",
+  "name": "Cardinal",
+  "category": "site_analytics",
+  "reach": 0.00015870291907449068,
+  "rank": 404
+ },
+ {
+  "slug": "raygun",
+  "name": "Raygun",
+  "category": "advertising",
+  "reach": 0.00015778660234141138,
+  "rank": 405
+ },
+ {
+  "slug": "dynamics_365",
+  "name": "Dynamics 365",
+  "category": "site_analytics",
+  "reach": 0.0001573411498349552,
+  "rank": 406
+ },
+ {
+  "slug": "resonate_networks",
+  "name": "Resonate Networks",
+  "category": "advertising",
+  "reach": 0.00015478951416877842,
+  "rank": 407
+ },
+ {
+  "slug": "linksynergy.com",
+  "name": "Rakuten LinkShare",
+  "category": "advertising",
+  "reach": 0.00015409442888185857,
+  "rank": 408
+ },
+ {
+  "slug": "synacor",
+  "name": "Synacor",
+  "category": "advertising",
+  "reach": 0.00015406004831927973,
+  "rank": 409
+ },
+ {
+  "slug": "infonline",
+  "name": "INFOnline",
+  "category": "site_analytics",
+  "reach": 0.00015394420077145978,
+  "rank": 410
+ },
+ {
+  "slug": "contentexchange.me",
+  "name": "Content Exchange",
+  "category": "advertising",
+  "reach": 0.00015138509106993976,
+  "rank": 411
+ },
+ {
+  "slug": "qualified",
+  "name": "Qualified",
+  "category": "site_analytics",
+  "reach": 0.00015022885780234296,
+  "rank": 412
+ },
+ {
+  "slug": "wisepops",
+  "name": "WisePops",
+  "category": "advertising",
+  "reach": 0.00014850609265572976,
+  "rank": 413
+ },
+ {
+  "slug": "bidtheatre",
+  "name": "BidTheatre",
+  "category": "advertising",
+  "reach": 0.00014787976849396756,
+  "rank": 414
+ },
+ {
+  "slug": "apollo",
+  "name": "Apollo",
+  "category": "site_analytics",
+  "reach": 0.00014741637830268766,
+  "rank": 415
+ },
+ {
+  "slug": "leadfeeder",
+  "name": "Leadfeeder",
+  "category": "site_analytics",
+  "reach": 0.00014395066811403453,
+  "rank": 416
+ },
+ {
+  "slug": "avant_metrics",
+  "name": "Avant Metrics",
+  "category": "site_analytics",
+  "reach": 0.00014271745228240253,
+  "rank": 417
+ },
+ {
+  "slug": "adglue",
+  "name": "Adglue",
+  "category": "advertising",
+  "reach": 0.00014243568114996296,
+  "rank": 418
+ },
+ {
+  "slug": "sape.ru",
+  "name": "Sape",
+  "category": "site_analytics",
+  "reach": 0.00014144312925638277,
+  "rank": 419
+ },
+ {
+  "slug": "journeymv",
+  "name": "Journey",
+  "category": "advertising",
+  "reach": 0.00013942812932784952,
+  "rank": 420
+ },
+ {
+  "slug": "sumologic.com",
+  "name": "Sumologic",
+  "category": "site_analytics",
+  "reach": 0.0001388578604311615,
+  "rank": 421
+ },
+ {
+  "slug": "travel_audience",
+  "name": "Travel Audience",
+  "category": "site_analytics",
+  "reach": 0.00013445116919279644,
+  "rank": 422
+ },
+ {
+  "slug": "chicory",
+  "name": "Chicory",
+  "category": "advertising",
+  "reach": 0.00013377252678363168,
+  "rank": 423
+ },
+ {
+  "slug": "adup-tech.com",
+  "name": "AdUp Technology",
+  "category": "advertising",
+  "reach": 0.0001291849638899606,
+  "rank": 424
+ },
+ {
+  "slug": "emetriq",
+  "name": "emetriq",
+  "category": "advertising",
+  "reach": 0.0001229807671515501,
+  "rank": 425
+ },
+ {
+  "slug": "e-planning",
+  "name": "e-planning",
+  "category": "advertising",
+  "reach": 0.00012148596008290525,
+  "rank": 426
+ },
+ {
+  "slug": "ad_ebis",
+  "name": "AD EBiS",
+  "category": "advertising",
+  "reach": 0.00012068399609057726,
+  "rank": 427
+ },
+ {
+  "slug": "adara_analytics",
+  "name": "Adara",
+  "category": "advertising",
+  "reach": 0.00011780126065869564,
+  "rank": 428
+ },
+ {
+  "slug": "flag_counter",
+  "name": "Flag Counter",
+  "category": "advertising",
+  "reach": 0.00011681468799339004,
+  "rank": 429
+ },
+ {
+  "slug": "audioeye",
+  "name": "AudioEye Analytics",
+  "category": "site_analytics",
+  "reach": 0.00011634158155616392,
+  "rank": 430
+ },
+ {
+  "slug": "adzerk",
+  "name": "Adzerk",
+  "category": "advertising",
+  "reach": 0.00011592901480521796,
+  "rank": 431
+ },
+ {
+  "slug": "rakuten_display",
+  "name": "Rakuten Display",
+  "category": "advertising",
+  "reach": 0.00011565920212932756,
+  "rank": 432
+ },
+ {
+  "slug": "krush_media",
+  "name": "Krush Media",
+  "category": "advertising",
+  "reach": 0.0001143138757675472,
+  "rank": 433
+ },
+ {
+  "slug": "dtscout.com",
+  "name": "DTScout",
+  "category": "advertising",
+  "reach": 0.00010992138519633424,
+  "rank": 434
+ },
+ {
+  "slug": "tpmn",
+  "name": "TPMN",
+  "category": "advertising",
+  "reach": 0.0001098197383156664,
+  "rank": 435
+ },
+ {
+  "slug": "research_now",
+  "name": "Dynata",
+  "category": "advertising",
+  "reach": 0.00010957234774580568,
+  "rank": 436
+ },
+ {
+  "slug": "piwik_pro_analytics_suite",
+  "name": "Piwik PRO Analytics Suite",
+  "category": "site_analytics",
+  "reach": 0.00010922256289174278,
+  "rank": 437
+ },
+ {
+  "slug": "acint.net",
+  "name": "Artificial Computation Intelligence",
+  "category": "site_analytics",
+  "reach": 0.0001087696363499434,
+  "rank": 438
+ },
+ {
+  "slug": "commission_junction",
+  "name": "CJ Affiliate",
+  "category": "advertising",
+  "reach": 0.0001061611980151581,
+  "rank": 439
+ },
+ {
+  "slug": "storygize",
+  "name": "Storygize",
+  "category": "advertising",
+  "reach": 0.0001052381546502699,
+  "rank": 440
+ },
+ {
+  "slug": "adsninja",
+  "name": "Adsninja",
+  "category": "advertising",
+  "reach": 0.00010343616472901852,
+  "rank": 441
+ },
+ {
+  "slug": "playdigo",
+  "name": "Playdigo",
+  "category": "advertising",
+  "reach": 0.0001021491358429153,
+  "rank": 442
+ },
+ {
+  "slug": "salecycle",
+  "name": "SaleCycle",
+  "category": "advertising",
+  "reach": 0.00010187110172814736,
+  "rank": 443
+ },
+ {
+  "slug": "loadbee.com",
+  "name": "Loadbee",
+  "category": "advertising",
+  "reach": 0.00010176347561920492,
+  "rank": 444
+ },
+ {
+  "slug": "161media",
+  "name": "Platform161",
+  "category": "advertising",
+  "reach": 0.00010064386512478993,
+  "rank": 445
+ },
+ {
+  "slug": "trbo",
+  "name": "trbo",
+  "category": "advertising",
+  "reach": 0.00010007509103517057,
+  "rank": 446
+ },
+ {
+  "slug": "clearbit.com",
+  "name": "Clearbit",
+  "category": "site_analytics",
+  "reach": 0.00009889568825800976,
+  "rank": 447
+ },
+ {
+  "slug": "codigo",
+  "name": "Codigo",
+  "category": "site_analytics",
+  "reach": 0.00009820508739229582,
+  "rank": 448
+ },
+ {
+  "slug": "framer_events",
+  "name": "Framer Events",
+  "category": "site_analytics",
+  "reach": 0.00009754737228209208,
+  "rank": 449
+ },
+ {
+  "slug": "prebid",
+  "name": "Prebid",
+  "category": "advertising",
+  "reach": 0.0000969718715606638,
+  "rank": 450
+ },
+ {
+  "slug": "dable",
+  "name": "Dable",
+  "category": "advertising",
+  "reach": 0.00009687844611887352,
+  "rank": 451
+ },
+ {
+  "slug": "glassbox",
+  "name": "Glassbox",
+  "category": "site_analytics",
+  "reach": 0.00009645765792905,
+  "rank": 452
+ },
+ {
+  "slug": "geniee",
+  "name": "GENIEE",
+  "category": "advertising",
+  "reach": 0.00009549799179097996,
+  "rank": 453
+ },
+ {
+  "slug": "awin",
+  "name": "AWIN",
+  "category": "advertising",
+  "reach": 0.00009472816615062787,
+  "rank": 454
+ },
+ {
+  "slug": "consumable",
+  "name": "Consumable",
+  "category": "advertising",
+  "reach": 0.00009388360015684352,
+  "rank": 455
+ },
+ {
+  "slug": "mainadv",
+  "name": "mainADV",
+  "category": "advertising",
+  "reach": 0.0000937894273115189,
+  "rank": 456
+ },
+ {
+  "slug": "persgroep",
+  "name": "De Persgroep",
+  "category": "advertising",
+  "reach": 0.00009273857794226156,
+  "rank": 457
+ },
+ {
+  "slug": "lytics",
+  "name": "Lytics",
+  "category": "site_analytics",
+  "reach": 0.00009133121708713243,
+  "rank": 458
+ },
+ {
+  "slug": "adhese",
+  "name": "Adhese",
+  "category": "advertising",
+  "reach": 0.00009069891369709564,
+  "rank": 459
+ },
+ {
+  "slug": "logrocket",
+  "name": "LogRocket",
+  "category": "site_analytics",
+  "reach": 0.00008516214831483509,
+  "rank": 460
+ },
+ {
+  "slug": "pocket",
+  "name": "Pocket",
+  "category": "site_analytics",
+  "reach": 0.00008400890466137557,
+  "rank": 461
+ },
+ {
+  "slug": "lucid",
+  "name": "Lucid Measurement",
+  "category": "advertising",
+  "reach": 0.00008037054425629398,
+  "rank": 462
+ },
+ {
+  "slug": "chilipiper",
+  "name": "Chili Piper",
+  "category": "site_analytics",
+  "reach": 0.00007810516414376268,
+  "rank": 463
+ },
+ {
+  "slug": "tns",
+  "name": "Kantar TNS",
+  "category": "site_analytics",
+  "reach": 0.00007764775318075736,
+  "rank": 464
+ },
+ {
+  "slug": "hqentertainmentnetwork.com",
+  "name": "HQ Entertainment Network",
+  "category": "advertising",
+  "reach": 0.00007702516603666677,
+  "rank": 465
+ },
+ {
+  "slug": "qualia",
+  "name": "Qualia",
+  "category": "advertising",
+  "reach": 0.0000770161971942549,
+  "rank": 466
+ },
+ {
+  "slug": "amoad",
+  "name": "AMoAd",
+  "category": "advertising",
+  "reach": 0.00007601392905472853,
+  "rank": 467
+ },
+ {
+  "slug": "admatic",
+  "name": "Admatic",
+  "category": "advertising",
+  "reach": 0.00007537564643641717,
+  "rank": 468
+ },
+ {
+  "slug": "smarterclick",
+  "name": "Smarterclick",
+  "category": "advertising",
+  "reach": 0.00007325376780247578,
+  "rank": 469
+ },
+ {
+  "slug": "advertising.com",
+  "name": "Verizon Media",
+  "category": "advertising",
+  "reach": 0.00007241518103696602,
+  "rank": 470
+ },
+ {
+  "slug": "indeed",
+  "name": "Indeed",
+  "category": "advertising",
+  "reach": 0.00006940688181131824,
+  "rank": 471
+ },
+ {
+  "slug": "pt_engine",
+  "name": "Pt engine",
+  "category": "site_analytics",
+  "reach": 0.0000684225513566156,
+  "rank": 472
+ },
+ {
+  "slug": "dax",
+  "name": "DAX",
+  "category": "advertising",
+  "reach": 0.00006841134030360076,
+  "rank": 473
+ },
+ {
+  "slug": "ad4mat",
+  "name": "ad4mat",
+  "category": "advertising",
+  "reach": 0.00006820131991045615,
+  "rank": 474
+ },
+ {
+  "slug": "getintent",
+  "name": "GetIntent",
+  "category": "advertising",
+  "reach": 0.00006801222681627258,
+  "rank": 475
+ },
+ {
+  "slug": "adalyser.com",
+  "name": "Adalyser",
+  "category": "site_analytics",
+  "reach": 0.0000653439961987415,
+  "rank": 476
+ },
+ {
+  "slug": "vi",
+  "name": "Vi",
+  "category": "advertising",
+  "reach": 0.00005686320829478488,
+  "rank": 477
+ },
+ {
+  "slug": "g2",
+  "name": "G2",
+  "category": "site_analytics",
+  "reach": 0.00005579292643363515,
+  "rank": 478
+ },
+ {
+  "slug": "affectv",
+  "name": "Hybrid Theory",
+  "category": "advertising",
+  "reach": 0.00005496031889639997,
+  "rank": 479
+ },
+ {
+  "slug": "adtarget",
+  "name": "Adtarget",
+  "category": "advertising",
+  "reach": 0.00005443564161530562,
+  "rank": 480
+ },
+ {
+  "slug": "honeybadger",
+  "name": "Honeybadger",
+  "category": "site_analytics",
+  "reach": 0.00005418002960656735,
+  "rank": 481
+ },
+ {
+  "slug": "transcend_telemetry",
+  "name": "Transcend Telemetry",
+  "category": "site_analytics",
+  "reach": 0.00005152525225265407,
+  "rank": 482
+ },
+ {
+  "slug": "notify",
+  "name": "Notify",
+  "category": "advertising",
+  "reach": 0.00005137128712458365,
+  "rank": 483
+ },
+ {
+  "slug": "urban_airship",
+  "name": "Urban Airship",
+  "category": "site_analytics",
+  "reach": 0.00005075467920876765,
+  "rank": 484
+ },
+ {
+  "slug": "scupio",
+  "name": "Scupio",
+  "category": "advertising",
+  "reach": 0.00004840260028625496,
+  "rank": 485
+ },
+ {
+  "slug": "neory",
+  "name": "NEORY",
+  "category": "advertising",
+  "reach": 0.00004768584029683974,
+  "rank": 486
+ },
+ {
+  "slug": "customer.io_tracking",
+  "name": "Customer.io Tracking",
+  "category": "site_analytics",
+  "reach": 0.000046185801403454624,
+  "rank": 487
+ },
+ {
+  "slug": "connextra",
+  "name": "Connextra",
+  "category": "advertising",
+  "reach": 0.00004419471838801967,
+  "rank": 488
+ },
+ {
+  "slug": "cybersource",
+  "name": "CyberSource",
+  "category": "site_analytics",
+  "reach": 0.00004200781564659224,
+  "rank": 489
+ },
+ {
+  "slug": "content_insights",
+  "name": "Content Insights",
+  "category": "site_analytics",
+  "reach": 0.000038486050192864944,
+  "rank": 490
+ },
+ {
+  "slug": "otm-r.com",
+  "name": "OTM",
+  "category": "advertising",
+  "reach": 0.000032363320439695586,
+  "rank": 491
+ },
+ {
+  "slug": "aidata",
+  "name": "Aidata",
+  "category": "advertising",
+  "reach": 0.000032240746260066705,
+  "rank": 492
+ },
+ {
+  "slug": "purch",
+  "name": "Purch",
+  "category": "advertising",
+  "reach": 0.00002989913098703453,
+  "rank": 493
+ },
+ {
+  "slug": "cloud-media.fr",
+  "name": "CloudMedia",
+  "category": "advertising",
+  "reach": 0.00002960016957330556,
+  "rank": 494
+ },
+ {
+  "slug": "leadplace",
+  "name": "LeadPlace",
+  "category": "site_analytics",
+  "reach": 0.000027421488270755676,
+  "rank": 495
+ },
+ {
+  "slug": "ysance",
+  "name": "YSance",
+  "category": "advertising",
+  "reach": 0.000026862430427082493,
+  "rank": 496
+ },
+ {
+  "slug": "smartstream.tv",
+  "name": "SmartStream.TV",
+  "category": "advertising",
+  "reach": 0.00002521440563390153,
+  "rank": 497
+ },
+ {
+  "slug": "videonow",
+  "name": "VideoNow",
+  "category": "advertising",
+  "reach": 0.00001430829326106862,
+  "rank": 498
+ }
+]

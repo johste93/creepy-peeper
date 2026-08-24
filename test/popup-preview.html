@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>popup preview</title>
+<style>body{margin:0;font:13px system-ui}
+ .wrap{display:flex;gap:24px;padding:24px;background:#33373d;align-items:flex-start}
+ .frame{box-shadow:0 8px 30px rgba(0,0,0,.4);border-radius:8px;overflow:hidden;background:#fff}
+ h2{color:#fff;font:600 12px system-ui;margin:0 0 8px}</style>
+<!--
+  Renders the real popup against stubbed chrome APIs, so its layout and states
+  can be checked without installing the extension.
+-->
+<div class="wrap">
+  <div><h2>tracked site</h2><div class="frame"><iframe id="a" width="320" height="440" frameborder="0"></iframe></div></div>
+  <div><h2>clean site</h2><div class="frame"><iframe id="b" width="320" height="440" frameborder="0"></iframe></div></div>
+  <div><h2>advertising hidden</h2><div class="frame"><iframe id="c" width="320" height="440" frameborder="0"></iframe></div></div>
+</div>
+<script>
+const CASES = {
+  a: { settings:{off:false,disabledSites:[]}, companies:[
+        {id:"google",name:"Google",category:"advertising",band:"#4285f4"},
+        {id:"meta",name:"Meta",category:"advertising",band:"#0467DF"},
+        {id:"microsoft",name:"Microsoft",category:"site_analytics",band:"#00a4ef"},
+        {id:"criteo",name:"Criteo",category:"advertising",band:"#FF5A00"},
+        {id:"hotjar",name:"Hotjar",category:"site_analytics",band:"#FF3C00"},
+        {id:"comscore",name:"comScore",category:"site_analytics",band:"#0A2A4A"}] },
+  b: { settings:{off:false,disabledSites:[]}, companies:[] },
+  c: { settings:{off:false,disabledSites:[],showAds:false,showAnalytics:true}, companies:[
+        {id:"google",name:"Google",category:"advertising",band:"#4285f4"},
+        {id:"meta",name:"Meta",category:"advertising",band:"#0467DF"},
+        {id:"microsoft",name:"Microsoft",category:"site_analytics",band:"#00a4ef"},
+        {id:"criteo",name:"Criteo",category:"advertising",band:"#FF5A00"},
+        {id:"hotjar",name:"Hotjar",category:"site_analytics",band:"#FF3C00"}] }
+};
+for (const [id, c] of Object.entries(CASES)) {
+  const f = document.getElementById(id);
+  fetch("/src/popup.html").then(r=>r.text()).then(async html => {
+    const css = await fetch("/src/popup.css").then(r=>r.text());
+    const js  = await fetch("/src/popup.js").then(r=>r.text());
+    let store = JSON.parse(JSON.stringify(c.settings));
+    const doc = f.contentDocument;
+    doc.open();
+    doc.write(html.replace('<link rel="stylesheet" href="popup.css">', "<style>"+css+"</style>")
+                  .replace('<script src="popup.js"><\/script>', ""));
+    doc.close();
+    f.contentWindow.chrome = {
+      storage:{ local:{ get:(d,cb)=>cb(Object.assign({},d,store)),
+                        set:(v,cb)=>{Object.assign(store,v); cb&&cb();} } },
+      tabs:{ query:(q,cb)=>cb([{id:1,url:"https://news.example.com/story"}]),
+             sendMessage:(t,m,cb)=>cb({site:"news.example.com",enabled:!c.settings.off,companies:c.companies}) },
+      runtime:{ lastError:null }
+    };
+    const s = doc.createElement("script"); s.textContent = js; doc.body.appendChild(s);
+  });
+}
+</script>

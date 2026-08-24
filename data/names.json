@@ -1,0 +1,21 @@
+{
+  "_comment": "Display-name overrides. TrackerDB names the legal entity, which is often not what a person would recognise — nobody meets 'ByteDance Inc', they meet TikTok. Read by tools/build-registry.mjs.",
+  "bytedance_inc": "TikTok",
+  "automattic": "WordPress",
+  "acxiom": "LiveRamp",
+  "comscore": "comScore",
+  "pubmatic": "PubMatic",
+  "triplelift": "TripleLift",
+  "index_exchange": "Index Exchange",
+  "openx": "OpenX",
+  "gemius_sa": "Gemius",
+  "piano": "Piano",
+  "akamai": "Akamai",
+  "id5_technology_ltd": "ID5",
+  "braze_inc": "Braze",
+  "twitter": "X",
+  "snap_technologies": "Snapchat",
+  "content_square": "Contentsquare",
+  "twilio": "Segment",
+  "the_trade_desk": "The Trade Desk"
+}

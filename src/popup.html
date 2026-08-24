@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Creepy Peeper</title>
+<link rel="stylesheet" href="popup.css">
+<header>
+  <h1>Creepy Peeper</h1>
+  <p id="site">…</p>
+</header>
+
+<label class="row" id="siteRow">
+  <span>
+    <b>Watch this site</b>
+    <small id="siteHint">Show cameras on <span id="siteName">this site</span></small>
+  </span>
+  <input type="checkbox" id="siteToggle">
+</label>
+
+<div class="kinds">
+  <label class="kind">
+    <input type="checkbox" id="adsToggle">
+    <b>Advertising</b>
+    <em id="adsCount"></em>
+  </label>
+  <label class="kind">
+    <input type="checkbox" id="analyticsToggle">
+    <b>Analytics</b>
+    <em id="analyticsCount"></em>
+  </label>
+</div>
+
+<section id="list" aria-live="polite">
+  <p class="empty">Checking…</p>
+</section>
+
+<label class="row quiet">
+  <span>
+    <b>Turn off everywhere</b>
+    <small>Stop showing cameras on every site</small>
+  </span>
+  <input type="checkbox" id="globalToggle">
+</label>
+
+<footer>
+  <a id="repo" href="https://github.com/" target="_blank" rel="noopener">Source &amp; privacy policy</a>
+  <span>Data: <a href="https://www.ghostery.com/whotracksme/trackers" target="_blank" rel="noopener">WhoTracks.me</a></span>
+</footer>
+<script src="popup.js"></script>

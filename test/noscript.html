@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>noscript-only pixel</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+<h1>noscript.html</h1>
+<p class="expect">Expected: camera (detected via the &lt;noscript&gt; fallback).</p>
+<p>No <code>window.fbq</code>, no pixel script — only the image fallback markup that
+   real sites ship alongside the base code.</p>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=000000000000000&ev=PageView&noscript=1"/></noscript>
+<button id="under">click me</button>
+<div id="log"></div>

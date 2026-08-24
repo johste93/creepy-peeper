@@ -1,0 +1,3674 @@
+{
+ "google": {
+  "band": "#2F86FC",
+  "palette": [
+   "#2F86FC"
+  ],
+  "mark": "icons/brands/google.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.gstatic.com/images/branding/googleg_gradient/2x/googleg_gradient_standard_192dp.png",
+  "markLum": 0.561
+ },
+ "cloudflare": {
+  "band": "#FE530F",
+  "palette": [
+   "#FE530F"
+  ],
+  "mark": "icons/brands/cloudflare.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.cloudflare.com/favicon.ico",
+  "markLum": 0.554
+ },
+ "amazon_associates": {
+  "band": "#0F141A",
+  "palette": [
+   "#0F141A"
+  ],
+  "mark": "icons/brands/amazon_associates.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://d2h1qfxg5j5pfv.cloudfront.net/favicon.ico",
+  "markLum": 1.0
+ },
+ "mixpanel": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/mixpanel.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/LQGlUOsWA5MZ1jvvodsRAoGkNw.svg",
+  "markLum": 1.0
+ },
+ "comscore": {
+  "band": "#FEA400",
+  "palette": [
+   "#FEA400"
+  ],
+  "mark": "icons/brands/comscore.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.comscore.com/bundles/comscoresite/images/favicons/apple-icon-144x144.png",
+  "markLum": 0.609
+ },
+ "microsoft": {
+  "band": "#F25022",
+  "palette": [
+   "#F25022"
+  ],
+  "mark": "icons/brands/microsoft.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://ads.microsoft.com/favicon.ico",
+  "markLum": 0.584
+ },
+ "adobe": {
+  "band": "#EB1000",
+  "palette": [
+   "#EB1000"
+  ],
+  "mark": "icons/brands/adobe.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://business.adobe.com/favicon.ico",
+  "markLum": 0.241
+ },
+ "new_relic": {
+  "band": "#06341D",
+  "palette": [
+   "#06341D"
+  ],
+  "mark": "icons/brands/new_relic.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://newrelic.com/themes/custom/erno/assets/images/metadata/apple-touch-icon.png",
+  "markLum": 0.717
+ },
+ "magnite": {
+  "band": "#222222",
+  "palette": [
+   "#222222"
+  ],
+  "mark": "icons/brands/magnite.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.magnite.com/wp-content/uploads/2024/01/cropped-M-Symbol-White-on-Black-512x512-1-180x180.png",
+  "markLum": 0.879
+ },
+ "taboola": {
+  "band": "#0056F1",
+  "palette": [
+   "#0056F1"
+  ],
+  "mark": "icons/brands/taboola.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.taboola.com/wp-content/uploads-neo/2024/07/favicon-300x300-lqip.png",
+  "markLum": 0.313
+ },
+ "akamai": {
+  "band": "#0196D7",
+  "palette": [
+   "#0196D7"
+  ],
+  "mark": "icons/brands/akamai.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.akamai.com/site/favicon/apple-touch-icon-180x180.png",
+  "markLum": 0.591
+ },
+ "yandex": {
+  "band": "#F8604A",
+  "palette": [
+   "#F8604A"
+  ],
+  "mark": "icons/brands/yandex.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://yastatic.net/s3/home-static/_/nova2/JSRBlH1m.png",
+  "markLum": 1.0
+ },
+ "chartbeat": {
+  "band": "#1F4563",
+  "palette": [
+   "#1F4563"
+  ],
+  "mark": "icons/brands/chartbeat.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://chartbeat.com/wp-content/uploads/2024/03/cropped-favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "the_trade_desk": {
+  "band": "#0372E2",
+  "palette": [
+   "#0372E2"
+  ],
+  "mark": "icons/brands/the_trade_desk.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.thetradedesk.com/apple-touch-icon.png",
+  "markLum": 0.486
+ },
+ "bytedance_inc": {
+  "band": "#000000",
+  "palette": [
+   "#000000"
+  ],
+  "mark": "icons/brands/bytedance_inc.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.tiktok.com/favicon.ico",
+  "markLum": 1.0
+ },
+ "acxiom": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/acxiom.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/68daaf51555d6adf0c767571/68ed033012e0101f4d8f8917_Favicon%20web%20clip%20%E2%80%93%20black%20%E2%80%93%20256x256.png",
+  "markLum": 1.0
+ },
+ "automattic": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/automattic.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://s.w.org/images/wmark.png",
+  "markLum": 1.0
+ },
+ "qualtrics": {
+  "band": "#3E6AEA",
+  "palette": [
+   "#3E6AEA"
+  ],
+  "mark": "icons/brands/qualtrics.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.qualtrics.com/themes/custom/arcadia/favicon.ico",
+  "markLum": 0.519
+ },
+ "tealium": {
+  "band": "#041738",
+  "palette": [
+   "#041738"
+  ],
+  "mark": "icons/brands/tealium.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://tealium.com/favicon.svg",
+  "markLum": 0.087
+ },
+ "quantcast": {
+  "band": "#142529",
+  "palette": [
+   "#142529"
+  ],
+  "mark": "icons/brands/quantcast.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://static.quantcast.com/marketing-site/quantcast-favicon-bright-blue.png",
+  "markLum": 1.0
+ },
+ "braze_inc": {
+  "band": "#801BD6",
+  "palette": [
+   "#801BD6"
+  ],
+  "mark": "icons/brands/braze_inc.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.braze.com/favicon.ico",
+  "markLum": 0.489
+ },
+ "id5_technology_ltd": {
+  "band": "#0F8762",
+  "palette": [
+   "#0F8762"
+  ],
+  "mark": "icons/brands/id5_technology_ltd.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://id5.io/favicon.svg",
+  "markLum": 1.0
+ },
+ "yahoo": {
+  "band": "#7C2DFF",
+  "palette": [
+   "#7C2DFF"
+  ],
+  "mark": "icons/brands/yahoo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
+  "markLum": 1.0
+ },
+ "permutive": {
+  "band": "#7704AB",
+  "palette": [
+   "#7704AB"
+  ],
+  "mark": "icons/brands/permutive.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://permutive.com/wp-content/uploads/2025/08/cropped-Permutive-Favicon-Large-512x512-1-180x180.png",
+  "markLum": 0.749
+ },
+ "klaviyo": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/klaviyo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.klaviyo.com/icons/icon-512x512.png",
+  "markLum": 0.742
+ },
+ "ebay_partner_network": {
+  "band": "#0263D9",
+  "palette": [
+   "#0263D9"
+  ],
+  "mark": "icons/brands/ebay_partner_network.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://partnernetwork.ebay.com/favicon.ico",
+  "markLum": 0.508
+ },
+ "amplitude": {
+  "band": "#2264F0",
+  "palette": [
+   "#2264F0"
+  ],
+  "mark": "icons/brands/amplitude.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://amplitude.com/nextjs-public/favicon/apple-touch-icon.png",
+  "markLum": 0.459
+ },
+ "triplelift": {
+  "band": "#F67D20",
+  "palette": [
+   "#F67D20"
+  ],
+  "mark": "icons/brands/triplelift.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://triplelift.com/wp-content/uploads/2026/05/cropped-TL_Favicon_512x512_orange-1-180x180.png",
+  "markLum": 0.568
+ },
+ "index_exchange": {
+  "band": "#01291F",
+  "palette": [
+   "#01291F"
+  ],
+  "mark": "icons/brands/index_exchange.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://s46182.pcdn.co/wp-content/uploads/2024/09/cropped-favicon-1-180x180.png",
+  "markLum": 0.125
+ },
+ "gemius_sa": {
+  "band": "#00A8DF",
+  "palette": [
+   "#00A8DF"
+  ],
+  "mark": "icons/brands/gemius_sa.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://gemius.com/static/assets_bart/img/favicon.d34b2f2b5cc3.ico",
+  "markLum": 0.545
+ },
+ "openx": {
+  "band": "#6320FE",
+  "palette": [
+   "#6320FE"
+  ],
+  "mark": "icons/brands/openx.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.openx.com/nitropack_static/ONvFvTAYmJcApMvBXyDgEDeVcqezAZTs/assets/images/optimized/rev-277b8a3/www.openx.com/wp-content/uploads/2026/03/cropped-OpenX-Favicon-180x180.png",
+  "markLum": 0.246
+ },
+ "marfeel_solutions": {
+  "band": "#462400",
+  "palette": [
+   "#462400"
+  ],
+  "mark": "icons/brands/marfeel_solutions.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.marfeel.com/favicon.svg",
+  "markLum": 0.67
+ },
+ "~pendo.io": {
+  "band": "#EB1F5B",
+  "palette": [
+   "#EB1F5B"
+  ],
+  "mark": "icons/brands/-pendo-io.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.pendo.io/icon.svg",
+  "markLum": 0.307
+ },
+ "equativ": {
+  "band": "#FE8B17",
+  "palette": [
+   "#FE8B17"
+  ],
+  "mark": "icons/brands/equativ.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/67c08eeba1b1daeadfce8df4/6846cfc52840a4da896f1937_webclip.jpg",
+  "markLum": 0.58
+ },
+ "bugsnag": {
+  "band": "#163546",
+  "palette": [
+   "#163546"
+  ],
+  "mark": "icons/brands/bugsnag.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://imagedelivery.net/PVooPtpJE-25QaNkbEuXvw/19ef04f9-e12a-4978-585b-3e57e97f3000/public",
+  "markLum": 0.561
+ },
+ "integral_ad_science": {
+  "band": "#000000",
+  "palette": [
+   "#000000"
+  ],
+  "mark": "icons/brands/integral_ad_science.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://integralads.com/wp-content/uploads/2023/06/IAS-Favicon-2023-Square.png",
+  "markLum": 1.0
+ },
+ "wingify": {
+  "band": "#25134D",
+  "palette": [
+   "#25134D"
+  ],
+  "mark": "icons/brands/wingify.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://vwo.com/wp-content/plugins/vwo-common-templates/images/favicon/vwo-abt-favicon.svg",
+  "markLum": 1.0
+ },
+ "gumgum": {
+  "band": "#08121C",
+  "palette": [
+   "#08121C"
+  ],
+  "mark": "icons/brands/gumgum.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/69eee532313396005f3a101b/69f3a9f10b14ba870a7ff8ed_gumgum_256w.png",
+  "markLum": 1.0
+ },
+ "twilio": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/twilio.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.twilio.com/aem-static/content/dam/twilio-com/core-assets/social/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "ipsos": {
+  "band": "#003241",
+  "palette": [
+   "#003241"
+  ],
+  "mark": "icons/brands/ipsos.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://dotmetrics.net/images/favicon.ico",
+  "markLum": 0.688
+ },
+ "adform": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/adform.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://site.adform.com/assets/favicons/safari-pinned-tab.svg?v=m4Ohxwh9e0",
+  "markLum": 1.0
+ },
+ "hubspot": {
+  "band": "#FF4800",
+  "palette": [
+   "#FF4800"
+  ],
+  "mark": "icons/brands/hubspot.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+  "markLum": 1.0
+ },
+ "pubstack": {
+  "band": "#637521",
+  "palette": [
+   "#637521"
+  ],
+  "mark": "icons/brands/pubstack.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/62b856a72a77f60f20cee005/62cae16ec5049677b3bda5c7_webclip.png",
+  "markLum": 0.466
+ },
+ "kameleoon": {
+  "band": "#657518",
+  "palette": [
+   "#657518"
+  ],
+  "mark": "icons/brands/kameleoon.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/685945d76d7a305336412a93/685d2ed565fff5542a6a387c_Webclip.svg",
+  "markLum": 1.0
+ },
+ "lotame": {
+  "band": "#1D3121",
+  "palette": [
+   "#1D3121"
+  ],
+  "mark": "icons/brands/lotame.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn-ilbibgp.nitrocdn.com/eakWUVxgVLoymIJUurpQZcwTweYHDeju/assets/images/optimized/rev-43a2f73/www.lotame.com/wp-content/uploads/2025/05/lotame-website-favicon-300x300.png",
+  "markLum": 1.0
+ },
+ "media.net": {
+  "band": "#D30C4F",
+  "palette": [
+   "#D30C4F"
+  ],
+  "mark": "icons/brands/media-net.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/66ed1f19164e8996fdcbd2db/6762b073133767720baeb3b7_favicon-256X256.png",
+  "markLum": 0.187
+ },
+ "histats": {
+  "band": "#F8A82F",
+  "palette": [
+   "#F8A82F"
+  ],
+  "mark": "icons/brands/histats.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.histats.com/favicon.ico",
+  "markLum": 0.476
+ },
+ "doubleverify": {
+  "band": "#34B234",
+  "palette": [
+   "#34B234"
+  ],
+  "mark": "icons/brands/doubleverify.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://doubleverify.com/hubfs/DV_Website_FavIcon.svg",
+  "markLum": 0.432
+ },
+ "audigent": {
+  "band": "#FF3333",
+  "palette": [
+   "#FF3333"
+  ],
+  "mark": "icons/brands/audigent.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "http://www.audiencesquare.fr/wp-content/themes/mediasquare/assets/favicon.png",
+  "markLum": 0.825
+ },
+ "~pusher.com": {
+  "band": "#2F0C4E",
+  "palette": [
+   "#2F0C4E"
+  ],
+  "mark": "icons/brands/-pusher-com.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://pusher.com/favicon-196x196.png",
+  "markLum": 1.0
+ },
+ "parse.ly": {
+  "band": "#5AA644",
+  "palette": [
+   "#5AA644"
+  ],
+  "mark": "icons/brands/parse-ly.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.parse.ly/wp-content/uploads/sites/6/2022/11/favicon-parsely.png?w=64",
+  "markLum": 0.567
+ },
+ "sharethis": {
+  "band": "#202F09",
+  "palette": [
+   "#202F09"
+  ],
+  "mark": "icons/brands/sharethis.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://sharethis-com.imgix.net/uploads/2016/08/favicon.png",
+  "markLum": 0.77
+ },
+ "brand_metrics": {
+  "band": "#3C007F",
+  "palette": [
+   "#3C007F"
+  ],
+  "mark": "icons/brands/brand_metrics.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.brandmetrics.com/img/apple-icon.png",
+  "markLum": 0.088
+ },
+ "wunderkind": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/wunderkind.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.wunderkind.co/hubfs/Wunderkind_Symbol_RGB_Black%20(2).png",
+  "markLum": 1.0
+ },
+ "dynatrace": {
+  "band": "#454546",
+  "palette": [
+   "#454546"
+  ],
+  "mark": "icons/brands/dynatrace.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://dt-cdn.net/images/apple-touch-icon-180x180-180-80738a22c0.png",
+  "markLum": 1.0
+ },
+ "~speedcurve": {
+  "band": "#3B95C5",
+  "palette": [
+   "#3B95C5"
+  ],
+  "mark": "icons/brands/-speedcurve.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.speedcurve.com/favicon.ico",
+  "markLum": 0.533
+ },
+ "baidu": {
+  "band": "#3E46E4",
+  "palette": [
+   "#3E46E4"
+  ],
+  "mark": "icons/brands/baidu.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://psstatic.cdn.bcebos.com/video/wiseindex/aa6eef91f8b5b1a33b454c401_1660835115000.png",
+  "markLum": 0.347
+ },
+ "connatix": {
+  "band": "#EF0041",
+  "palette": [
+   "#EF0041"
+  ],
+  "mark": "icons/brands/connatix.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://jwx.com/hubfs/3Artboard%201-1.png",
+  "markLum": 0.192
+ },
+ "snap_technologies": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/snap_technologies.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://static.snapchat.com/images/apple-touch-icon/apple-touch-icon-yellow-192.png",
+  "markLum": 0.844
+ },
+ "five_media": {
+  "band": "#59781C",
+  "palette": [
+   "#59781C"
+  ],
+  "mark": "icons/brands/five_media.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.geoedge.com/wp-content/uploads/2023/02/cropped-GeoEdge-Favicon-180x180.png",
+  "markLum": 0.607
+ },
+ "onetag": {
+  "band": "#0069EA",
+  "palette": [
+   "#0069EA"
+  ],
+  "mark": "icons/brands/onetag.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.onetag.com/wp-content/uploads/2024/06/cropped-favicon-180x180.png",
+  "markLum": 0.364
+ },
+ "auth0": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/auth0.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.auth0.com/website/website/favicons/auth0-favicon.svg",
+  "markLum": 0.296
+ },
+ "naver": {
+  "band": "#083700",
+  "palette": [
+   "#083700"
+  ],
+  "mark": "icons/brands/naver.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png",
+  "markLum": 0.926
+ },
+ "ab_tasty": {
+  "band": "#3000BD",
+  "palette": [
+   "#3000BD"
+  ],
+  "mark": "icons/brands/ab_tasty.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.abtasty.com/wp-content/uploads/2024/02/cropped-favicon-180x180.png",
+  "markLum": 0.094
+ },
+ "quantum_metric": {
+  "band": "#E7005C",
+  "palette": [
+   "#E7005C"
+  ],
+  "mark": "icons/brands/quantum_metric.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.quantummetric.com/favicon.ico",
+  "markLum": 0.22
+ },
+ "microad": {
+  "band": "#4A1E2D",
+  "palette": [
+   "#4A1E2D"
+  ],
+  "mark": "icons/brands/microad.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.microad.co.jp/wp-content/themes/microad-corp/assets/favicon/apple-touch-icon.png",
+  "markLum": 0.69
+ },
+ "improve_digital": {
+  "band": "#426EF3",
+  "palette": [
+   "#426EF3"
+  ],
+  "mark": "icons/brands/improve_digital.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://improvedigital.com/wp-content/uploads/2021/10/favicon-300x300.png",
+  "markLum": 0.435
+ },
+ "rich_audience": {
+  "band": "#F32842",
+  "palette": [
+   "#F32842"
+  ],
+  "mark": "icons/brands/rich_audience.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://richaudience.com/img/fav32x32.png",
+  "markLum": 0.332
+ },
+ "appsflyer": {
+  "band": "#171717",
+  "palette": [
+   "#171717"
+  ],
+  "mark": "icons/brands/appsflyer.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.appsflyer.com/wp-content/uploads/2025/11/cropped-54649.-New-Website-favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "viafoura": {
+  "band": "#EC2229",
+  "palette": [
+   "#EC2229"
+  ],
+  "mark": "icons/brands/viafoura.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://viafoura.com/wp-content/uploads/2025/06/cropped-viafoura-favicon-1-1-180x180.png",
+  "markLum": 0.431
+ },
+ "monet_engine": {
+  "band": "#046AB9",
+  "palette": [
+   "#046AB9"
+  ],
+  "mark": "icons/brands/monet_engine.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://adaptmx.com/wp-content/uploads/2021/10/cropped-favicon-96x96-1-32x32-1.png",
+  "markLum": 0.452
+ },
+ "sovrn": {
+  "band": "#272727",
+  "palette": [
+   "#272727"
+  ],
+  "mark": "icons/brands/sovrn.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.sovrn.com/wp-content/uploads/2022/02/cropped-sovrn-favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "nexxen": {
+  "band": "#14003B",
+  "palette": [
+   "#14003B"
+  ],
+  "mark": "icons/brands/nexxen.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://nexxen.com/wp-content/uploads/2023/07/favicon.co_.png",
+  "markLum": 1.0
+ },
+ "yotpo": {
+  "band": "#0041E4",
+  "palette": [
+   "#0041E4"
+  ],
+  "mark": "icons/brands/yotpo.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.yotpo.com/apple-touch-icon.png",
+  "markLum": 0.326
+ },
+ "crazy_egg": {
+  "band": "#222E09",
+  "palette": [
+   "#222E09"
+  ],
+  "mark": "icons/brands/crazy_egg.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.crazyegg.com/favicon.ico",
+  "markLum": 1.0
+ },
+ "fluct": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/fluct.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://corp.fluct.jp/apple-icon.png",
+  "markLum": 0.822
+ },
+ "adnami": {
+  "band": "#000000",
+  "palette": [
+   "#000000"
+  ],
+  "mark": "icons/brands/adnami.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adnami.io/hubfs/favicon%20(1).png",
+  "markLum": 1.0
+ },
+ "nativo": {
+  "band": "#7875EB",
+  "palette": [
+   "#7875EB"
+  ],
+  "mark": "icons/brands/nativo.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/68100fa0d72916811c618ec4/6a04abfa082d0034862157b3_favicon.ico",
+  "markLum": 0.496
+ },
+ "line": {
+  "band": "#013617",
+  "palette": [
+   "#013617"
+  ],
+  "mark": "icons/brands/line.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.line.me/static/img/apple-touch-icon-180x180.png",
+  "markLum": 0.706
+ },
+ "conversant": {
+  "band": "#1861F5",
+  "palette": [
+   "#1861F5"
+  ],
+  "mark": "icons/brands/conversant.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.epsilon.com/favicon.ico?favicon.32039c71.ico",
+  "markLum": 0.361
+ },
+ "sharethrough": {
+  "band": "#08322C",
+  "palette": [
+   "#08322C"
+  ],
+  "mark": "icons/brands/sharethrough.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6501ce7d903c832db24ebd4a_favicon-256x256.png",
+  "markLum": 0.742
+ },
+ "mercado_livre": {
+  "band": "#332A00",
+  "palette": [
+   "#332A00"
+  ],
+  "mark": "icons/brands/mercado_livre.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/5.21.22/mercadolibre/favicon.svg",
+  "markLum": 0.716
+ },
+ "sailthru": {
+  "band": "#0909B1",
+  "palette": [
+   "#0909B1"
+  ],
+  "mark": "icons/brands/sailthru.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://zetaglobal.com/wp-content/uploads/2023/07/zeta_favicon.svg",
+  "markLum": 0.328
+ },
+ "relevant_digital": {
+  "band": "#EF374A",
+  "palette": [
+   "#EF374A"
+  ],
+  "mark": "icons/brands/relevant_digital.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.relevant-digital.com/hubfs/fav.png",
+  "markLum": 0.583
+ },
+ "anonymised": {
+  "band": "#171717",
+  "palette": [
+   "#171717"
+  ],
+  "mark": "icons/brands/anonymised.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/68f260a9bb9519d6f766d455/68f260a9bb9519d6f766d4aa_Anonymised_Icon-Favicon.png",
+  "markLum": 1.0
+ },
+ "comcast": {
+  "band": "#2D0066",
+  "palette": [
+   "#2D0066"
+  ],
+  "mark": "icons/brands/comcast.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.freewheel.com/wp-content/themes/freewheel/assets/img/core/favicon.ico",
+  "markLum": 0.191
+ },
+ "posthog": {
+  "band": "#000000",
+  "palette": [
+   "#000000"
+  ],
+  "mark": "icons/brands/posthog.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://posthog.com/favicon.svg?v=6e5ac8d4a5b381b5caa29396fbf7c955",
+  "markLum": 1.0
+ },
+ "ad_lightning": {
+  "band": "#020040",
+  "palette": [
+   "#020040"
+  ],
+  "mark": "icons/brands/ad_lightning.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6a68bfa5b9f1c3620ba99239/6a8407d6e0bce553fea00b08_67747c2af49ea749485b1b61_613fbb78d005ac41d85bc2d5_Frame%201.png",
+  "markLum": 0.225
+ },
+ "branch_metrics_inc": {
+  "band": "#130226",
+  "palette": [
+   "#130226"
+  ],
+  "mark": "icons/brands/branch_metrics_inc.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.branch.io/wp-content/themes/branch/assets/images/favicons/favicon-dark.svg?ver=1784831000",
+  "markLum": 0.032
+ },
+ "gg_software": {
+  "band": "#5F7812",
+  "palette": [
+   "#5F7812"
+  ],
+  "mark": "icons/brands/gg_software.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://nitropay.com/wp-content/uploads/2024/05/cropped-256x256-1-180x180.png",
+  "markLum": 0.801
+ },
+ "rakuten": {
+  "band": "#FF4343",
+  "palette": [
+   "#FF4343"
+  ],
+  "mark": "icons/brands/rakuten.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://r.r10s.jp/com/img/home/logo/touch_google.png",
+  "markLum": 1.0
+ },
+ "mediaocean": {
+  "band": "#000443",
+  "palette": [
+   "#000443"
+  ],
+  "mark": "icons/brands/mediaocean.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/66f5cdf821fdf09e1ef53a68/67d816c640d1222de67b848c_WEB%20CLIP.png",
+  "markLum": 1.0
+ },
+ "aditude": {
+  "band": "#110C0D",
+  "palette": [
+   "#110C0D"
+  ],
+  "mark": "icons/brands/aditude.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://hashtag-labs.com/img/favicons/favicon-144x144.png",
+  "markLum": 0.477
+ },
+ "singtel": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/singtel.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.amobee.com/wp-content/themes/amobee/assets/images/favicon/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "smile_wanted": {
+  "band": "#3B2800",
+  "palette": [
+   "#3B2800"
+  ],
+  "mark": "icons/brands/smile_wanted.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-180x180.png",
+  "markLum": 0.721
+ },
+ "mediascope": {
+  "band": "#00A696",
+  "palette": [
+   "#00A696"
+  ],
+  "mark": "icons/brands/mediascope.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://mediascope.net/bitrix/templates/mediascope/img/favicons.v2/apple-touch-icon.svg",
+  "markLum": 0.6
+ },
+ "kargo": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/kargo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.kargo.com/apple-touch-icon.png",
+  "markLum": 0.699
+ },
+ "brightcove": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/brightcove.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.brightcove.com/favicon.ico",
+  "markLum": 1.0
+ },
+ "temu": {
+  "band": "#FB7600",
+  "palette": [
+   "#FB7600"
+  ],
+  "mark": "icons/brands/temu.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.temu.com/favicon.ico",
+  "markLum": 0.608
+ },
+ "markmonitor": {
+  "band": "#001750",
+  "palette": [
+   "#001750"
+  ],
+  "mark": "icons/brands/markmonitor.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.markmonitor.com/wp-content/themes/yith-wonder-child/assets/icons/apple-180x180-touch-icon.png",
+  "markLum": 0.284
+ },
+ "connectad": {
+  "band": "#009F9D",
+  "palette": [
+   "#009F9D"
+  ],
+  "mark": "icons/brands/connectad.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://connectad.io/hubfs/146351148/partner-logos/ca-mark.png",
+  "markLum": 0.494
+ },
+ "rise_code": {
+  "band": "#012ABD",
+  "palette": [
+   "#012ABD"
+  ],
+  "mark": "icons/brands/rise_code.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://static.wixstatic.com/shapes/2ae338_1fec891dbb9a4df6a36ddda536af3203.svg",
+  "markLum": 0.174
+ },
+ "axel_springer": {
+  "band": "#FE6C02",
+  "palette": [
+   "#FE6C02"
+  ],
+  "mark": "icons/brands/axel_springer.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.awin.com/favicon.svg",
+  "markLum": 0.464
+ },
+ "venatus": {
+  "band": "#EA2732",
+  "palette": [
+   "#EA2732"
+  ],
+  "mark": "icons/brands/venatus.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/625ecf3842ad2419f8758d34/62826e6453961cefc87e62ec_ficon.png",
+  "markLum": 0.393
+ },
+ "skimlinks": {
+  "band": "#00A9C6",
+  "palette": [
+   "#00A9C6"
+  ],
+  "mark": "icons/brands/skimlinks.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.skimlinks.com/wp-content/uploads/2025/04/favicon-skl.png",
+  "markLum": 0.532
+ },
+ "optable_technologies": {
+  "band": "#0AA8A8",
+  "palette": [
+   "#0AA8A8"
+  ],
+  "mark": "icons/brands/optable_technologies.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/62b9b90322c53e510cb00df1/62b9b90322c53ec5b5b00e30_favicon.png",
+  "markLum": 0.537
+ },
+ "hubvisor": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/hubvisor.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/khUGIbouCnFbvU3QLyE9YCDSE.png",
+  "markLum": 1.0
+ },
+ "marketgid_usa": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/marketgid_usa.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mgid.com/assets/favicon/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "statcounter": {
+  "band": "#0078D4",
+  "palette": [
+   "#0078D4"
+  ],
+  "mark": "icons/brands/statcounter.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.statcounter.com/images/apple-touch-icon-144x144-precomposed.png?v=1",
+  "markLum": 0.527
+ },
+ "almondnet": {
+  "band": "#713D97",
+  "palette": [
+   "#713D97"
+  ],
+  "mark": "icons/brands/almondnet.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://images.squarespace-cdn.com/content/v1/6732a6c091d6d063e0cdddaf/523aafc9-97c2-4e94-ad2b-ffdaf135221c/favicon.ico?format=100w",
+  "markLum": 0.367
+ },
+ "adroll": {
+  "band": "#0FBFFE",
+  "palette": [
+   "#0FBFFE"
+  ],
+  "mark": "icons/brands/adroll.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adroll.com/favicon.png",
+  "markLum": 0.602
+ },
+ "addefend": {
+  "band": "#558559",
+  "palette": [
+   "#558559"
+  ],
+  "mark": "icons/brands/addefend.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.addefend.com/wp-content/uploads/fav-iphone-1.png",
+  "markLum": 0.571
+ },
+ "arm": {
+  "band": "#49A2FC",
+  "palette": [
+   "#49A2FC"
+  ],
+  "mark": "icons/brands/arm.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.treasure.ai/hubfs/assets/images/logos/favicon.svg",
+  "markLum": 0.543
+ },
+ "ogury": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/ogury.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.ogury.com/wp-content/uploads/2026/05/cropped-ogury_favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "i-mobile": {
+  "band": "#FD922C",
+  "palette": [
+   "#FD922C"
+  ],
+  "mark": "icons/brands/i-mobile.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www2.i-mobile.co.jp/img/favicon.png",
+  "markLum": 0.607
+ },
+ "vg_wort": {
+  "band": "#087DDF",
+  "palette": [
+   "#087DDF"
+  ],
+  "mark": "icons/brands/vg_wort.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://tom.vgwort.de/favicon.ico",
+  "markLum": 1.0
+ },
+ "mediavine_inc": {
+  "band": "#1049FD",
+  "palette": [
+   "#1049FD"
+  ],
+  "mark": "icons/brands/mediavine_inc.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mediavine.com/wp-content/uploads/2025/11/mediavine-favicon-320x320.webp",
+  "markLum": 0.291
+ },
+ "smaato": {
+  "band": "#252168",
+  "palette": [
+   "#252168"
+  ],
+  "mark": "icons/brands/smaato.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://verve.com/wp-content/uploads/2026/01/cropped-verve-group-inc-icon-180x180.png",
+  "markLum": 0.21
+ },
+ "yieldmo": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/yieldmo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://yieldmo.com/wp-content/uploads/2025/06/cropped-YM_fav-180x180.png",
+  "markLum": 1.0
+ },
+ "dynamic_yield": {
+  "band": "#F79C1A",
+  "palette": [
+   "#F79C1A"
+  ],
+  "mark": "icons/brands/dynamic_yield.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mastercard.com/etc.clientlibs/marts/clientlibs/clientlib-site/resources/icons/mastercard-favicon.svg",
+  "markLum": 0.437
+ },
+ "united_inc": {
+  "band": "#E90012",
+  "palette": [
+   "#E90012"
+  ],
+  "mark": "icons/brands/united_inc.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://en.ad-stir.com/images/favicon.ico",
+  "markLum": 0.314
+ },
+ "whos.amung.us": {
+  "band": "#F04544",
+  "palette": [
+   "#F04544"
+  ],
+  "mark": "icons/brands/whos-amung-us.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://whos.amung.us/apple-touch-icon.png",
+  "markLum": 0.506
+ },
+ "blue_triangle": {
+  "band": "#2F67B2",
+  "palette": [
+   "#2F67B2"
+  ],
+  "mark": "icons/brands/blue_triangle.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://bluetriangle.com/hubfs/2026_BlueTriangle_Mark.svg",
+  "markLum": 0.378
+ },
+ "adyoulike": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/adyoulike.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://adyoulike.com/assets/img/favicon/apple-icon-180x180.png",
+  "markLum": 0.695
+ },
+ "epsilon": {
+  "band": "#1861F5",
+  "palette": [
+   "#1861F5"
+  ],
+  "mark": "icons/brands/epsilon.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.epsilon.com/favicon.ico?favicon.32039c71.ico",
+  "markLum": 0.361
+ },
+ "megafon": {
+  "band": "#127FFF",
+  "palette": [
+   "#127FFF"
+  ],
+  "mark": "icons/brands/megafon.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://imgs2.imgsmail.ru/static/logo/rebranding/logo_favicon.png",
+  "markLum": 0.551
+ },
+ "prosieben_sat1": {
+  "band": "#019FC7",
+  "palette": [
+   "#019FC7"
+  ],
+  "mark": "icons/brands/prosieben_sat1.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://virtualminds.com/wp-content/uploads/2024/10/VM_Favi_-300x300.png",
+  "markLum": 0.508
+ },
+ "clever_push": {
+  "band": "#D92828",
+  "palette": [
+   "#D92828"
+  ],
+  "mark": "icons/brands/clever_push.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://clevertap.com/wp-content/uploads/2023/08/apple-touch-icon-1.png",
+  "markLum": 0.362
+ },
+ "stroer": {
+  "band": "#5E1D00",
+  "palette": [
+   "#5E1D00"
+  ],
+  "mark": "icons/brands/stroer.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.stroeer.de/_assets/9e8dad347f78e1584c5202882190aec5/Icons/Favicons/apple-touch-icon-1024x1024.1786603420.png",
+  "markLum": 0.627
+ },
+ "mparticle": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/mparticle.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mparticle.com/icon.png?c86bb88ed164b578",
+  "markLum": 1.0
+ },
+ "revcontent": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/revcontent.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://d2fygbv2jsp7sc.cloudfront.net/666eb0acab3d7ab79b4aa515/66bdb3f9f0ba738d696a7b2b_favicon-revcontent.png",
+  "markLum": 1.0
+ },
+ "arc_publishing": {
+  "band": "#00233F",
+  "palette": [
+   "#00233F"
+  ],
+  "mark": "icons/brands/arc_publishing.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.arcxp.com/pf/resources/favicon.ico?d=180",
+  "markLum": 0.228
+ },
+ "daconsortium": {
+  "band": "#B91C22",
+  "palette": [
+   "#B91C22"
+  ],
+  "mark": "icons/brands/daconsortium.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.platform-one.co.jp/img/apple-touch-icon.png",
+  "markLum": 0.083
+ },
+ "inmobi": {
+  "band": "#3281DB",
+  "palette": [
+   "#3281DB"
+  ],
+  "mark": "icons/brands/inmobi.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.inmobi.com/static/icons/favicon.ico",
+  "markLum": 0.531
+ },
+ "thetradedesk": {
+  "band": "#000033",
+  "palette": [
+   "#000033"
+  ],
+  "mark": "icons/brands/thetradedesk.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://unifiedid.com/img/favicon.ico",
+  "markLum": 1.0
+ },
+ "siteimprove": {
+  "band": "#96027A",
+  "palette": [
+   "#96027A"
+  ],
+  "mark": "icons/brands/siteimprove.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.siteimprove.com/frontend/favicons/apple_favicon_180x180.png",
+  "markLum": 0.341
+ },
+ "apple": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/apple.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.apple.com/favicon.ico",
+  "markLum": 0.81
+ },
+ "semasio": {
+  "band": "#0F2C45",
+  "palette": [
+   "#0F2C45"
+  ],
+  "mark": "icons/brands/semasio.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/65f445b220ec08022f24d171/660aaa2c3c6e508d7f84eaee_Webclip.png",
+  "markLum": 1.0
+ },
+ "airbrake": {
+  "band": "#3F2603",
+  "palette": [
+   "#3F2603"
+  ],
+  "mark": "icons/brands/airbrake.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/627981c6e9ed95388efb41ab/6320ead9f8aee1525ce2184c_profile%20A%20orange%202.png",
+  "markLum": 0.712
+ },
+ "conviva": {
+  "band": "#1A300B",
+  "palette": [
+   "#1A300B"
+  ],
+  "mark": "icons/brands/conviva.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.conviva.ai/wp-content/themes/conviva2025/favicon.png",
+  "markLum": 0.656
+ },
+ "valuecommerce": {
+  "band": "#57C5C6",
+  "palette": [
+   "#57C5C6"
+  ],
+  "mark": "icons/brands/valuecommerce.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.valuecommerce.ne.jp/apple-touch-icon-152x152.png",
+  "markLum": 0.561
+ },
+ "ibm": {
+  "band": "#32B0FF",
+  "palette": [
+   "#32B0FF"
+  ],
+  "mark": "icons/brands/ibm.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.weathercompany.com/wp-content/uploads/2024/01/cropped-favicon-180x180.png",
+  "markLum": 0.613
+ },
+ "nexx360": {
+  "band": "#2B408A",
+  "palette": [
+   "#2B408A"
+  ],
+  "mark": "icons/brands/nexx360.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://nexx360.io/wp-content/uploads/2026/01/ICOTYPE-BLEU.png",
+  "markLum": 0.364
+ },
+ "quora": {
+  "band": "#BA2B27",
+  "palette": [
+   "#BA2B27"
+  ],
+  "mark": "icons/brands/quora.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://quoraadsupport.zendesk.com/hc/theming_assets/01HZH64PPGHC2TPJC5KJ1A04NG",
+  "markLum": 0.286
+ },
+ "trueanthem": {
+  "band": "#567C00",
+  "palette": [
+   "#567C00"
+  ],
+  "mark": "icons/brands/trueanthem.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.trueanthem.com/favicon.ico",
+  "markLum": 1.0
+ },
+ "ziff_davis": {
+  "band": "#2B2771",
+  "palette": [
+   "#2B2771"
+  ],
+  "mark": "icons/brands/ziff_davis.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.ziffdavis.com/s/zd/favicon/safari-pinned-tab.svg",
+  "markLum": 0.18
+ },
+ "insider": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/insider.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://insiderone.com/assets/img/fav/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "vivendi": {
+  "band": "#1C48A9",
+  "palette": [
+   "#1C48A9"
+  ],
+  "mark": "icons/brands/vivendi.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://dailymotionadvertising.com/wp-content/uploads/2024/06/cropped-favicon-500x500-1-180x180.png",
+  "markLum": 0.373
+ },
+ "yieldlove": {
+  "band": "#17846C",
+  "palette": [
+   "#17846C"
+  ],
+  "mark": "icons/brands/yieldlove.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.yieldlove.com/favicon.ico",
+  "markLum": 0.567
+ },
+ "anonymousads": {
+  "band": "#3ABCF5",
+  "palette": [
+   "#3ABCF5"
+  ],
+  "mark": "icons/brands/anonymousads.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://aads.com/img/favicons/icon.svg",
+  "markLum": 0.586
+ },
+ "blueconic": {
+  "band": "#0C67FF",
+  "palette": [
+   "#0C67FF"
+  ],
+  "mark": "icons/brands/blueconic.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/69e7daba5cd0f8385862c1c2/69fca1635afc4ca7663b96d8_Webclip.png",
+  "markLum": 0.407
+ },
+ "bidtellect": {
+  "band": "#181818",
+  "palette": [
+   "#181818"
+  ],
+  "mark": "icons/brands/bidtellect.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://bidtellect.com/wp-content/uploads/2023/09/cropped-Simpli.fi_Mark_NeonBlack-RdSq-180x180.png",
+  "markLum": 1.0
+ },
+ "active_campaign": {
+  "band": "#004CFF",
+  "palette": [
+   "#004CFF"
+  ],
+  "mark": "icons/brands/active_campaign.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.activecampaign.com/dist/favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "spotify": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/spotify.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://help.adanalytics.spotify.com/hubfs/Spotify%20Favicon%20(1)-2.png",
+  "markLum": 1.0
+ },
+ "deep_intent": {
+  "band": "#0C2741",
+  "palette": [
+   "#0C2741"
+  ],
+  "mark": "icons/brands/deep_intent.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6892244f9dd9b35467d0048b/68bf194c1edb9e60a9899605_d-deepintent-webclip.png",
+  "markLum": 1.0
+ },
+ "ozone": {
+  "band": "#0B3036",
+  "palette": [
+   "#0B3036"
+  ],
+  "mark": "icons/brands/ozone.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://ozoneproject.com/wp-content/uploads/cropped-ozone_circlesblue_rgb-180x180.png",
+  "markLum": 0.656
+ },
+ "solarwinds": {
+  "band": "#FF6200",
+  "palette": [
+   "#FF6200"
+  ],
+  "mark": "icons/brands/solarwinds.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.pingdom.com/wp-content/uploads/2024/01/cropped-SW_Logo_Stacked_Web_Orange-180x180.png",
+  "markLum": 0.491
+ },
+ "maze": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/maze.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.datocms-assets.com/38511/1762960626-image.png?w=180&h=180",
+  "markLum": 0.18
+ },
+ "logicad": {
+  "band": "#84B12E",
+  "palette": [
+   "#84B12E"
+  ],
+  "mark": "icons/brands/logicad.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://logicad.com/images/apple-touch-icon-precomposed.png",
+  "markLum": 1.0
+ },
+ "dstillery": {
+  "band": "#FF2C1F",
+  "palette": [
+   "#FF2C1F"
+  ],
+  "mark": "icons/brands/dstillery.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://dstillery.com/wp-content/themes/Starter/assets/images/apple-icon-touch.png",
+  "markLum": 0.417
+ },
+ "~adsco.re": {
+  "band": "#BD084B",
+  "palette": [
+   "#BD084B"
+  ],
+  "mark": "icons/brands/-adsco-re.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adscore.com/apple-icon-180x180.png",
+  "markLum": 0.34
+ },
+ "bigcommerce": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/bigcommerce.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://storage.googleapis.com/s.mkswft.com/RmlsZTozYTVlNmQwZi00OWUzLTRlY2YtOTVhZC0zZTVmNTAwMDJkNmY=/BigCommerce-logomark-whitebg.svg",
+  "markLum": 1.0
+ },
+ "adocean": {
+  "band": "#522100",
+  "palette": [
+   "#522100"
+  ],
+  "mark": "icons/brands/adocean.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://adocean-global.com/static/adocean/images/favicons/apple-icon-180x180.png",
+  "markLum": 0.622
+ },
+ "adswizz": {
+  "band": "#7A07FF",
+  "palette": [
+   "#7A07FF"
+  ],
+  "mark": "icons/brands/adswizz.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adswizz.com/wp-content/uploads/2023/10/cropped-site-logo-180x180.png",
+  "markLum": 0.195
+ },
+ "captify": {
+  "band": "#202F37",
+  "palette": [
+   "#202F37"
+  ],
+  "mark": "icons/brands/captify.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://captifytechnologies.com/wp-content/uploads/2021/03/cropped-Captify-Favicon_512x512-180x180.jpg",
+  "markLum": 1.0
+ },
+ "thecoolcompany": {
+  "band": "#3B9D97",
+  "palette": [
+   "#3B9D97"
+  ],
+  "mark": "icons/brands/thecoolcompany.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cool.co/wp-content/uploads/2025/04/favicon-cool.png",
+  "markLum": 0.437
+ },
+ "eyeota": {
+  "band": "#2A2E5B",
+  "palette": [
+   "#2A2E5B"
+  ],
+  "mark": "icons/brands/eyeota.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn2.hubspot.net/hubfs/546156/Eyeota%20Eye_full_color_CMYK.jpg",
+  "markLum": 0.443
+ },
+ "simpli.fi": {
+  "band": "#303136",
+  "palette": [
+   "#303136"
+  ],
+  "mark": "icons/brands/simpli-fi.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://simpli.fi/assets/favicons/favicon-light.png",
+  "markLum": 1.0
+ },
+ "medium": {
+  "band": "#033239",
+  "palette": [
+   "#033239"
+  ],
+  "mark": "icons/brands/medium.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://embed.ly/static/images/apple-touch-icon-144x144.png?v=5d8bb442e247efd7634cec4df3e42f6c",
+  "markLum": 0.745
+ },
+ "us_government": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/us_government.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://digital.gov/themes/custom/digital_gov/static/digitalgov/img/safari-pinned-tab.svg?v=3",
+  "markLum": 1.0
+ },
+ "sprinklr": {
+  "band": "#04AEE1",
+  "palette": [
+   "#04AEE1"
+  ],
+  "mark": "icons/brands/sprinklr.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.sprinklr.com/apple-icon.png?7f3b73fb089e6003",
+  "markLum": 0.593
+ },
+ "dianomi": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/dianomi.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.dianomi.com/wp-content/themes/dianomi/images/favicon.png",
+  "markLum": 1.0
+ },
+ "movable_ink": {
+  "band": "#E11B78",
+  "palette": [
+   "#E11B78"
+  ],
+  "mark": "icons/brands/movable_ink.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6601ecc67f6256b863e8143f/667a3e695eb69f5784c29a2f_file.png",
+  "markLum": 0.508
+ },
+ "samba_tv": {
+  "band": "#441425",
+  "palette": [
+   "#441425"
+  ],
+  "mark": "icons/brands/samba_tv.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/fZarkObP4dVHhUxRLd8NOsj3Jo0.png",
+  "markLum": 1.0
+ },
+ "a8": {
+  "band": "#CB1828",
+  "palette": [
+   "#CB1828"
+  ],
+  "mark": "icons/brands/a8.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.a8.net/wp/wp-content/themes/a8new/images/a8-icon2.png",
+  "markLum": 1.0
+ },
+ "roq.ad": {
+  "band": "#FC7142",
+  "palette": [
+   "#FC7142"
+  ],
+  "mark": "icons/brands/roq-ad.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://roq.ad/favicon.ico",
+  "markLum": 0.567
+ },
+ "mediarithmics": {
+  "band": "#003356",
+  "palette": [
+   "#003356"
+  ],
+  "mark": "icons/brands/mediarithmics.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/61f82f720bea5e5e28d14cfd_favicon-256.png",
+  "markLum": 1.0
+ },
+ "mediamath": {
+  "band": "#91074A",
+  "palette": [
+   "#91074A"
+  ],
+  "mark": "icons/brands/mediamath.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://infillion.com/favicon.ico",
+  "markLum": 0.63
+ },
+ "viglink": {
+  "band": "#272727",
+  "palette": [
+   "#272727"
+  ],
+  "mark": "icons/brands/viglink.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.sovrn.com/wp-content/uploads/2022/02/cropped-sovrn-favicon-180x180.png",
+  "markLum": 1.0
+ },
+ "mediago": {
+  "band": "#3A47F5",
+  "palette": [
+   "#3A47F5"
+  ],
+  "mark": "icons/brands/mediago.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mediago.com/favicon.ico",
+  "markLum": 0.318
+ },
+ "rollbar": {
+  "band": "#2B3249",
+  "palette": [
+   "#2B3249"
+  ],
+  "mark": "icons/brands/rollbar.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/pPKEABOv0Xd4KgtEqnJLwPG6HY.png",
+  "markLum": 1.0
+ },
+ "performax": {
+  "band": "#EF3132",
+  "palette": [
+   "#EF3132"
+  ],
+  "mark": "icons/brands/performax.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.performax.cz/favicon.ico",
+  "markLum": 0.35
+ },
+ "ad_river": {
+  "band": "#0079DA",
+  "palette": [
+   "#0079DA"
+  ],
+  "mark": "icons/brands/ad_river.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adriver.ru/wp-content/uploads/2026/03/ico_adriver.png",
+  "markLum": 0.41
+ },
+ "trackjs": {
+  "band": "#D04142",
+  "palette": [
+   "#D04142"
+  ],
+  "mark": "icons/brands/trackjs.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://trackjs.com/assets/images/favicon/favicon.svg",
+  "markLum": 0.764
+ },
+ "~queue-it": {
+  "band": "#AB601B",
+  "palette": [
+   "#AB601B"
+  ],
+  "mark": "icons/brands/-queue-it.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://queue-it.com/media/kempqmlg/favicon-180.png",
+  "markLum": 1.0
+ },
+ "matomo": {
+  "band": "#0E1429",
+  "palette": [
+   "#0E1429"
+  ],
+  "mark": "icons/brands/matomo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://m-img.org/spai/q_lossless+ret_img+to_webp/matomo.org/wp-content/uploads/2026/04/favicon-matomo-2026-450x450.png",
+  "markLum": 1.0
+ },
+ "perion": {
+  "band": "#00101A",
+  "palette": [
+   "#00101A"
+  ],
+  "mark": "icons/brands/perion.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://perion.com/wp-content/uploads/2026/04/download.png",
+  "markLum": 0.331
+ },
+ "dentsu_aegis_network": {
+  "band": "#12295D",
+  "palette": [
+   "#12295D"
+  ],
+  "mark": "icons/brands/dentsu_aegis_network.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.merkle.com/favicon.ico",
+  "markLum": 0.232
+ },
+ "adpushup": {
+  "band": "#0B2F47",
+  "palette": [
+   "#0B2F47"
+  ],
+  "mark": "icons/brands/adpushup.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adrecover.com/wp-content/themes/adrecover/ar-favicon.png",
+  "markLum": 0.683
+ },
+ "logly": {
+  "band": "#0168B7",
+  "palette": [
+   "#0168B7"
+  ],
+  "mark": "icons/brands/logly.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://logly.co.jp/favicon.ico",
+  "markLum": 1.0
+ },
+ "aniview": {
+  "band": "#FE0000",
+  "palette": [
+   "#FE0000"
+  ],
+  "mark": "icons/brands/aniview.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://aniview.com/wp-content/uploads/2021/08/favicon-120x120-1.png",
+  "markLum": 1.0
+ },
+ "receptiv": {
+  "band": "#0D0D0D",
+  "palette": [
+   "#0D0D0D"
+  ],
+  "mark": "icons/brands/receptiv.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.getreceptiv.com/icon.png?icon.12ch20awh9i04.png?dpl=dpl_84swbi49re8zaFbvbdeuia3NcWWW",
+  "markLum": 1.0
+ },
+ "eskimi": {
+  "band": "#8D5DD9",
+  "palette": [
+   "#8D5DD9"
+  ],
+  "mark": "icons/brands/eskimi.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/60859154db955843c7fc06e7/6386194443ba9f4782714c00_Favincon-big.png",
+  "markLum": 0.868
+ },
+ "acceleration_partners": {
+  "band": "#54BCCC",
+  "palette": [
+   "#54BCCC"
+  ],
+  "mark": "icons/brands/acceleration_partners.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.accelerationpartners.com/wp-content/uploads/2025/01/favicon-512x512-1-300x300.png",
+  "markLum": 0.574
+ },
+ "sirdata": {
+  "band": "#1A3105",
+  "palette": [
+   "#1A3105"
+  ],
+  "mark": "icons/brands/sirdata.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.sirdata.com/images/favicon/ms-icon-144x144.png",
+  "markLum": 0.778
+ },
+ "assertive_communications": {
+  "band": "#0769D8",
+  "palette": [
+   "#0769D8"
+  ],
+  "mark": "icons/brands/assertive_communications.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://assertcom.de/icons/icon-512x512.png?v=f2d1177637d437b266390559d82ee39f",
+  "markLum": 0.365
+ },
+ "rambler": {
+  "band": "#3965FE",
+  "palette": [
+   "#3965FE"
+  ],
+  "mark": "icons/brands/rambler.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.rambler.ru/apple-touch-icon-180x180.png",
+  "markLum": 1.0
+ },
+ "snowplow": {
+  "band": "#B181E3",
+  "palette": [
+   "#B181E3"
+  ],
+  "mark": "icons/brands/snowplow.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/661fd4aa0185c5022e931990/66edc5c7b4a3d16ab66baeeb_SNOWPLOW_Premier_logo%20header-pdf.png",
+  "markLum": 0.616
+ },
+ "mouseflow": {
+  "band": "#3185F4",
+  "palette": [
+   "#3185F4"
+  ],
+  "mark": "icons/brands/mouseflow.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://mouseflow.com/wp-content/themes/mouseflow/assets/images/favicon.svg",
+  "markLum": 0.484
+ },
+ "~digioh": {
+  "band": "#003621",
+  "palette": [
+   "#003621"
+  ],
+  "mark": "icons/brands/-digioh.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/5ff6171603c269c582a4e0ff/670bc8241e4c1b1fd62820d7_Webclip.png",
+  "markLum": 0.678
+ },
+ "stats_perform": {
+  "band": "#F68A1E",
+  "palette": [
+   "#F68A1E"
+  ],
+  "mark": "icons/brands/stats_perform.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.statsperform.com/site/assets/files/1022/favicon.png",
+  "markLum": 0.462
+ },
+ "freakout": {
+  "band": "#AA0000",
+  "palette": [
+   "#AA0000"
+  ],
+  "mark": "icons/brands/freakout.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.fout.co.jp/images/common/freakout_fav192_192.png",
+  "markLum": 0.421
+ },
+ "claritas": {
+  "band": "#F27020",
+  "palette": [
+   "#F27020"
+  ],
+  "mark": "icons/brands/claritas.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://claritas.com/wp-content/themes/claritas/images/favicon.ico",
+  "markLum": 0.536
+ },
+ "ipinfo.io": {
+  "band": "#0095E5",
+  "palette": [
+   "#0095E5"
+  ],
+  "mark": "icons/brands/ipinfo-io.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.assets.ipinfo.io/static/deviceicons/apple-icon-precomposed.png",
+  "markLum": 1.0
+ },
+ "infolinks": {
+  "band": "#17406D",
+  "palette": [
+   "#17406D"
+  ],
+  "mark": "icons/brands/infolinks.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.infolinks.com/wp-content/themes/infolinks/touch-icon-iphone6-retina.png",
+  "markLum": 1.0
+ },
+ "xplosion_interactive": {
+  "band": "#24ACDF",
+  "palette": [
+   "#24ACDF"
+  ],
+  "mark": "icons/brands/xplosion_interactive.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.emetriq.com/favicon.ico",
+  "markLum": 0.58
+ },
+ "sales_manago": {
+  "band": "#000000",
+  "palette": [
+   "#000000"
+  ],
+  "mark": "icons/brands/sales_manago.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://manago.ai/dist/images/favicon.ico",
+  "markLum": 1.0
+ },
+ "buysellads.com": {
+  "band": "#EC4C1A",
+  "palette": [
+   "#EC4C1A"
+  ],
+  "mark": "icons/brands/buysellads-com.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.buysellads.com/hubfs/BSA_Icon_Circle@2x-2.png",
+  "markLum": 0.505
+ },
+ "yottaa": {
+  "band": "#6418E0",
+  "palette": [
+   "#6418E0"
+  ],
+  "mark": "icons/brands/yottaa.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn-ilebngc.nitrocdn.com/vZVgTPoydHoQTJytBIkYnqIBYNcfDvDs/assets/images/optimized/rev-99739ec/www.yottaa.com/wp-content/uploads/2022/11/favicon-1-300x300.png",
+  "markLum": 0.219
+ },
+ "kloudend": {
+  "band": "#003528",
+  "palette": [
+   "#003528"
+  ],
+  "mark": "icons/brands/kloudend.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://ipapi.co/static/images/favicon.b64f1de785e1.ico",
+  "markLum": 0.632
+ },
+ "varify": {
+  "band": "#25A09B",
+  "palette": [
+   "#25A09B"
+  ],
+  "mark": "icons/brands/varify.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://varify.io/wp-content/uploads/2024/10/web-app-manifest-512x512-1-300x300.png",
+  "markLum": 0.57
+ },
+ "tradedoubler": {
+  "band": "#2A72FF",
+  "palette": [
+   "#2A72FF"
+  ],
+  "mark": "icons/brands/tradedoubler.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://static.wixstatic.com/media/0241cd_a4ce8eb0347a4685a6cd906881337d6a%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0241cd_a4ce8eb0347a4685a6cd906881337d6a%7Emv2.png",
+  "markLum": 1.0
+ },
+ "kenshoo": {
+  "band": "#101327",
+  "palette": [
+   "#101327"
+  ],
+  "mark": "icons/brands/kenshoo.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://grid.kenshoo.com/resources-frontend/latest/images/loggin/favicon_skai.ico",
+  "markLum": 0.081
+ },
+ "catchpoint_systems": {
+  "band": "#006BB0",
+  "palette": [
+   "#006BB0"
+  ],
+  "mark": "icons/brands/catchpoint_systems.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/61027bb0bc31fc6cafefbc0c/63861b5c0f7dee7b00e4ee48_CATCHPOINT_FAVICON_256X256.png",
+  "markLum": 0.401
+ },
+ "bloomreach": {
+  "band": "#322A00",
+  "palette": [
+   "#322A00"
+  ],
+  "mark": "icons/brands/bloomreach.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.bloomreach.com/wp-content/uploads/2024/04/favicon.png",
+  "markLum": 0.755
+ },
+ "triggermail": {
+  "band": "#00254A",
+  "palette": [
+   "#00254A"
+  ],
+  "mark": "icons/brands/triggermail.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.bluecore.com/wp-content/themes/bluecore/assets/img/favicon.png",
+  "markLum": 1.0
+ },
+ "mapp_digital": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/mapp_digital.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://mapp.com/wp-content/themes/mapp-cloud/images/favicon/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "myfonts": {
+  "band": "#1A71E7",
+  "palette": [
+   "#1A71E7"
+  ],
+  "mark": "icons/brands/myfonts.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.myfonts.com/cdn/shop/files/MyFonts_Favicon_small.png?v=1717748062",
+  "markLum": 1.0
+ },
+ "wysistat": {
+  "band": "#454789",
+  "palette": [
+   "#454789"
+  ],
+  "mark": "icons/brands/wysistat.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.wysistat.net/wp-content/uploads/2021/11/cropped-favicon-180x180.png",
+  "markLum": 0.333
+ },
+ "mntn": {
+  "band": "#19C8A9",
+  "palette": [
+   "#19C8A9"
+  ],
+  "mark": "icons/brands/mntn.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://mountain.com/wp-content/themes/mountain/img/favicons/safari-pinned-tab.svg",
+  "markLum": 0.581
+ },
+ "shopify": {
+  "band": "#232D10",
+  "palette": [
+   "#232D10"
+  ],
+  "mark": "icons/brands/shopify.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+  "markLum": 0.678
+ },
+ "cognitiv": {
+  "band": "#FF1B82",
+  "palette": [
+   "#FF1B82"
+  ],
+  "mark": "icons/brands/cognitiv.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/668f2b8d666e30fee46b1df1/66cd0593eec5cf639ccbe528_Cognitiv_favicon_256x256.jpg",
+  "markLum": 1.0
+ },
+ "alliance_gravity": {
+  "band": "#FF1852",
+  "palette": [
+   "#FF1852"
+  ],
+  "mark": "icons/brands/alliance_gravity.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.alliancegravity.com/wp-content/uploads/2018/02/cropped-17_11_03_GRVT_favicon_120-180x180.png",
+  "markLum": 0.023
+ },
+ "clickonometrics": {
+  "band": "#0B2E4A",
+  "palette": [
+   "#0B2E4A"
+  ],
+  "mark": "icons/brands/clickonometrics.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.clickonometrics.com/favicon.ico",
+  "markLum": 0.693
+ },
+ "crimtan": {
+  "band": "#B6005C",
+  "palette": [
+   "#B6005C"
+  ],
+  "mark": "icons/brands/crimtan.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://crimtan.com/apple-touch-icon.png",
+  "markLum": 0.193
+ },
+ "brandwatch": {
+  "band": "#0C2F3D",
+  "palette": [
+   "#0C2F3D"
+  ],
+  "mark": "icons/brands/brandwatch.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://s14415.pcdn.co/wp-content/uploads/2020/04/cropped-wp-admin-favicon.png",
+  "markLum": 0.646
+ },
+ "granify": {
+  "band": "#002E6E",
+  "palette": [
+   "#002E6E"
+  ],
+  "mark": "icons/brands/granify.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.bazaarvoice.com/wp-content/themes/bazaarvoice/images/UI/favicon.png",
+  "markLum": 0.284
+ },
+ "innovid": {
+  "band": "#000443",
+  "palette": [
+   "#000443"
+  ],
+  "mark": "icons/brands/innovid.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/66f5cdf821fdf09e1ef53a68/67d816c640d1222de67b848c_WEB%20CLIP.png",
+  "markLum": 1.0
+ },
+ "adtheorant": {
+  "band": "#1100A7",
+  "palette": [
+   "#1100A7"
+  ],
+  "mark": "icons/brands/adtheorant.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/67daded61aa33984834c0335/67eee3c82d29f6094e65ceb9_Cadent_WEB%20CLIP.png",
+  "markLum": 1.0
+ },
+ "dataxu": {
+  "band": "#4F01A3",
+  "palette": [
+   "#4F01A3"
+  ],
+  "mark": "icons/brands/dataxu.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://advertising.roku.com/hubfs/Roku%20Favicon_White.svg",
+  "markLum": 0.2
+ },
+ "~trustx": {
+  "band": "#5566D7",
+  "palette": [
+   "#5566D7"
+  ],
+  "mark": "icons/brands/-trustx.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://trustx.org/apple-icon.png?apple-icon.3-oetrg835y5d.png",
+  "markLum": 0.506
+ },
+ "securedvisit": {
+  "band": "#43B5DD",
+  "palette": [
+   "#43B5DD"
+  ],
+  "mark": "icons/brands/securedvisit.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.rkdms.com/static/m1_favicon.ico",
+  "markLum": 0.37
+ },
+ "rtl_group": {
+  "band": "#222222",
+  "palette": [
+   "#222222"
+  ],
+  "mark": "icons/brands/rtl_group.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.magnite.com/wp-content/uploads/2024/01/cropped-M-Symbol-White-on-Black-512x512-1-180x180.png",
+  "markLum": 0.879
+ },
+ "adverticum": {
+  "band": "#90C842",
+  "palette": [
+   "#90C842"
+  ],
+  "mark": "icons/brands/adverticum.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://adverticum.net/static/img/default/favicon.ico",
+  "markLum": 0.093
+ },
+ "admixer": {
+  "band": "#D31E34",
+  "palette": [
+   "#D31E34"
+  ],
+  "mark": "icons/brands/admixer.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://admixer.com/wp-content/uploads/2020/02/cropped-android-chrome-192x192-1-180x180.png",
+  "markLum": 0.278
+ },
+ "invoca": {
+  "band": "#02B388",
+  "palette": [
+   "#02B388"
+  ],
+  "mark": "icons/brands/invoca.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6995886f58da27b1db987179/6a0c3e0dbb8d8fe7f13e9a21_Invoca%20Favicon.png",
+  "markLum": 1.0
+ },
+ "cpmstar": {
+  "band": "#111010",
+  "palette": [
+   "#111010"
+  ],
+  "mark": "icons/brands/cpmstar.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.cpmstar.com/apple-icon.png?a4ffd37430624199",
+  "markLum": 1.0
+ },
+ "narrative.io": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/narrative-io.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/69fad997feeca0b5caeb3ec7/6a097e4aa437c6d994221206_webclip.png",
+  "markLum": 1.0
+ },
+ "adtelligent": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/adtelligent.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://img.adt-static.com/wp-content/themes/adtelligent/assets/images/favicon/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "enreach": {
+  "band": "#2D2C01",
+  "palette": [
+   "#2D2C01"
+  ],
+  "mark": "icons/brands/enreach.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://simpan369.site/zs99/zeus99-favico.png",
+  "markLum": 0.625
+ },
+ "~kount": {
+  "band": "#9E1B32",
+  "palette": [
+   "#9E1B32"
+  ],
+  "mark": "icons/brands/-kount.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://assets.equifax.com/global/images/icons/apple-touch-icon-57x57.png",
+  "markLum": 1.0
+ },
+ "singular_labs": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/singular_labs.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.singular.net/wp-content/uploads/fbrfg/safari-pinned-tab.svg?v=kP3JbwApQO",
+  "markLum": 1.0
+ },
+ "sojern": {
+  "band": "#E35F3E",
+  "palette": [
+   "#E35F3E"
+  ],
+  "mark": "icons/brands/sojern.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/652ed40a5b50682220b9eb86/652ed40a5b50682220b9ee62_f0787141a0b3bffbec563b7c4d45c80d_favicon-new-256x256.png",
+  "markLum": 0.42
+ },
+ "~arkoselabs.com": {
+  "band": "#C81C1E",
+  "palette": [
+   "#C81C1E"
+  ],
+  "mark": "icons/brands/-arkoselabs-com.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6a08a39dffcfb012b1c4a767/6a0a7e66f71666e4fc58e7d1_favicon-32x32.png",
+  "markLum": 0.253
+ },
+ "cloud_technologies": {
+  "band": "#00A3E4",
+  "palette": [
+   "#00A3E4"
+  ],
+  "mark": "icons/brands/cloud_technologies.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://onaudience.com/wp-content/themes/onaudience/img/favicon/favicon.svg",
+  "markLum": 0.528
+ },
+ "~vidazoo.com": {
+  "band": "#00101A",
+  "palette": [
+   "#00101A"
+  ],
+  "mark": "icons/brands/-vidazoo-com.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://perion.com/wp-content/uploads/2026/04/download.png",
+  "markLum": 0.331
+ },
+ "media2_stat.media": {
+  "band": "#40AE49",
+  "palette": [
+   "#40AE49"
+  ],
+  "mark": "icons/brands/media2_stat-media.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://smi2.net/favicon.png",
+  "markLum": 0.595
+ },
+ "globale": {
+  "band": "#F15A2B",
+  "palette": [
+   "#F15A2B"
+  ],
+  "mark": "icons/brands/globale.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.global-e.com/wp-content/uploads/2018/06/cropped-globale-favicon-180x180.png",
+  "markLum": 0.469
+ },
+ "sundaysky": {
+  "band": "#02184E",
+  "palette": [
+   "#02184E"
+  ],
+  "mark": "icons/brands/sundaysky.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://sundaysky.com/wp-content/uploads/2022/10/favicon-194x194-1.png",
+  "markLum": 0.342
+ },
+ "maxmind": {
+  "band": "#102D48",
+  "palette": [
+   "#102D48"
+  ],
+  "mark": "icons/brands/maxmind.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.maxmind.com/favicon.ico",
+  "markLum": 0.641
+ },
+ "millward_brown": {
+  "band": "#836C18",
+  "palette": [
+   "#836C18"
+  ],
+  "mark": "icons/brands/millward_brown.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.kantar.com/-/media/themes/kantar/global/kantarmain/images/favicon.png",
+  "markLum": 0.609
+ },
+ "speee": {
+  "band": "#042173",
+  "palette": [
+   "#042173"
+  ],
+  "mark": "icons/brands/speee.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://speee.jp/wp-content/themes/speee/images/common/apple-touch-icon.png",
+  "markLum": 0.297
+ },
+ "visa": {
+  "band": "#8F6B02",
+  "palette": [
+   "#8F6B02"
+  ],
+  "mark": "icons/brands/visa.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.visa.com/api/image-proxy?path=/content/dam/visa/favicon.ico",
+  "markLum": 0.49
+ },
+ "resonate": {
+  "band": "#3573C0",
+  "palette": [
+   "#3573C0"
+  ],
+  "mark": "icons/brands/resonate.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://resonatenetworks.com/wp-content/uploads/2018/05/favicon-3.png",
+  "markLum": 0.428
+ },
+ "infonline": {
+  "band": "#1E4E7E",
+  "palette": [
+   "#1E4E7E"
+  ],
+  "mark": "icons/brands/infonline.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.infonline.de/wp-content/uploads/2026/02/cropped-favicon-180x180.png",
+  "markLum": 0.273
+ },
+ "i.r.v.": {
+  "band": "#56C1D4",
+  "palette": [
+   "#56C1D4"
+  ],
+  "mark": "icons/brands/i-r-v-.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.contentexchange.me/wp-content/uploads/2024/04/cropped-apple-touch-icon-removebg-preview-180x180.png",
+  "markLum": 0.468
+ },
+ "wisepops": {
+  "band": "#517E00",
+  "palette": [
+   "#517E00"
+  ],
+  "mark": "icons/brands/wisepops.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://wisepops.com/favicon.svg",
+  "markLum": 1.0
+ },
+ "bidtheatre": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/bidtheatre.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/64d1049ae450b80e0832ade0/64d10585e450b80e0833c39c_webclip.png",
+  "markLum": 1.0
+ },
+ "zenleads": {
+  "band": "#707406",
+  "palette": [
+   "#707406"
+  ],
+  "mark": "icons/brands/zenleads.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.apollo.io/icon.svg?icon.11df6mby0rn6l.svg",
+  "markLum": 1.0
+ },
+ "dealfront_group": {
+  "band": "#4B7F00",
+  "palette": [
+   "#4B7F00"
+  ],
+  "mark": "icons/brands/dealfront_group.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.leadfeeder.com/favicon.svg",
+  "markLum": 1.0
+ },
+ "~sumologic.com": {
+  "band": "#000099",
+  "palette": [
+   "#000099"
+  ],
+  "mark": "icons/brands/-sumologic-com.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.sumologic.com/wp-content/uploads/2024/10/favicon-large-300x300.png",
+  "markLum": 1.0
+ },
+ "~chicory": {
+  "band": "#6E3494",
+  "palette": [
+   "#6E3494"
+  ],
+  "mark": "icons/brands/-chicory.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://images.squarespace-cdn.com/content/v1/5f1759f10de2dd310eb34d73/1605116191471-2FCCO30C0RQD0DO6JDZ9/favicon.ico?format=100w",
+  "markLum": 0.279
+ },
+ "adup_technology": {
+  "band": "#0DACFE",
+  "palette": [
+   "#0DACFE"
+  ],
+  "mark": "icons/brands/adup_technology.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/GXhUQgnAC7Ti8mBiGLSfzAzCOm0.png",
+  "markLum": 0.564
+ },
+ "e-planning": {
+  "band": "#4776FC",
+  "palette": [
+   "#4776FC"
+  ],
+  "mark": "icons/brands/e-planning.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.e-planning.net/images/favicon-512.png",
+  "markLum": 0.467
+ },
+ "flag_counter": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/flag_counter.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://flagcounter.com/images/fcflag.gif",
+  "markLum": 0.87
+ },
+ "adzerk": {
+  "band": "#711703",
+  "palette": [
+   "#711703"
+  ],
+  "mark": "icons/brands/adzerk.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6438318803e690bb3c9b2c2e/688b74584dabb6c337958bea_Kevel-Jelly-badge-nobg.png",
+  "markLum": 0.708
+ },
+ "krush_media": {
+  "band": "#1E223C",
+  "palette": [
+   "#1E223C"
+  ],
+  "mark": "icons/brands/krush_media.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://krushmedia.com/wp-content/uploads/2020/07/cropped-fav-icon-180x180.png",
+  "markLum": 0.31
+ },
+ "dtscout": {
+  "band": "#F64726",
+  "palette": [
+   "#F64726"
+  ],
+  "mark": "icons/brands/dtscout.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.dtscout.com/favicon.png",
+  "markLum": 0.379
+ },
+ "tpmn": {
+  "band": "#492300",
+  "palette": [
+   "#492300"
+  ],
+  "mark": "icons/brands/tpmn.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.tpmn.io/favicon.ico",
+  "markLum": 0.663
+ },
+ "dynata": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/dynata.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.dynata.com/wp-content/uploads/2025/07/Dynata-Favicon-1-300x300.png",
+  "markLum": 0.879
+ },
+ "cookieinformation": {
+  "band": "#2A2A29",
+  "palette": [
+   "#2A2A29"
+  ],
+  "mark": "icons/brands/cookieinformation.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://piwik.pro/wp-content/uploads/2024/04/favicon.png",
+  "markLum": 1.0
+ },
+ "publicis": {
+  "band": "#025450",
+  "palette": [
+   "#025450"
+  ],
+  "mark": "icons/brands/publicis.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.cj.com/hubfs/_branding/logos_to_download/cj_logo_green_rgb.svg",
+  "markLum": 0.408
+ },
+ "storygize": {
+  "band": "#F6921D",
+  "palette": [
+   "#F6921D"
+  ],
+  "mark": "icons/brands/storygize.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.storygize.com/wp-content/uploads/2025/12/cropped-favicon-180x180.png",
+  "markLum": 0.544
+ },
+ "adsninja": {
+  "band": "#BA997F",
+  "palette": [
+   "#BA997F"
+  ],
+  "mark": "icons/brands/adsninja.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adsninja.com/graphics/favicon.png",
+  "markLum": 0.356
+ },
+ "playdigo": {
+  "band": "#0F9F9C",
+  "palette": [
+   "#0F9F9C"
+  ],
+  "mark": "icons/brands/playdigo.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://playdigo.com/assets/brand/mark-full-color-black.svg",
+  "markLum": 0.41
+ },
+ "platform161": {
+  "band": "#252168",
+  "palette": [
+   "#252168"
+  ],
+  "mark": "icons/brands/platform161.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://verve.com/wp-content/uploads/2026/01/cropped-verve-group-inc-icon-180x180.png",
+  "markLum": 0.21
+ },
+ "trbo": {
+  "band": "#033143",
+  "palette": [
+   "#033143"
+  ],
+  "mark": "icons/brands/trbo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.trbo.com/wp-content/uploads/2023/04/cropped-Favicon-180x180.png",
+  "markLum": 0.741
+ },
+ "clearbit": {
+  "band": "#013053",
+  "palette": [
+   "#013053"
+  ],
+  "mark": "icons/brands/clearbit.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://clearbit.com/apple-touch-icon.png",
+  "markLum": 0.657
+ },
+ "codigo": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/codigo.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://codigo.se/favicon.ico",
+  "markLum": 1.0
+ },
+ "framer": {
+  "band": "#171717",
+  "palette": [
+   "#171717"
+  ],
+  "mark": "icons/brands/framer.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://framerusercontent.com/images/aXvo6HfUhqvR7oFjFL8b4AcyGfg.png",
+  "markLum": 1.0
+ },
+ "prebid": {
+  "band": "#3F2603",
+  "palette": [
+   "#3F2603"
+  ],
+  "mark": "icons/brands/prebid.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://prebid.org/wp-content/uploads/2023/06/cropped-prebid-logo-180x180.png",
+  "markLum": 0.66
+ },
+ "glassbox": {
+  "band": "#ED37A9",
+  "palette": [
+   "#ED37A9"
+  ],
+  "mark": "icons/brands/glassbox.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.glassbox.com/u-favicon.svg",
+  "markLum": 0.478
+ },
+ "~geniee": {
+  "band": "#29569A",
+  "palette": [
+   "#29569A"
+  ],
+  "mark": "icons/brands/-geniee.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://geniee.co.jp/wp/wp-content/themes/geniee/images/common/favicon-32x32.png",
+  "markLum": 0.501
+ },
+ "mainadv": {
+  "band": "#01A0DA",
+  "palette": [
+   "#01A0DA"
+  ],
+  "mark": "icons/brands/mainadv.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.mainad.com/favicon.ico",
+  "markLum": 0.597
+ },
+ "de_persgroep": {
+  "band": "#A46F3D",
+  "palette": [
+   "#A46F3D"
+  ],
+  "mark": "icons/brands/de_persgroep.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://myprivacy.dpgmediagroup.net/favicon.ico",
+  "markLum": 0.428
+ },
+ "lytics": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/lytics.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.lytics.com/wp-content/themes/scityl/nextgen/src/scripts/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "logrocket": {
+  "band": "#774CBC",
+  "palette": [
+   "#774CBC"
+  ],
+  "mark": "icons/brands/logrocket.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://logrocket.com/favicon/favicon.svg",
+  "markLum": 0.478
+ },
+ "cint": {
+  "band": "#2E085B",
+  "palette": [
+   "#2E085B"
+  ],
+  "mark": "icons/brands/cint.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.cint.com/wp-content/uploads/2026/01/cropped-Cint-Favicon-150x150-1-180x180.png",
+  "markLum": 1.0
+ },
+ "chilipiper": {
+  "band": "#FF622F",
+  "palette": [
+   "#FF622F"
+  ],
+  "mark": "icons/brands/chilipiper.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/61c9fe00acd90d7271f7014e/63d786892fb10995dd9b5fc6_webclip.png",
+  "markLum": 0.541
+ },
+ "qualia": {
+  "band": "#FAA135",
+  "palette": [
+   "#FAA135"
+  ],
+  "mark": "icons/brands/qualia.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://bluecava.com/images/favicon.ico",
+  "markLum": 0.489
+ },
+ "amoad": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/amoad.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.amoad.com/wp-content/themes/Amoad_WP/assets/images/favicon.ico",
+  "markLum": 1.0
+ },
+ "pt_engine": {
+  "band": "#091D42",
+  "palette": [
+   "#091D42"
+  ],
+  "mark": "icons/brands/pt_engine.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.ptengine.jp/favicon.ico",
+  "markLum": 0.249
+ },
+ "advanced_store": {
+  "band": "#188468",
+  "palette": [
+   "#188468"
+  ],
+  "mark": "icons/brands/advanced_store.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://cdn.prod.website-files.com/6773bb186804ebb82f314733/6773bb996bb43351088f113c_webclip.png",
+  "markLum": 0.597
+ },
+ "getintent": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/getintent.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://getintent.com/wp-content/themes/wp-getintent/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "onesoon": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/onesoon.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.adalyser.com/img/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "adtarget": {
+  "band": "#A76404",
+  "palette": [
+   "#A76404"
+  ],
+  "mark": "icons/brands/adtarget.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://adtarget.com.tr/assets/images/favicon.png",
+  "markLum": 0.039
+ },
+ "honeybadger": {
+  "band": "#E95937",
+  "palette": [
+   "#E95937"
+  ],
+  "mark": "icons/brands/honeybadger.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.honeybadger.io/favicon.svg",
+  "markLum": 0.466
+ },
+ "transcend": {
+  "band": "#3D424D",
+  "palette": [
+   "#3D424D"
+  ],
+  "mark": "icons/brands/transcend.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://transcend.io/safari-pinned-tab.svg",
+  "markLum": 1.0
+ },
+ "urban_airship": {
+  "band": "#1556E5",
+  "palette": [
+   "#1556E5"
+  ],
+  "mark": "icons/brands/urban_airship.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.airship.com/wp-content/uploads/2025/11/cropped-faviconV2-180x180.png",
+  "markLum": 0.332
+ },
+ "bridgewell": {
+  "band": "#5155FF",
+  "palette": [
+   "#5155FF"
+  ],
+  "mark": "icons/brands/bridgewell.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.bridgewell.com/wp-content/uploads/bridgewell_favicon_114x114.png",
+  "markLum": 1.0
+ },
+ "neory": {
+  "band": "#0067A3",
+  "palette": [
+   "#0067A3"
+  ],
+  "mark": "icons/brands/neory.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://www.neory.com/static/favicon.ico",
+  "markLum": 0.335
+ },
+ "customer.io": {
+  "band": "#0B353B",
+  "palette": [
+   "#0B353B"
+  ],
+  "mark": "icons/brands/customer-io.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://customer.io/favicon.svg",
+  "markLum": 1.0
+ },
+ "~otm-r.com": {
+  "band": "#1A56DA",
+  "palette": [
+   "#1A56DA"
+  ],
+  "mark": "icons/brands/-otm-r-com.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://otm-r.ru/favicon.svg",
+  "markLum": 0.429
+ },
+ "aidata": {
+  "band": "#0F2F38",
+  "palette": [
+   "#0F2F38"
+  ],
+  "mark": "icons/brands/aidata.png",
+  "plate": "",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://static.tildacdn.com/tild3766-3631-4833-b766-383737336465/favicon_aidata.ico",
+  "markLum": 0.621
+ },
+ "purch": {
+  "band": "#A71930",
+  "palette": [
+   "#A71930"
+  ],
+  "mark": "icons/brands/purch.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://futureplc.com/wp-content/themes/futureplc/library/images/favicons/favicon.svg",
+  "markLum": 0.225
+ },
+ "videonow": {
+  "band": "#21254D",
+  "palette": [
+   "#21254D"
+  ],
+  "mark": "icons/brands/videonow.png",
+  "plate": "plated circle",
+  "decalW": 20,
+  "decalH": 20,
+  "src": "https://videonow.ru/images/favicon-32x32.png",
+  "markLum": 0.193
+ }
+}

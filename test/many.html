@@ -1,0 +1,84 @@
+<!doctype html>
+<meta charset="utf-8">
+<!--
+  Thirty companies at once, to exercise column wrapping and the paint order.
+
+  The page's own CSP blocks every one of these requests, so nothing is ever
+  actually sent to a tracker — but the <img> nodes still exist, which is what
+  the DOM sweep in content.js reads. Hermetic and quiet on the wire.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline'">
+<title>Creepy Peeper — 30 companies</title>
+<link rel="stylesheet" href="_shared.css">
+<h1>30 companies</h1>
+<p>Expect <b>30 cameras</b> wrapping into two or three columns down the right-hand
+   edge, all tracking the pointer. Resize the window and the stack should reflow.</p>
+<p><button id="under">click-through target</button> <span id="log"></span></p>
+<details>
+  <summary>What is on the page</summary>
+  <ol>
+    <li><code>2mdn.net</code> — Google</li>
+    <li><code>cloudflareinsights.com</code> — Cloudflare</li>
+    <li><code>facebook.com</code> — Meta</li>
+    <li><code>amazon-adsystem.com</code> — Amazon</li>
+    <li><code>mixpanel.com</code> — Mixpanel</li>
+    <li><code>scorecardresearch.com</code> — comScore, Inc.</li>
+    <li><code>ads.microsoft.com</code> — Microsoft</li>
+    <li><code>adobe.com</code> — Adobe</li>
+    <li><code>criteo.com</code> — Criteo</li>
+    <li><code>d1ros97qkrwjf5.cloudfront.net</code> — New Relic</li>
+    <li><code>dpclk.com</code> — Magnite</li>
+    <li><code>basebanner.com</code> — Taboola</li>
+    <li><code>go-mpulse.net</code> — Akamai Technologies</li>
+    <li><code>mc.yandex.ru</code> — Yandex</li>
+    <li><code>chartbeat.com</code> — ChartBeat</li>
+    <li><code>storage-yahoo.jp</code> — Yahoo! Japan</li>
+    <li><code>adsrvr.org</code> — The Trade Desk</li>
+    <li><code>analytics.tiktok.com</code> — ByteDance Inc</li>
+    <li><code>pubmatic.com</code> — PubMatic, Inc.</li>
+    <li><code>pippio.com</code> — LiveRamp</li>
+    <li><code>ads-twitter.com</code> — X Corp.</li>
+    <li><code>w.org</code> — Automattic</li>
+    <li><code>piano.io</code> — Piano Software</li>
+    <li><code>qualtrics.com</code> — Qualtrics</li>
+    <li><code>tealium.com</code> — Tealium</li>
+    <li><code>hotjar.com</code> — Hotjar</li>
+    <li><code>quantcast.com</code> — Quantcast</li>
+    <li><code>appboycdn.com</code> — Braze</li>
+    <li><code>id5-sync.com</code> — ID5 Technology</li>
+    <li><code>tumblr.com</code> — Yahoo</li>
+  </ol>
+</details>
+<div hidden>
+  <img alt="" width="1" height="1" src="https://2mdn.net/creepy-peeper-fixture.gif">   <!-- Google -->
+  <img alt="" width="1" height="1" src="https://cloudflareinsights.com/creepy-peeper-fixture.gif">   <!-- Cloudflare -->
+  <img alt="" width="1" height="1" src="https://facebook.com/creepy-peeper-fixture.gif">   <!-- Meta -->
+  <img alt="" width="1" height="1" src="https://amazon-adsystem.com/creepy-peeper-fixture.gif">   <!-- Amazon -->
+  <img alt="" width="1" height="1" src="https://mixpanel.com/creepy-peeper-fixture.gif">   <!-- Mixpanel -->
+  <img alt="" width="1" height="1" src="https://scorecardresearch.com/creepy-peeper-fixture.gif">   <!-- comScore, Inc. -->
+  <img alt="" width="1" height="1" src="https://ads.microsoft.com/creepy-peeper-fixture.gif">   <!-- Microsoft -->
+  <img alt="" width="1" height="1" src="https://adobe.com/creepy-peeper-fixture.gif">   <!-- Adobe -->
+  <img alt="" width="1" height="1" src="https://criteo.com/creepy-peeper-fixture.gif">   <!-- Criteo -->
+  <img alt="" width="1" height="1" src="https://d1ros97qkrwjf5.cloudfront.net/creepy-peeper-fixture.gif">   <!-- New Relic -->
+  <img alt="" width="1" height="1" src="https://dpclk.com/creepy-peeper-fixture.gif">   <!-- Magnite -->
+  <img alt="" width="1" height="1" src="https://basebanner.com/creepy-peeper-fixture.gif">   <!-- Taboola -->
+  <img alt="" width="1" height="1" src="https://go-mpulse.net/creepy-peeper-fixture.gif">   <!-- Akamai Technologies -->
+  <img alt="" width="1" height="1" src="https://mc.yandex.ru/creepy-peeper-fixture.gif">   <!-- Yandex -->
+  <img alt="" width="1" height="1" src="https://chartbeat.com/creepy-peeper-fixture.gif">   <!-- ChartBeat -->
+  <img alt="" width="1" height="1" src="https://storage-yahoo.jp/creepy-peeper-fixture.gif">   <!-- Yahoo! Japan -->
+  <img alt="" width="1" height="1" src="https://adsrvr.org/creepy-peeper-fixture.gif">   <!-- The Trade Desk -->
+  <img alt="" width="1" height="1" src="https://analytics.tiktok.com/creepy-peeper-fixture.gif">   <!-- ByteDance Inc -->
+  <img alt="" width="1" height="1" src="https://pubmatic.com/creepy-peeper-fixture.gif">   <!-- PubMatic, Inc. -->
+  <img alt="" width="1" height="1" src="https://pippio.com/creepy-peeper-fixture.gif">   <!-- LiveRamp -->
+  <img alt="" width="1" height="1" src="https://ads-twitter.com/creepy-peeper-fixture.gif">   <!-- X Corp. -->
+  <img alt="" width="1" height="1" src="https://w.org/creepy-peeper-fixture.gif">   <!-- Automattic -->
+  <img alt="" width="1" height="1" src="https://piano.io/creepy-peeper-fixture.gif">   <!-- Piano Software -->
+  <img alt="" width="1" height="1" src="https://qualtrics.com/creepy-peeper-fixture.gif">   <!-- Qualtrics -->
+  <img alt="" width="1" height="1" src="https://tealium.com/creepy-peeper-fixture.gif">   <!-- Tealium -->
+  <img alt="" width="1" height="1" src="https://hotjar.com/creepy-peeper-fixture.gif">   <!-- Hotjar -->
+  <img alt="" width="1" height="1" src="https://quantcast.com/creepy-peeper-fixture.gif">   <!-- Quantcast -->
+  <img alt="" width="1" height="1" src="https://appboycdn.com/creepy-peeper-fixture.gif">   <!-- Braze -->
+  <img alt="" width="1" height="1" src="https://id5-sync.com/creepy-peeper-fixture.gif">   <!-- ID5 Technology -->
+  <img alt="" width="1" height="1" src="https://tumblr.com/creepy-peeper-fixture.gif">   <!-- Yahoo -->
+</div>
+<script src="_shared.js"></script>

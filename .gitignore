@@ -1,0 +1,10 @@
+.DS_Store
+dist/
+__pycache__/
+
+# Harvested logo artwork. These are trademarks, and the files are byte copies
+# of icons served from each company's own CDN, so this repository does not
+# carry them — see tools/fetch-logos.mjs. data/decals.json records where each
+# one came from, which is what makes them reproducible.
+data/candidates/
+icons/brands/

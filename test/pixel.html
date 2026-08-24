@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>pixel (live) — Meta Pixel</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+<!-- NOTE: this is the verbatim real-world snippet. Loading this page fetches
+     fbevents.js from connect.facebook.net and sends a PageView beacon to
+     facebook.com/tr with the dummy id below. Use pixel-offline.html if you
+     would rather not talk to Meta at all. -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '000000000000000');
+fbq('track', 'PageView');
+</script>
+<h1>pixel.html</h1>
+<p class="expect">Expected: camera, immediately.</p>
+<p>The real snippet, real <code>fbevents.js</code>, dummy pixel id.</p>
+<button id="under">click me</button>
+<div id="log"></div>

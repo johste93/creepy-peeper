@@ -1,0 +1,20 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Creepy Peeper — fixtures</title>
+<link rel="stylesheet" href="_shared.css">
+<h1>Creepy Peeper fixtures</h1>
+<ul>
+  <li><a href="all-three.html">all-three.html</a> — Meta + Google + Microsoft (Ads and Clarity). <b>Four stacked cameras.</b></li>
+  <li><a href="pixel-offline.html">pixel-offline.html</a> — the Meta Pixel, with nothing sent to Meta. <b>One camera.</b></li>
+  <li><a href="google.html">google.html</a> — gtag.js. <b>One camera.</b></li>
+  <li><a href="microsoft.html">microsoft.html</a> — UET + Clarity. <b>Two cameras</b> — they are two separate trackers.</li>
+  <li><a href="pixel.html">pixel.html</a> — the verbatim Meta Pixel base code (does contact facebook.com). <b>One camera.</b></li>
+  <li><a href="late.html">late.html</a> — Meta Pixel injected after 5s. <b>Camera appears late.</b></li>
+  <li><a href="noscript.html">noscript.html</a> — only the &lt;noscript&gt; fallback pixel. <b>One camera.</b></li>
+  <li><a href="many.html">many.html</a> — 30 trackers at once, requests blocked by the page's own CSP. <b>30 cameras wrapping into columns.</b></li>
+  <li><a href="clean.html">clean.html</a> — no tracker. <b>No camera.</b></li>
+</ul>
+<p><a href="popup-preview.html">popup-preview.html</a> — the toolbar popup in its three
+   states, against stubbed chrome APIs. No extension needed.</p>
+<p><a href="pose-preview.html">pose-preview.html</a> — every brand at fixed yaw/lean poses,
+   no extension needed. Requires the server to be rooted at the repo, not <code>test/</code>.</p>

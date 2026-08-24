@@ -1,0 +1,14 @@
+{
+  "_comment": "Homepage overrides for companies whose trackerdb website_url is dead, redirects to a product page with no branding, or belongs to a different arm of the business. Read by tools/harvest-brands.mjs in preference to the registry URL.",
+  "comscore": "https://www.comscore.com/",
+  "yandex": "https://yandex.com/",
+  "pubmatic": "https://pubmatic.com/",
+  "klaviyo": "https://www.klaviyo.com/",
+  "outbrain": "https://www.outbrain.com/",
+  "index_exchange": "https://www.indexexchange.com/",
+  "acxiom": "https://liveramp.com/",
+  "criteo": "https://www.criteo.com/",
+  "yahoo_japan": "https://www.yahoo.co.jp/",
+  "facebook": "https://about.meta.com/",
+  "twitter": "https://x.com/"
+}

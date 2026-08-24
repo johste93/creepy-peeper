@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>all three trackers</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+
+<!-- Meta Pixel (still fbq on the wire) -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script','./vendor-stub.js');
+fbq('init', '000000000000000');
+</script>
+
+<!-- Google gtag.js -->
+<script async src="./vendor-stub.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-0000000000');
+</script>
+
+<!-- Microsoft UET + Clarity -->
+<script>
+  (function (w, d, t, r, u) {
+    w[u] = w[u] || [];
+    var n = d.createElement(t); n.src = r; n.async = 1;
+    d.getElementsByTagName(t)[0].parentNode.appendChild(n);
+  })(window, document, "script", "./vendor-stub.js", "uetq");
+  (function (c, a) {
+    c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+  })(window, "clarity");
+</script>
+
+<h1>all-three.html</h1>
+<p class="expect">Expected: three cameras stacked down the right edge.</p>
+<p>Meta (blue, infinity), Google (blue, four-colour <b>G</b>), Microsoft (blue,
+   four squares) — top to bottom in detection order. All three should track the
+   pointer independently. Every loader points at a local stub, so nothing leaves
+   the machine.</p>
+<button id="under">click me</button>
+<div id="log"></div>

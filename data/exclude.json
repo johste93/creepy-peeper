@@ -1,0 +1,11 @@
+{
+  "_comment": "Things TrackerDB lists that Creepy Peeper should not raise a camera for. Applied by tools/build-registry.mjs.",
+
+  "trackers": {
+    "google_tag": "Google Tag Manager is a container, not a tracker. It is routinely used to *gate* tracking behind consent, so flagging it punishes the sites doing the right thing. Whatever GTM actually loads is detected on its own domain."
+  },
+
+  "domains": {
+    "w.org": "WordPress.org's asset CDN. s.w.org serves the emoji sprite that core WordPress loads on every page, self-hosted or not, with no analytics involved. The Jetpack stats pixel this pattern is really about lives on stats.wp.com, which is still matched."
+  }
+}

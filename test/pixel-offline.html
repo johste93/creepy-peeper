@@ -1,0 +1,27 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>pixel (offline) — Meta Pixel</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+<!-- The standard Meta Pixel base code, with the loader pointed at a local stub so
+     nothing is sent to Meta. window.fbq and the inline fbq('init') call are
+     identical to the real thing, which is what the extension keys off. -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'./vendor-stub.js');
+fbq('init', '000000000000000');
+fbq('track', 'PageView');
+</script>
+<h1>pixel-offline.html</h1>
+<p class="expect">Expected: camera, immediately.</p>
+<p>Move the mouse anywhere &mdash; the head should track it. Move onto the camera
+   and it should fade out; the dashed button underneath should still take the click.
+   The page is tall, so scroll and confirm the camera stays pinned.</p>
+<button id="under">click me</button>
+<div id="log"></div>

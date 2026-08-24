@@ -1,0 +1,6816 @@
+[
+ {
+  "id": "google",
+  "name": "Google",
+  "category": "advertising",
+  "reach": 0.2309587932903264,
+  "rank": 1,
+  "website_url": "https://marketingplatform.google.com/about/enterprise/",
+  "products": [
+   "Google Marketing Platform",
+   "Google",
+   "Google AdServices",
+   "Google Syndication",
+   "Google Analytics",
+   "Google Analytics with signals",
+   "Google Website Optimizer",
+   "Merchant Center Analytics"
+  ],
+  "domains": [
+   "2mdn.net",
+   "doubleclick.net",
+   "invitemedia.com",
+   "adservice.google.com",
+   "adtrafficquality.google",
+   "google.at",
+   "google.be",
+   "google.ca",
+   "google.ch",
+   "google.co.id",
+   "google.co.in",
+   "google.co.jp",
+   "google.co.ma",
+   "google.co.th",
+   "google.co.uk",
+   "google.com",
+   "google.com.ar",
+   "google.com.au",
+   "google.com.br",
+   "google.com.mx",
+   "google.com.tr",
+   "google.com.tw",
+   "google.com.ua",
+   "google.cz",
+   "google.de",
+   "google.dk",
+   "google.dz",
+   "google.es",
+   "google.fi",
+   "google.fr",
+   "google.gr",
+   "google.hu",
+   "google.ie",
+   "google.it",
+   "google.nl",
+   "google.no",
+   "google.pl",
+   "google.pt",
+   "google.ro",
+   "google.rs",
+   "google.ru",
+   "google.se",
+   "google.tn",
+   "search.app",
+   "g.co",
+   "googleadservices.com",
+   "googlesyndication.com",
+   "google-analytics.com",
+   "region1.google-analytics.com",
+   "googleanalytics.com",
+   "analytics.google.com",
+   "googleoptimize.com",
+   "merchant-center-analytics.goog"
+  ]
+ },
+ {
+  "id": "cloudflare",
+  "name": "Cloudflare",
+  "category": "site_analytics",
+  "reach": 0.0882929910765668,
+  "rank": 2,
+  "website_url": "https://www.cloudflare.com/insights/",
+  "products": [
+   "Cloudflare Insights"
+  ],
+  "domains": [
+   "cloudflareinsights.com"
+  ]
+ },
+ {
+  "id": "facebook",
+  "name": "Meta",
+  "category": "advertising",
+  "reach": 0.0601606936433362,
+  "rank": 3,
+  "website_url": "https://www.facebook.com",
+  "products": [
+   "Facebook"
+  ],
+  "domains": [
+   "facebook.com",
+   "facebook.net"
+  ]
+ },
+ {
+  "id": "amazon_associates",
+  "name": "Amazon",
+  "category": "advertising",
+  "reach": 0.0539241597436097,
+  "rank": 4,
+  "website_url": "https://advertising.amazon.com/",
+  "products": [
+   "Amazon Advertising",
+   "Amazon Metrics",
+   "Alexa Metrics"
+  ],
+  "domains": [
+   "amazon-adsystem.com",
+   "serving-sys.com",
+   "sizmek.com",
+   "paa-reporting-advertising.amazon",
+   "a2z.com",
+   "alexametrics.com",
+   "d31qbv1cthcecs.cloudfront.net",
+   "d5nxst8fruw4z.cloudfront.net"
+  ]
+ },
+ {
+  "id": "mixpanel",
+  "name": "Mixpanel",
+  "category": "site_analytics",
+  "reach": 0.0262813705181659,
+  "rank": 5,
+  "website_url": "https://mixpanel.com/",
+  "products": [
+   "Mixpanel"
+  ],
+  "domains": [
+   "mixpanel.com",
+   "mxpnl.com",
+   "mxpnl.net"
+  ]
+ },
+ {
+  "id": "comscore",
+  "name": "comScore",
+  "category": "site_analytics",
+  "reach": 0.0255751840465507,
+  "rank": 6,
+  "website_url": "https://www.scorecardresearch.com/",
+  "products": [
+   "ScoreCard Research Beacon",
+   "ComScore, Inc."
+  ],
+  "domains": [
+   "scorecardresearch.com",
+   "scoreresearch.com",
+   "scrsrch.com",
+   "securestudies.com",
+   "comscore.com",
+   "zqtk.net"
+  ]
+ },
+ {
+  "id": "microsoft",
+  "name": "Microsoft",
+  "category": "advertising",
+  "reach": 0.0207452568717872,
+  "rank": 7,
+  "website_url": "https://ads.microsoft.com/",
+  "products": [
+   "Microsoft Advertising",
+   "Microsoft Clarity",
+   "AppNexus",
+   "LinkedIn Analytics",
+   "LinkedIn Ads",
+   "Dynamics 365"
+  ],
+  "domains": [
+   "ads.microsoft.com",
+   "bat.r.msn.com",
+   "bing.com",
+   "bing.net",
+   "bing-int.com",
+   "clarity.ms",
+   "adnxs.com",
+   "adnxs.net",
+   "adnxs-simple.com",
+   "snap.licdn.com",
+   "ads.linkedin.com",
+   "px.ads.linkedin.com",
+   "px4.ads.linkedin.com",
+   "p.adsymptotic.com",
+   "cdn.linkedin.oribi.io",
+   "gw.linkedin.oribi.io",
+   "dc.ads.linkedin.com",
+   "sjs.bizographics.com",
+   "svc.dynamics.com",
+   "omnichannelengagementhub.com"
+  ]
+ },
+ {
+  "id": "adobe",
+  "name": "Adobe",
+  "category": "advertising",
+  "reach": 0.0182689729351338,
+  "rank": 8,
+  "website_url": "http://www.demdex.com/",
+  "products": [
+   "Adobe Audience Manager",
+   "Adobe Experience Cloud",
+   "Adobe Advertising Cloud",
+   "Adobe Marketo Engage"
+  ],
+  "domains": [
+   "adobe.com",
+   "demdex.net",
+   "adobedc.net",
+   "2o7.net",
+   "du8783wkf05yr.cloudfront.net",
+   "hitbox.com",
+   "imageg.net",
+   "nedstat.com",
+   "omtrdc.net",
+   "sitestat.com",
+   "rum.hlx.page",
+   "adoberesources.net",
+   "everestjs.net",
+   "everesttech.net",
+   "marketo.com",
+   "marketo.net",
+   "mktoresp.com",
+   "bizible.com"
+  ]
+ },
+ {
+  "id": "criteo",
+  "name": "Criteo",
+  "category": "advertising",
+  "reach": 0.017561705718008,
+  "rank": 9,
+  "website_url": "https://www.criteo.com/",
+  "products": [
+   "Criteo",
+   "Bidswitch"
+  ],
+  "domains": [
+   "criteo.com",
+   "criteo.net",
+   "bidswitch.net",
+   "exe.bid"
+  ]
+ },
+ {
+  "id": "new_relic",
+  "name": "New Relic",
+  "category": "site_analytics",
+  "reach": 0.0175611489023749,
+  "rank": 10,
+  "website_url": "https://newrelic.com/",
+  "products": [
+   "New Relic"
+  ],
+  "domains": [
+   "d1ros97qkrwjf5.cloudfront.net",
+   "newrelic.com",
+   "nr-data.net"
+  ]
+ },
+ {
+  "id": "magnite",
+  "name": "Magnite",
+  "category": "advertising",
+  "reach": 0.0167764514264969,
+  "rank": 11,
+  "website_url": "https://www.magnite.com/",
+  "products": [
+   "Magnite",
+   "SpringServe"
+  ],
+  "domains": [
+   "dpclk.com",
+   "mobsmith.com",
+   "nearbyad.com",
+   "rubiconproject.com",
+   "springserve.com"
+  ]
+ },
+ {
+  "id": "taboola",
+  "name": "Taboola",
+  "category": "advertising",
+  "reach": 0.0145276113541801,
+  "rank": 12,
+  "website_url": "http://www.taboola.com",
+  "products": [
+   "Taboola"
+  ],
+  "domains": [
+   "basebanner.com",
+   "taboola.com",
+   "taboolasyndication.com",
+   "api-taboola.com"
+  ]
+ },
+ {
+  "id": "akamai",
+  "name": "Akamai",
+  "category": "site_analytics",
+  "reach": 0.0141670362352922,
+  "rank": 13,
+  "website_url": "https://www.akamai.com/products/mpulse-real-user-monitoring",
+  "products": [
+   "mPulse"
+  ],
+  "domains": [
+   "go-mpulse.net",
+   "mpstat.us",
+   "tiaa-cref.org"
+  ]
+ },
+ {
+  "id": "yandex",
+  "name": "Yandex",
+  "category": "advertising",
+  "reach": 0.0135531608267977,
+  "rank": 14,
+  "website_url": "https://metrica.yandex.com/",
+  "products": [
+   "Yandex Metrika",
+   "Yandex",
+   "Yandex.Direct"
+  ],
+  "domains": [
+   "mc.yandex.ru",
+   "awaps.yandex.ru",
+   "d31j93rd8oukbv.cloudfront.net",
+   "webvisor.org",
+   "yandex.net",
+   "yandex.ru",
+   "yastatic.net",
+   "an.webvisor.org",
+   "an.yandex.ru",
+   "bs.yandex.ru"
+  ]
+ },
+ {
+  "id": "chartbeat",
+  "name": "ChartBeat",
+  "category": "site_analytics",
+  "reach": 0.0124399099890563,
+  "rank": 15,
+  "website_url": "https://chartbeat.com/",
+  "products": [
+   "ChartBeat"
+  ],
+  "domains": [
+   "chartbeat.com",
+   "chartbeat.net"
+  ]
+ },
+ {
+  "id": "yahoo_japan",
+  "name": "Yahoo! Japan",
+  "category": "advertising",
+  "reach": 0.0111302841044963,
+  "rank": 16,
+  "website_url": "https://www.yahoo.com/",
+  "products": [
+   "Yahoo! Japan Retargeting"
+  ],
+  "domains": [
+   "storage-yahoo.jp",
+   "yahoo.co.jp",
+   "yahooapis.jp",
+   "yimg.jp",
+   "yjtag.jp"
+  ]
+ },
+ {
+  "id": "the_trade_desk",
+  "name": "The Trade Desk",
+  "category": "advertising",
+  "reach": 0.0106943692145416,
+  "rank": 17,
+  "website_url": "https://www.thetradedesk.com/",
+  "products": [
+   "TradeDesk"
+  ],
+  "domains": [
+   "adsrvr.org",
+   "adsrvr.cn"
+  ]
+ },
+ {
+  "id": "bytedance_inc",
+  "name": "TikTok",
+  "category": "site_analytics",
+  "reach": 0.0103801495576595,
+  "rank": 18,
+  "website_url": "https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en",
+  "products": [
+   "TikTok Analytics"
+  ],
+  "domains": [
+   "analytics.tiktok.com",
+   "mon.tiktokv.com",
+   "analytics-ipv6.tiktokw.us"
+  ]
+ },
+ {
+  "id": "pubmatic",
+  "name": "PubMatic",
+  "category": "advertising",
+  "reach": 0.0103409773910221,
+  "rank": 19,
+  "website_url": "https://www.pubmatic.com/",
+  "products": [
+   "PubMatic"
+  ],
+  "domains": [
+   "pubmatic.com"
+  ]
+ },
+ {
+  "id": "acxiom",
+  "name": "LiveRamp",
+  "category": "advertising",
+  "reach": 0.0100216761375101,
+  "rank": 20,
+  "website_url": "https://liveramp.com/",
+  "products": [
+   "LiveRamp"
+  ],
+  "domains": [
+   "pippio.com",
+   "rapleaf.com",
+   "rlcdn.com",
+   "tvpixel.com"
+  ]
+ },
+ {
+  "id": "twitter",
+  "name": "X",
+  "category": "advertising",
+  "reach": 0.0096668052023961,
+  "rank": 21,
+  "website_url": "https://twitter.com/widgets",
+  "products": [
+   "X Advertising",
+   "X Analytics"
+  ],
+  "domains": [
+   "ads-twitter.com",
+   "analytics.twitter.com"
+  ]
+ },
+ {
+  "id": "automattic",
+  "name": "WordPress",
+  "category": "site_analytics",
+  "reach": 0.0094771231542275,
+  "rank": 22,
+  "website_url": "https://wordpress.org/extend/plugins/stats/",
+  "products": [
+   "WordPress Stats",
+   "Jetpack"
+  ],
+  "domains": [
+   "wordpress.com",
+   "wp.com",
+   "pixel.wp.com",
+   "stats.wp.com"
+  ]
+ },
+ {
+  "id": "piano",
+  "name": "Piano",
+  "category": "site_analytics",
+  "reach": 0.0091709380853393,
+  "rank": 23,
+  "website_url": "https://www.piano.io/product/analytics",
+  "products": [
+   "Piano Analytics"
+  ],
+  "domains": [
+   "piano.io",
+   "ati-host.net",
+   "aticdn.net",
+   "xiti.com"
+  ]
+ },
+ {
+  "id": "qualtrics",
+  "name": "Qualtrics",
+  "category": "site_analytics",
+  "reach": 0.0091500743156787,
+  "rank": 24,
+  "website_url": "https://www.qualtrics.com/",
+  "products": [
+   "Qualtrics"
+  ],
+  "domains": [
+   "qualtrics.com"
+  ]
+ },
+ {
+  "id": "tealium",
+  "name": "Tealium",
+  "category": "site_analytics",
+  "reach": 0.0086595593553312,
+  "rank": 25,
+  "website_url": "https://www.tealium.com/",
+  "products": [
+   "Tealium"
+  ],
+  "domains": [
+   "tealium.com",
+   "tealium.hs.llnwd.net",
+   "tealiumiq.com",
+   "tiqcdn.com"
+  ]
+ },
+ {
+  "id": "hotjar",
+  "name": "Hotjar",
+  "category": "site_analytics",
+  "reach": 0.0086509156334567,
+  "rank": 26,
+  "website_url": "https://www.hotjar.com/",
+  "products": [
+   "Hotjar"
+  ],
+  "domains": [
+   "hotjar.com",
+   "hotjar.io"
+  ]
+ },
+ {
+  "id": "quantcast",
+  "name": "Quantcast",
+  "category": "advertising",
+  "reach": 0.0081306039364063,
+  "rank": 27,
+  "website_url": "https://www.quantcast.com/",
+  "products": [
+   "Quantcast",
+   "Quantcount"
+  ],
+  "domains": [
+   "quantcast.com",
+   "quantserve.com",
+   "quantcount.com"
+  ]
+ },
+ {
+  "id": "braze_inc",
+  "name": "Braze",
+  "category": "site_analytics",
+  "reach": 0.007767755215967,
+  "rank": 28,
+  "website_url": "https://www.braze.com/",
+  "products": [
+   "Braze"
+  ],
+  "domains": [
+   "appboycdn.com",
+   "braze.com"
+  ]
+ },
+ {
+  "id": "id5_technology_ltd",
+  "name": "ID5",
+  "category": "advertising",
+  "reach": 0.0074879430281909,
+  "rank": 29,
+  "website_url": "https://id5.io/",
+  "products": [
+   "ID5 Sync"
+  ],
+  "domains": [
+   "id5-sync.com",
+   "eu-1-id5-sync.com",
+   "eu-2-id5-sync.com",
+   "eu-3-id5-sync.com",
+   "eu-4-id5-sync.com"
+  ]
+ },
+ {
+  "id": "yahoo",
+  "name": "Yahoo",
+  "category": "advertising",
+  "reach": 0.0074296044453194,
+  "rank": 30,
+  "website_url": "https://yahoo.com",
+  "products": [
+   "Yahoo!",
+   "Yahoo! Analytics",
+   "Verizon Media"
+  ],
+  "domains": [
+   "tumblr.com",
+   "yahoo.com",
+   "yahooapis.com",
+   "yimg.com",
+   "analytics.yahoo.com",
+   "adsdk.com",
+   "advertising.com",
+   "aol.com",
+   "atwola.com",
+   "pictela.net",
+   "verizonmedia.com"
+  ]
+ },
+ {
+  "id": "permutive",
+  "name": "Permutive",
+  "category": "advertising",
+  "reach": 0.0074221490950645,
+  "rank": 31,
+  "website_url": "https://permutive.com/",
+  "products": [
+   "Permutive"
+  ],
+  "domains": [
+   "permutive.com",
+   "permutive.app"
+  ]
+ },
+ {
+  "id": "klaviyo",
+  "name": "Klaviyo",
+  "category": "site_analytics",
+  "reach": 0.0073978809023051,
+  "rank": 32,
+  "website_url": "",
+  "products": [
+   "Klaviyo"
+  ],
+  "domains": [
+   "a.klaviyo.com",
+   "static.klaviyo.com",
+   "static-tracking.klaviyo.com"
+  ]
+ },
+ {
+  "id": "ebay_partner_network",
+  "name": "eBay",
+  "category": "advertising",
+  "reach": 0.0073931894503201,
+  "rank": 33,
+  "website_url": "https://partnernetwork.ebay.com/",
+  "products": [
+   "eBay Stats"
+  ],
+  "domains": [
+   "classistatic.de",
+   "ebay-us.com",
+   "ebay.com",
+   "ebay.de",
+   "ebayclassifiedsgroup.com",
+   "ebaycommercenetwork.com",
+   "ebaydesc.com",
+   "ebayimg.com",
+   "ebayrtm.com",
+   "ebaystatic.com"
+  ]
+ },
+ {
+  "id": "cxense",
+  "name": "Cxense",
+  "category": "advertising",
+  "reach": 0.007367196997607,
+  "rank": 34,
+  "website_url": "https://www.cxense.com/",
+  "products": [
+   "cXense"
+  ],
+  "domains": [
+   "cxense.com"
+  ]
+ },
+ {
+  "id": "outbrain",
+  "name": "Outbrain",
+  "category": "advertising",
+  "reach": 0.0071602678654804,
+  "rank": 35,
+  "website_url": "https://www.outbrain.com/",
+  "products": [
+   "Outbrain",
+   "Teads",
+   "Zemanta"
+  ],
+  "domains": [
+   "outbrain.com",
+   "outbrainimg.com",
+   "teads.tv",
+   "zemanta.com"
+  ]
+ },
+ {
+  "id": "amplitude",
+  "name": "Amplitude",
+  "category": "site_analytics",
+  "reach": 0.0071401059077385,
+  "rank": 36,
+  "website_url": "https://amplitude.com/",
+  "products": [
+   "Amplitude"
+  ],
+  "domains": [
+   "amplitude.com",
+   "d24n15hnbwhuhn.cloudfront.net"
+  ]
+ },
+ {
+  "id": "triplelift",
+  "name": "TripleLift",
+  "category": "advertising",
+  "reach": 0.0068163179908099,
+  "rank": 37,
+  "website_url": "https://triplelift.com/",
+  "products": [
+   "TripleLift"
+  ],
+  "domains": [
+   "3lift.com",
+   "d3iwjrnl4m67rd.cloudfront.net",
+   "triplelift.com"
+  ]
+ },
+ {
+  "id": "index_exchange",
+  "name": "Index Exchange",
+  "category": "advertising",
+  "reach": 0.0066455504838844,
+  "rank": 38,
+  "website_url": "http://www.casalemedia.com/",
+  "products": [
+   "Index Exchange"
+  ],
+  "domains": [
+   "casalemedia.com",
+   "indexww.com"
+  ]
+ },
+ {
+  "id": "gemius_sa",
+  "name": "Gemius",
+  "category": "advertising",
+  "reach": 0.0066336876949876,
+  "rank": 39,
+  "website_url": "http://www.gemius.com",
+  "products": [
+   "Gemius"
+  ],
+  "domains": [
+   "gemius.pl"
+  ]
+ },
+ {
+  "id": "openx",
+  "name": "OpenX",
+  "category": "advertising",
+  "reach": 0.0058145012830183,
+  "rank": 40,
+  "website_url": "https://www.openx.com",
+  "products": [
+   "OpenX"
+  ],
+  "domains": [
+   "odnxs.net",
+   "openx.net",
+   "openx.org",
+   "openxenterprise.com",
+   "servedbyopenx.com",
+   "openxcdn.net"
+  ]
+ },
+ {
+  "id": "marfeel_solutions",
+  "name": "Marfeel Solutions",
+  "category": "advertising",
+  "reach": 0.0057847583593699,
+  "rank": 41,
+  "website_url": "https://www.marfeel.com/",
+  "products": [
+   "Marfeel"
+  ],
+  "domains": [
+   "mrf.io",
+   "events.newsroom.bi"
+  ]
+ },
+ {
+  "id": "~pendo.io",
+  "name": "pendo",
+  "category": "site_analytics",
+  "reach": 0.0057094768857788,
+  "rank": 42,
+  "website_url": "https://www.pendo.io/",
+  "products": [
+   "pendo"
+  ],
+  "domains": [
+   "pendo.io"
+  ]
+ },
+ {
+  "id": "equativ",
+  "name": "Equativ",
+  "category": "advertising",
+  "reach": 0.0057029400944676,
+  "rank": 43,
+  "website_url": "https://www.equativ.com/",
+  "products": [
+   "Smart AdServer"
+  ],
+  "domains": [
+   "sascdn.com",
+   "smartadserver.com",
+   "styria-digital.com",
+   "yoc-adserver.com"
+  ]
+ },
+ {
+  "id": "bugsnag",
+  "name": "SmartBear",
+  "category": "site_analytics",
+  "reach": 0.0056456075167533,
+  "rank": 44,
+  "website_url": "https://bugsnag.com",
+  "products": [
+   "Bugsnag"
+  ],
+  "domains": [
+   "bugsnag.com",
+   "d2wy8f7a9ursnm.cloudfront.net"
+  ]
+ },
+ {
+  "id": "rtb_house",
+  "name": "RTB House",
+  "category": "advertising",
+  "reach": 0.0055420188817033,
+  "rank": 45,
+  "website_url": "http://en.adpilot.com/",
+  "products": [
+   "RTB House"
+  ],
+  "domains": [
+   "creativecdn.com",
+   "esp.rtbhouse.com"
+  ]
+ },
+ {
+  "id": "nielsen",
+  "name": "Nielsen",
+  "category": "advertising",
+  "reach": 0.0054977172846098,
+  "rank": 46,
+  "website_url": "http://www.nielsen-online.com/intlpage.html",
+  "products": [
+   "NetRatings SiteCensus",
+   "eXelate"
+  ],
+  "domains": [
+   "glanceguide.com",
+   "imrworldwide.com",
+   "vizu.com",
+   "exelator.com"
+  ]
+ },
+ {
+  "id": "integral_ad_science",
+  "name": "Integral Ad Science",
+  "category": "advertising",
+  "reach": 0.0053000133543073,
+  "rank": 47,
+  "website_url": "https://integralads.com/",
+  "products": [
+   "Integral Ad Science"
+  ],
+  "domains": [
+   "adsafeprotected.com",
+   "iasds01.com"
+  ]
+ },
+ {
+  "id": "wingify",
+  "name": "Wingify",
+  "category": "site_analytics",
+  "reach": 0.0051242658976326,
+  "rank": 48,
+  "website_url": "https://vwo.com/",
+  "products": [
+   "VWO"
+  ],
+  "domains": [
+   "d5phz18u4wuww.cloudfront.net",
+   "visualwebsiteoptimizer.com",
+   "wingify.com"
+  ]
+ },
+ {
+  "id": "gumgum",
+  "name": "GumGum",
+  "category": "advertising",
+  "reach": 0.005012650148624,
+  "rank": 49,
+  "website_url": "https://gumgum.com/",
+  "products": [
+   "gumgum"
+  ],
+  "domains": [
+   "gumgum.com"
+  ]
+ },
+ {
+  "id": "twilio",
+  "name": "Segment",
+  "category": "site_analytics",
+  "reach": 0.0048276655316686,
+  "rank": 50,
+  "website_url": "https://segment.io/",
+  "products": [
+   "Segment"
+  ],
+  "domains": [
+   "d2dq2ahtl5zl1z.cloudfront.net",
+   "d47xnnr8b1rki.cloudfront.net",
+   "segment.com",
+   "segment.io",
+   "t.arcade.show",
+   "segmentapis.com"
+  ]
+ },
+ {
+  "id": "ipsos",
+  "name": "Ipsos",
+  "category": "site_analytics",
+  "reach": 0.0046818852197025,
+  "rank": 51,
+  "website_url": "https://dotmetrics.net/",
+  "products": [
+   "Dotmetrics"
+  ],
+  "domains": [
+   "dotmetrics.net"
+  ]
+ },
+ {
+  "id": "adform",
+  "name": "Adform",
+  "category": "advertising",
+  "reach": 0.0045086587551491,
+  "rank": 52,
+  "website_url": "http://www.adform.com",
+  "products": [
+   "Adform"
+  ],
+  "domains": [
+   "adform.net",
+   "adformdsp.net",
+   "seadform.net"
+  ]
+ },
+ {
+  "id": "hubspot",
+  "name": "HubSpot",
+  "category": "advertising",
+  "reach": 0.0043564320876995,
+  "rank": 53,
+  "website_url": "https://www.hubspot.com/",
+  "products": [
+   "HubSpot",
+   "HubSpot Ads pixel"
+  ],
+  "domains": [
+   "hs-analytics.net",
+   "hs-scripts.com",
+   "hs-sites.com",
+   "hubapi.com",
+   "hubspot.com",
+   "hscta.net",
+   "hs-sites-eu1.com",
+   "no-cache.hubspot.com",
+   "hsadspixel.net"
+  ]
+ },
+ {
+  "id": "pubstack",
+  "name": "pubstack",
+  "category": "advertising",
+  "reach": 0.0042908190262284,
+  "rank": 54,
+  "website_url": "https://www.pubstack.io/",
+  "products": [
+   "Pubstack"
+  ],
+  "domains": [
+   "pbstck.com"
+  ]
+ },
+ {
+  "id": "liveintent",
+  "name": "LiveIntent",
+  "category": "site_analytics",
+  "reach": 0.0041714646610254,
+  "rank": 55,
+  "website_url": "",
+  "products": [
+   "Live Intent"
+  ],
+  "domains": [
+   "liadm.com"
+  ]
+ },
+ {
+  "id": "kameleoon",
+  "name": "Kameleoon",
+  "category": "site_analytics",
+  "reach": 0.0041483497119194,
+  "rank": 56,
+  "website_url": "https://www.kameleoon.com/",
+  "products": [
+   "Kameleoon"
+  ],
+  "domains": [
+   "kameleoon.com",
+   "kameleoon.eu",
+   "kameleoon.io"
+  ]
+ },
+ {
+  "id": "~pub.network",
+  "name": "pub.network",
+  "category": "advertising",
+  "reach": 0.0041443167224482,
+  "rank": 57,
+  "website_url": "",
+  "products": [
+   "pub.network"
+  ],
+  "domains": [
+   "pub.network"
+  ]
+ },
+ {
+  "id": "lotame",
+  "name": "Lotame",
+  "category": "advertising",
+  "reach": 0.0040712445737045,
+  "rank": 58,
+  "website_url": "https://www.lotame.com/",
+  "products": [
+   "Lotame"
+  ],
+  "domains": [
+   "crwdcntrl.net",
+   "ltmsphrcl.net"
+  ]
+ },
+ {
+  "id": "media.net",
+  "name": "Media.net",
+  "category": "advertising",
+  "reach": 0.0038985054162555,
+  "rank": 59,
+  "website_url": "https://www.media.net/",
+  "products": [
+   "Media.net"
+  ],
+  "domains": [
+   "media.net"
+  ]
+ },
+ {
+  "id": "histats",
+  "name": "Histats",
+  "category": "site_analytics",
+  "reach": 0.0037356454387231,
+  "rank": 60,
+  "website_url": "https://www.histats.com/",
+  "products": [
+   "Histats"
+  ],
+  "domains": [
+   "histats.com"
+  ]
+ },
+ {
+  "id": "doubleverify",
+  "name": "DoubleVerify",
+  "category": "advertising",
+  "reach": 0.0036165549069677,
+  "rank": 61,
+  "website_url": "https://www.doubleverify.com/",
+  "products": [
+   "DoubleVerify"
+  ],
+  "domains": [
+   "doubleverify.com"
+  ]
+ },
+ {
+  "id": "audigent",
+  "name": "Audigent",
+  "category": "advertising",
+  "reach": 0.0036158635586984,
+  "rank": 62,
+  "website_url": "http://www.audiencesquare.fr/",
+  "products": [
+   "Audience Square"
+  ],
+  "domains": [
+   "audigent.com",
+   "ad.gt"
+  ]
+ },
+ {
+  "id": "~pusher.com",
+  "name": "Pusher",
+  "category": "site_analytics",
+  "reach": 0.003586631111664,
+  "rank": 63,
+  "website_url": "https://pusher.com/",
+  "products": [
+   "Pusher"
+  ],
+  "domains": [
+   "pusher.com",
+   "pusherapp.com"
+  ]
+ },
+ {
+  "id": "parse.ly",
+  "name": "Parse.ly",
+  "category": "site_analytics",
+  "reach": 0.0035651611977371,
+  "rank": 64,
+  "website_url": "https://www.parse.ly/",
+  "products": [
+   "Parse.ly"
+  ],
+  "domains": [
+   "d1z2jf7jlzjs58.cloudfront.net",
+   "parsely.com"
+  ]
+ },
+ {
+  "id": "sharethis",
+  "name": "ShareThis",
+  "category": "advertising",
+  "reach": 0.0034781851010444,
+  "rank": 65,
+  "website_url": "https://sharethis.com/",
+  "products": [
+   "ShareThis"
+  ],
+  "domains": [
+   "sharethis.com"
+  ]
+ },
+ {
+  "id": "brand_metrics",
+  "name": "Brand Metrics",
+  "category": "advertising",
+  "reach": 0.0033856199207221,
+  "rank": 66,
+  "website_url": "https://www.brandmetrics.com/",
+  "products": [
+   "Brand Metrics"
+  ],
+  "domains": [
+   "brandmetrics.com"
+  ]
+ },
+ {
+  "id": "wunderkind",
+  "name": "Wunderkind",
+  "category": "advertising",
+  "reach": 0.003253676290387,
+  "rank": 67,
+  "website_url": "https://www.wunderkind.co/",
+  "products": [
+   "Wunderkind"
+  ],
+  "domains": [
+   "bounceexchange.com",
+   "bouncex.com",
+   "bouncex.net",
+   "wknd.ai",
+   "wunderkind.co",
+   "ibx2.net"
+  ]
+ },
+ {
+  "id": "dynatrace",
+  "name": "Dynatrace",
+  "category": "site_analytics",
+  "reach": 0.0031997608416316,
+  "rank": 68,
+  "website_url": "https://www.dynatrace.com/",
+  "products": [
+   "Dynatrace"
+  ],
+  "domains": [
+   "dynatrace.com"
+  ]
+ },
+ {
+  "id": "~speedcurve",
+  "name": "SpeedCurve",
+  "category": "site_analytics",
+  "reach": 0.0031403071326868,
+  "rank": 69,
+  "website_url": "https://speedcurve.com/",
+  "products": [
+   "SpeedCurve"
+  ],
+  "domains": [
+   "speedcurve.com"
+  ]
+ },
+ {
+  "id": "baidu",
+  "name": "Baidu",
+  "category": "advertising",
+  "reach": 0.0031237117846107,
+  "rank": 70,
+  "website_url": "http://www.baidu.com/",
+  "products": [
+   "Baidu Ads"
+  ],
+  "domains": [
+   "baidu.com",
+   "baidustatic.com"
+  ]
+ },
+ {
+  "id": "connatix",
+  "name": "Connatix Native Exchange",
+  "category": "advertising",
+  "reach": 0.0031213821277943,
+  "rank": 71,
+  "website_url": "https://connatix.com/",
+  "products": [
+   "Connatix"
+  ],
+  "domains": [
+   "connatix.com"
+  ]
+ },
+ {
+  "id": "snap_technologies",
+  "name": "Snapchat",
+  "category": "advertising",
+  "reach": 0.0027961031408147,
+  "rank": 72,
+  "website_url": "https://www.snapchat.com/",
+  "products": [
+   "Snapchat For Business"
+  ],
+  "domains": [
+   "sc-static.net",
+   "snapchat.com"
+  ]
+ },
+ {
+  "id": "five_media",
+  "name": "Five Media",
+  "category": "advertising",
+  "reach": 0.0027599818754045,
+  "rank": 73,
+  "website_url": "https://www.geoedge.com/",
+  "products": [
+   "GeoEdge"
+  ],
+  "domains": [
+   "geoedge.be"
+  ]
+ },
+ {
+  "id": "onetag",
+  "name": "OneTag",
+  "category": "advertising",
+  "reach": 0.0027457251529873,
+  "rank": 74,
+  "website_url": "https://www.onetag.com/",
+  "products": [
+   "OneTag"
+  ],
+  "domains": [
+   "onetag.com",
+   "s-onetag.com",
+   "onetag-sys.com"
+  ]
+ },
+ {
+  "id": "auth0",
+  "name": "Auth0",
+  "category": "site_analytics",
+  "reach": 0.0027326343800836,
+  "rank": 75,
+  "website_url": "https://auth0.com/",
+  "products": [
+   "Auth0 Inc."
+  ],
+  "domains": [
+   "auth0.com"
+  ]
+ },
+ {
+  "id": "naver",
+  "name": "Naver",
+  "category": "advertising",
+  "reach": 0.002657515840463,
+  "rank": 76,
+  "website_url": "https://www.naver.com/",
+  "products": [
+   "Naver"
+  ],
+  "domains": [
+   "naver.com",
+   "naver.net"
+  ]
+ },
+ {
+  "id": "33across",
+  "name": "33Across",
+  "category": "advertising",
+  "reach": 0.0026400677049542,
+  "rank": 77,
+  "website_url": "https://www.33across.com/",
+  "products": [
+   "33Across"
+  ],
+  "domains": [
+   "33across.com",
+   "tynt.com"
+  ]
+ },
+ {
+  "id": "ab_tasty",
+  "name": "AB Tasty",
+  "category": "site_analytics",
+  "reach": 0.0026299067539051,
+  "rank": 78,
+  "website_url": "https://en.abtasty.com",
+  "products": [
+   "AB Tasty"
+  ],
+  "domains": [
+   "abtasty.com",
+   "d1447tq2m68ekg.cloudfront.net"
+  ]
+ },
+ {
+  "id": "quantum_metric",
+  "name": "Quantum Metric",
+  "category": "site_analytics",
+  "reach": 0.0025489861206476,
+  "rank": 79,
+  "website_url": "https://www.quantummetric.com/",
+  "products": [
+   "Quantum Metric"
+  ],
+  "domains": [
+   "quantummetric.com"
+  ]
+ },
+ {
+  "id": "microad",
+  "name": "MicroAd",
+  "category": "advertising",
+  "reach": 0.0024921804624249,
+  "rank": 80,
+  "website_url": "https://www.microad.co.jp/",
+  "products": [
+   "MicroAd"
+  ],
+  "domains": [
+   "microad.co.jp",
+   "microad.jp",
+   "microad.net",
+   "microadinc.com"
+  ]
+ },
+ {
+  "id": "intimate_merger",
+  "name": "Intimate Merger",
+  "category": "site_analytics",
+  "reach": 0.0024595353708528,
+  "rank": 81,
+  "website_url": "",
+  "products": [
+   "Intimate Merger"
+  ],
+  "domains": [
+   "im-apps.net"
+  ]
+ },
+ {
+  "id": "neustar",
+  "name": "TransUnion",
+  "category": "advertising",
+  "reach": 0.0023568914538701,
+  "rank": 82,
+  "website_url": "http://www.aggregateknowledge.com/",
+  "products": [
+   "Aggregate Knowledge"
+  ],
+  "domains": [
+   "agkn.com"
+  ]
+ },
+ {
+  "id": "fullstory",
+  "name": "fullstory",
+  "category": "site_analytics",
+  "reach": 0.002301500630538,
+  "rank": 83,
+  "website_url": "",
+  "products": [
+   "FullStory"
+  ],
+  "domains": [
+   "fullstory.com"
+  ]
+ },
+ {
+  "id": "stackadapt",
+  "name": "StackAdapt",
+  "category": "advertising",
+  "reach": 0.0022157129054649,
+  "rank": 84,
+  "website_url": "",
+  "products": [
+   "StackAdapt"
+  ],
+  "domains": [
+   "stackadapt.com"
+  ]
+ },
+ {
+  "id": "datadome",
+  "name": "DataDome",
+  "category": "site_analytics",
+  "reach": 0.0021991691282327,
+  "rank": 85,
+  "website_url": "https://datadome.co/",
+  "products": [
+   "DataDome"
+  ],
+  "domains": [
+   "datadome.co"
+  ]
+ },
+ {
+  "id": "improve_digital",
+  "name": "Improve Digital",
+  "category": "advertising",
+  "reach": 0.0021686541367334,
+  "rank": 86,
+  "website_url": "https://www.improvedigital.com/",
+  "products": [
+   "Improve Digital"
+  ],
+  "domains": [
+   "360yield.com"
+  ]
+ },
+ {
+  "id": "seedtag",
+  "name": "Seedtag Advertising",
+  "category": "advertising",
+  "reach": 0.0021667146245618,
+  "rank": 87,
+  "website_url": "https://www.seedtag.com/en/",
+  "products": [
+   "Seedtag",
+   "Beachfront Media"
+  ],
+  "domains": [
+   "seedtag.com",
+   "bfmio.com"
+  ]
+ },
+ {
+  "id": "rich_audience",
+  "name": "Rich Audience",
+  "category": "advertising",
+  "reach": 0.0021548555726827,
+  "rank": 88,
+  "website_url": "https://richaudience.com/",
+  "products": [
+   "Rich Audience"
+  ],
+  "domains": [
+   "s.richaudience.com",
+   "shb.richaudience.com",
+   "sync.richaudience.com"
+  ]
+ },
+ {
+  "id": "appsflyer",
+  "name": "AppsFlyer",
+  "category": "site_analytics",
+  "reach": 0.0021440922143849,
+  "rank": 89,
+  "website_url": "https://www.appsflyer.com/",
+  "products": [
+   "AppsFlyer"
+  ],
+  "domains": [
+   "appsflyer.com",
+   "appsflyersdk.com"
+  ]
+ },
+ {
+  "id": "viafoura",
+  "name": "Viafoura",
+  "category": "advertising",
+  "reach": 0.0020781981291849,
+  "rank": 90,
+  "website_url": "http://www.viafoura.com/",
+  "products": [
+   "Viafoura"
+  ],
+  "domains": [
+   "viafoura.com",
+   "viafoura.net",
+   "viafoura.co"
+  ]
+ },
+ {
+  "id": "monet_engine",
+  "name": "Monet Engine",
+  "category": "advertising",
+  "reach": 0.0020764761114418,
+  "rank": 91,
+  "website_url": "https://adaptmx.com/",
+  "products": [
+   "AdaptMX"
+  ],
+  "domains": [
+   "amxrtb.com",
+   "a-mo.net"
+  ]
+ },
+ {
+  "id": "sovrn",
+  "name": "Sovrn Holdings",
+  "category": "advertising",
+  "reach": 0.0020748422873158,
+  "rank": 92,
+  "website_url": "https://www.sovrn.com/",
+  "products": [
+   "sovrn"
+  ],
+  "domains": [
+   "d3pkae9owd2lcf.cloudfront.net",
+   "lijit.com"
+  ]
+ },
+ {
+  "id": "nexxen",
+  "name": "Nexxen",
+  "category": "advertising",
+  "reach": 0.0019904282899388,
+  "rank": 93,
+  "website_url": "http://www.nexxen.com/",
+  "products": [
+   "Unruly Media",
+   "Rhythmone Beacon"
+  ],
+  "domains": [
+   "unrulymedia.com",
+   "1rx.io"
+  ]
+ },
+ {
+  "id": "yotpo",
+  "name": "Yotpo",
+  "category": "site_analytics",
+  "reach": 0.0019894140633428,
+  "rank": 94,
+  "website_url": "https://www.yotpo.com/",
+  "products": [
+   "Yotpo"
+  ],
+  "domains": [
+   "yotpo.com"
+  ]
+ },
+ {
+  "id": "crazy_egg",
+  "name": "Crazy Egg",
+  "category": "site_analytics",
+  "reach": 0.0019295119122774,
+  "rank": 95,
+  "website_url": "http://crazyegg.com/",
+  "products": [
+   "Crazy Egg"
+  ],
+  "domains": [
+   "cetrk.com",
+   "crazyegg.com",
+   "dnn506yrbagrg.cloudfront.net"
+  ]
+ },
+ {
+  "id": "fluct",
+  "name": "Fluct",
+  "category": "advertising",
+  "reach": 0.0019069193982419,
+  "rank": 96,
+  "website_url": "https://corp.fluct.jp/",
+  "products": [
+   "Fluct"
+  ],
+  "domains": [
+   "adingo.jp"
+  ]
+ },
+ {
+  "id": "adnami",
+  "name": "Adnami",
+  "category": "advertising",
+  "reach": 0.0018790532048682,
+  "rank": 97,
+  "website_url": "https://www.adnami.io",
+  "products": [
+   "Adnami"
+  ],
+  "domains": [
+   "adnami.io"
+  ]
+ },
+ {
+  "id": "nativo",
+  "name": "Nativo",
+  "category": "advertising",
+  "reach": 0.00187868772454,
+  "rank": 98,
+  "website_url": "http://www.nativo.net/",
+  "products": [
+   "Nativo"
+  ],
+  "domains": [
+   "ntv.io",
+   "postrelease.com"
+  ]
+ },
+ {
+  "id": "line",
+  "name": "Line",
+  "category": "site_analytics",
+  "reach": 0.0018588890049158,
+  "rank": 99,
+  "website_url": "https://line.me/en-US/",
+  "products": [
+   "Line"
+  ],
+  "domains": [
+   "line-apps.com",
+   "line-scdn.net",
+   "line.me"
+  ]
+ },
+ {
+  "id": "conversant",
+  "name": "Conversant",
+  "category": "advertising",
+  "reach": 0.0018496525920386,
+  "rank": 100,
+  "website_url": "http://www.dotomi.com/",
+  "products": [
+   "Dotomi"
+  ],
+  "domains": [
+   "dotomi.com",
+   "dtmc.com",
+   "dtmpub.com"
+  ]
+ },
+ {
+  "id": "content_square",
+  "name": "Contentsquare",
+  "category": "site_analytics",
+  "reach": 0.0018266258365497,
+  "rank": 101,
+  "website_url": "https://www.contentsquare.com/",
+  "products": [
+   "ContentSquare",
+   "Heap"
+  ],
+  "domains": [
+   "contentsquare.net",
+   "d36lvucg9kzous.cloudfront.net",
+   "heapanalytics.com",
+   "heap-api.com"
+  ]
+ },
+ {
+  "id": "sharethrough",
+  "name": "Sharethrough",
+  "category": "advertising",
+  "reach": 0.001793979997574,
+  "rank": 102,
+  "website_url": "https://www.sharethrough.com/",
+  "products": [
+   "ShareThrough"
+  ],
+  "domains": [
+   "shareth.ru",
+   "sharethrough.com"
+  ]
+ },
+ {
+  "id": "mercado_livre",
+  "name": "Mercado Livre",
+  "category": "advertising",
+  "reach": 0.0017698777283992,
+  "rank": 103,
+  "website_url": "https://www.mercadolivre.com.br/",
+  "products": [
+   "Mercado"
+  ],
+  "domains": [
+   "mercadoclics.com",
+   "mercadolivre.com.br",
+   "mlstatic.com"
+  ]
+ },
+ {
+  "id": "sailthru",
+  "name": "Sailthru",
+  "category": "site_analytics",
+  "reach": 0.0017690324150018,
+  "rank": 104,
+  "website_url": "https://www.sailthru.com",
+  "products": [
+   "Sailthru Horizon"
+  ],
+  "domains": [
+   "sail-horizon.com",
+   "sail-personalize.com",
+   "sailthru.com",
+   "api.sail-track.com"
+  ]
+ },
+ {
+  "id": "relevant_digital",
+  "name": "Relevant Digital",
+  "category": "advertising",
+  "reach": 0.0017467059766246,
+  "rank": 105,
+  "website_url": "https://www.relevant-digital.com/",
+  "products": [
+   "Relevant Digital"
+  ],
+  "domains": [
+   "relevant-digital.com"
+  ]
+ },
+ {
+  "id": "anonymised",
+  "name": "Anonymised",
+  "category": "advertising",
+  "reach": 0.0017438785490542,
+  "rank": 106,
+  "website_url": "https://www.anonymised.io/",
+  "products": [
+   "Anonymised"
+  ],
+  "domains": [
+   "anonymised.io"
+  ]
+ },
+ {
+  "id": "comcast",
+  "name": "Comcast",
+  "category": "advertising",
+  "reach": 0.0017406363125223,
+  "rank": 107,
+  "website_url": "http://www.freewheel.tv/",
+  "products": [
+   "FreeWheel",
+   "StickyAds"
+  ],
+  "domains": [
+   "fwmrm.net",
+   "stickyadstv.com"
+  ]
+ },
+ {
+  "id": "posthog",
+  "name": "PostHog",
+  "category": "site_analytics",
+  "reach": 0.0017289282361572,
+  "rank": 108,
+  "website_url": "https://posthog.com/",
+  "products": [
+   "PostHog"
+  ],
+  "domains": [
+   "posthog.com"
+  ]
+ },
+ {
+  "id": "salesforce",
+  "name": "Salesforce",
+  "category": "advertising",
+  "reach": 0.0017002339196675,
+  "rank": 109,
+  "website_url": "https://www.demandware.com/#cquotient",
+  "products": [
+   "CQuotient",
+   "Salesforce",
+   "Marketing Cloud Account Engagement",
+   "Salesforce DMP"
+  ],
+  "domains": [
+   "cquotient.com",
+   "force.com",
+   "salesforce.com",
+   "pardot.com",
+   "krxd.net"
+  ]
+ },
+ {
+  "id": "ad_lightning",
+  "name": "Ad Lightning",
+  "category": "advertising",
+  "reach": 0.0016962412899871,
+  "rank": 110,
+  "website_url": "https://www.adlightning.com/",
+  "products": [
+   "Ad Lightning"
+  ],
+  "domains": [
+   "adlightning.com"
+  ]
+ },
+ {
+  "id": "kilkaya",
+  "name": "Kilkaya",
+  "category": "site_analytics",
+  "reach": 0.0016013778437968,
+  "rank": 111,
+  "website_url": "https://kilkaya.com",
+  "products": [
+   "Kilkaya"
+  ],
+  "domains": [
+   "k5a.io"
+  ]
+ },
+ {
+  "id": "experian_inc",
+  "name": "Experian",
+  "category": "advertising",
+  "reach": 0.0015977275249351,
+  "rank": 112,
+  "website_url": "https://www.tapad.com/",
+  "products": [
+   "Tapad"
+  ],
+  "domains": [
+   "tapad.com"
+  ]
+ },
+ {
+  "id": "branch_metrics_inc",
+  "name": "Branch Metrics",
+  "category": "advertising",
+  "reach": 0.001584005196045,
+  "rank": 113,
+  "website_url": "https://branch.io/",
+  "products": [
+   "Branch"
+  ],
+  "domains": [
+   "app.link",
+   "branch.io"
+  ]
+ },
+ {
+  "id": "gg_software",
+  "name": "GG Software",
+  "category": "advertising",
+  "reach": 0.0015691266338872,
+  "rank": 114,
+  "website_url": "https://nitropay.com/",
+  "products": [
+   "NitroPay"
+  ],
+  "domains": [
+   "nitropay.com"
+  ]
+ },
+ {
+  "id": "rakuten",
+  "name": "Rakuten",
+  "category": "advertising",
+  "reach": 0.0015679860960939,
+  "rank": 115,
+  "website_url": "https://www.rakuten.co.jp/",
+  "products": [
+   "Rakuten",
+   "Rakuten LinkShare",
+   "Rakuten Display"
+  ],
+  "domains": [
+   "rakuten.co.jp",
+   "trafficgate.net",
+   "tag.rmp.rakuten.com",
+   "linksynergy.com",
+   "mediaforge.com",
+   "rmtag.com"
+  ]
+ },
+ {
+  "id": "1plusx",
+  "name": "1plusX AG",
+  "category": "site_analytics",
+  "reach": 0.0015648006622306,
+  "rank": 116,
+  "website_url": "https://www.1plusx.com/",
+  "products": [
+   "1plusX"
+  ],
+  "domains": [
+   "opecloud.com"
+  ]
+ },
+ {
+  "id": "beeswax",
+  "name": "Beeswax",
+  "category": "advertising",
+  "reach": 0.0015489190845298,
+  "rank": 117,
+  "website_url": "",
+  "products": [
+   "Beeswax"
+  ],
+  "domains": [
+   "bidr.io"
+  ]
+ },
+ {
+  "id": "mediaocean",
+  "name": "Mediaocean",
+  "category": "advertising",
+  "reach": 0.0014647614465651,
+  "rank": 118,
+  "website_url": "http://www.flashtalking.com/",
+  "products": [
+   "Flashtalking"
+  ],
+  "domains": [
+   "flashtalking.com"
+  ]
+ },
+ {
+  "id": "aditude",
+  "name": "Aditude",
+  "category": "advertising",
+  "reach": 0.0014442960429882,
+  "rank": 119,
+  "website_url": "https://hashtag-labs.com/",
+  "products": [
+   "Hashtag Labs"
+  ],
+  "domains": [
+   "htlbid.com"
+  ]
+ },
+ {
+  "id": "singtel",
+  "name": "Singtel",
+  "category": "advertising",
+  "reach": 0.0014334056260896,
+  "rank": 120,
+  "website_url": "https://www.amobee.com/company/",
+  "products": [
+   "Turn Inc."
+  ],
+  "domains": [
+   "turn.com"
+  ]
+ },
+ {
+  "id": "smile_wanted",
+  "name": "Smile Wanted Group",
+  "category": "advertising",
+  "reach": 0.0014098616673549,
+  "rank": 121,
+  "website_url": "https://www.smilewanted.com/",
+  "products": [
+   "Smile Wanted"
+  ],
+  "domains": [
+   "csync.smilewanted.com",
+   "prebid.smilewanted.com",
+   "static.smilewanted.com"
+  ]
+ },
+ {
+  "id": "mediascope",
+  "name": "Mediascope",
+  "category": "site_analytics",
+  "reach": 0.0013984689952813,
+  "rank": 122,
+  "website_url": "https://mediascope.net/",
+  "products": [
+   "Mediascope"
+  ],
+  "domains": [
+   "tns-counter.ru"
+  ]
+ },
+ {
+  "id": "kargo",
+  "name": "Kargo",
+  "category": "advertising",
+  "reach": 0.0013242114645322,
+  "rank": 123,
+  "website_url": "https://www.kargo.com/",
+  "products": [
+   "Kargo"
+  ],
+  "domains": [
+   "kargo.com"
+  ]
+ },
+ {
+  "id": "brightcove",
+  "name": "Brightcove",
+  "category": "site_analytics",
+  "reach": 0.0013179609287746,
+  "rank": 124,
+  "website_url": "https://www.brightcove.com/en/",
+  "products": [
+   "Brightcove"
+  ],
+  "domains": [
+   "admin.brightcove.com",
+   "goku.brightcove.com",
+   "metrics.brightcove.com",
+   "sadmin.brightcove.com"
+  ]
+ },
+ {
+  "id": "temu",
+  "name": "Temu",
+  "category": "advertising",
+  "reach": 0.0013156185660981,
+  "rank": 125,
+  "website_url": "https://temu.com",
+  "products": [
+   "Temu"
+  ],
+  "domains": [
+   "temu.com"
+  ]
+ },
+ {
+  "id": "markmonitor",
+  "name": "MarkMonitor",
+  "category": "advertising",
+  "reach": 0.0012923190083191,
+  "rank": 126,
+  "website_url": "https://www.markmonitor.com/",
+  "products": [
+   "MarkMonitor"
+  ],
+  "domains": [
+   "caanalytics.com",
+   "mmstat.com"
+  ]
+ },
+ {
+  "id": "connectad",
+  "name": "ConnectAd",
+  "category": "advertising",
+  "reach": 0.0012921882127006,
+  "rank": 127,
+  "website_url": "https://connectad.io/",
+  "products": [
+   "ConnectAd"
+  ],
+  "domains": [
+   "connected-by.connectad.io",
+   "i.connectad.io",
+   "sync.connectad.io"
+  ]
+ },
+ {
+  "id": "oracle",
+  "name": "Oracle",
+  "category": "advertising",
+  "reach": 0.0012885483574885,
+  "rank": 128,
+  "website_url": "http://www.addthis.com/",
+  "products": [
+   "AddThis",
+   "Moat",
+   "Eloqua",
+   "BlueKai"
+  ],
+  "domains": [
+   "addthis.com",
+   "addthiscdn.com",
+   "addthisedge.com",
+   "moatads.com",
+   "moatpixel.com",
+   "eloqua.com",
+   "en25.com",
+   "bkrtx.com",
+   "bluekai.com"
+  ]
+ },
+ {
+  "id": "rise_code",
+  "name": "Rise Code",
+  "category": "advertising",
+  "reach": 0.0012499322590806,
+  "rank": 129,
+  "website_url": "https://risecodes.com/",
+  "products": [
+   "Rise"
+  ],
+  "domains": [
+   "yellowblue.io"
+  ]
+ },
+ {
+  "id": "axel_springer",
+  "name": "Axel Springer",
+  "category": "advertising",
+  "reach": 0.0012313577864456,
+  "rank": 130,
+  "website_url": "http://www.digitalwindow.com/",
+  "products": [
+   "Digital Window",
+   "AWIN"
+  ],
+  "domains": [
+   "dwin1.com",
+   "awin.com",
+   "awin1.com",
+   "perfb.com"
+  ]
+ },
+ {
+  "id": "venatus",
+  "name": "Venatus Media",
+  "category": "advertising",
+  "reach": 0.0012299840587496,
+  "rank": 131,
+  "website_url": "https://www.venatusmedia.com/",
+  "products": [
+   "Venatus Media"
+  ],
+  "domains": [
+   "vntsm.com"
+  ]
+ },
+ {
+  "id": "ad_man_media",
+  "name": "illumin",
+  "category": "advertising",
+  "reach": 0.0012230160155991,
+  "rank": 132,
+  "website_url": "",
+  "products": [
+   "ADman Media"
+  ],
+  "domains": [
+   "admanmedia.com"
+  ]
+ },
+ {
+  "id": "skimlinks",
+  "name": "SkimLinks",
+  "category": "advertising",
+  "reach": 0.0012094625999077,
+  "rank": 133,
+  "website_url": "http://www.skimlinks.com/",
+  "products": [
+   "SkimLinks"
+  ],
+  "domains": [
+   "redirectingat.com",
+   "skimlinks.com",
+   "skimresources.com"
+  ]
+ },
+ {
+  "id": "impact_radius",
+  "name": "Impact Tech",
+  "category": "site_analytics",
+  "reach": 0.0011990430472357,
+  "rank": 134,
+  "website_url": "http://www.impact.com/",
+  "products": [
+   "Impact"
+  ],
+  "domains": [
+   "7eer.net",
+   "d3cxv97fi8q177.cloudfront.net",
+   "evyy.net",
+   "impactradius-event.com",
+   "impactradius-tag.com",
+   "impactradius.com",
+   "ojrq.net",
+   "r7ls.net"
+  ]
+ },
+ {
+  "id": "gfk_nurago",
+  "name": "GfK Group",
+  "category": "advertising",
+  "reach": 0.0011934591954307,
+  "rank": 135,
+  "website_url": "http://nurago.com/",
+  "products": [
+   "GfK"
+  ],
+  "domains": [
+   "sensic.net"
+  ]
+ },
+ {
+  "id": "optable_technologies",
+  "name": "Optable Technologies",
+  "category": "advertising",
+  "reach": 0.0011778683577048,
+  "rank": 136,
+  "website_url": "https://www.optable.co/",
+  "products": [
+   "Optable"
+  ],
+  "domains": [
+   "cdn.optable.co",
+   "cloud.optable.co",
+   "edge.optable.co"
+  ]
+ },
+ {
+  "id": "hubvisor",
+  "name": "Hubvisor",
+  "category": "advertising",
+  "reach": 0.0011688135638865,
+  "rank": 137,
+  "website_url": "https://hubvisor.io/",
+  "products": [
+   "Hubvisor"
+  ],
+  "domains": [
+   "hubvisor.io"
+  ]
+ },
+ {
+  "id": "marketgid_usa",
+  "name": "MGID",
+  "category": "advertising",
+  "reach": 0.0011506912703897,
+  "rank": 138,
+  "website_url": "https://www.mgid.com/",
+  "products": [
+   "MarketGid"
+  ],
+  "domains": [
+   "dt00.net",
+   "dt07.net",
+   "marketgid.com",
+   "mgid.com"
+  ]
+ },
+ {
+  "id": "sap",
+  "name": "SAP",
+  "category": "site_analytics",
+  "reach": 0.0011114226886964,
+  "rank": 139,
+  "website_url": "https://www.sap.com/products/acquired-brands/what-is-gigya.html",
+  "products": [
+   "Gigya"
+  ],
+  "domains": [
+   "analytics.gigyahosting1.com",
+   "gigcount.com",
+   "gigya.com"
+  ]
+ },
+ {
+  "id": "statcounter",
+  "name": "StatCounter",
+  "category": "site_analytics",
+  "reach": 0.0011090780838093,
+  "rank": 140,
+  "website_url": "https://www.statcounter.com/",
+  "products": [
+   "Statcounter"
+  ],
+  "domains": [
+   "statcounter.com"
+  ]
+ },
+ {
+  "id": "almondnet",
+  "name": "AlmondNet",
+  "category": "advertising",
+  "reach": 0.001108995122017,
+  "rank": 141,
+  "website_url": "http://datonics.com/",
+  "products": [
+   "Intent IQ",
+   "Datonics"
+  ],
+  "domains": [
+   "intentiq.com",
+   "pro-market.net"
+  ]
+ },
+ {
+  "id": "adroll",
+  "name": "AdRoll",
+  "category": "advertising",
+  "reach": 0.0010882143141487,
+  "rank": 142,
+  "website_url": "https://www.adroll.com/",
+  "products": [
+   "AdRoll"
+  ],
+  "domains": [
+   "adroll.com"
+  ]
+ },
+ {
+  "id": "addefend",
+  "name": "AdDefend",
+  "category": "advertising",
+  "reach": 0.0010663856465252,
+  "rank": 143,
+  "website_url": "https://www.addefend.com/",
+  "products": [
+   "AdDefend"
+  ],
+  "domains": [
+   "de-en-es.com",
+   "brwsrfrm.com",
+   "benelph.de",
+   "addefend-platform.com",
+   "jubbie.de",
+   "yagiay.com",
+   "edioca.com",
+   "atonato.de",
+   "mitself.net",
+   "hirsung.de",
+   "frantro.de",
+   "uobsoe.com",
+   "domself.de",
+   "undom.net",
+   "def-service.com",
+   "feadrope.net",
+   "untho.de",
+   "aaroaj.com",
+   "bupatp.com",
+   "iefpiu.com",
+   "qivaiw.com",
+   "qozveo.com",
+   "def-platform.net",
+   "def-service.net",
+   "mellodur.net",
+   "outhulem.net",
+   "skilyake.net",
+   "utoumine.net",
+   "builfico.de",
+   "content-choice.de",
+   "cussixia.de",
+   "def-platform.de",
+   "def-service.de",
+   "dywolfer.de",
+   "eltelmis.de",
+   "expepp.de",
+   "hobodoka.de",
+   "intectwo.de",
+   "itectale.de",
+   "odillees.de",
+   "unifini.de"
+  ]
+ },
+ {
+  "id": "arm",
+  "name": "arm",
+  "category": "site_analytics",
+  "reach": 0.0010624363662499,
+  "rank": 144,
+  "website_url": "https://www.treasuredata.com/",
+  "products": [
+   "Treasure Data"
+  ],
+  "domains": [
+   "treasuredata.com"
+  ]
+ },
+ {
+  "id": "ogury",
+  "name": "Ogury",
+  "category": "advertising",
+  "reach": 0.0010548584418154,
+  "rank": 145,
+  "website_url": "https://ogury.com/",
+  "products": [
+   "Ogury"
+  ],
+  "domains": [
+   "ogury.com",
+   "presage.io"
+  ]
+ },
+ {
+  "id": "~aaxads.com",
+  "name": "Acceptable Ads Exchange",
+  "category": "advertising",
+  "reach": 0.0010526580858103,
+  "rank": 146,
+  "website_url": "https://aax.media/",
+  "products": [
+   "Acceptable Ads Exchange"
+  ],
+  "domains": [
+   "aaxads.com"
+  ]
+ },
+ {
+  "id": "i-mobile",
+  "name": "i-mobile",
+  "category": "advertising",
+  "reach": 0.0010373445347956,
+  "rank": 147,
+  "website_url": "https://www2.i-mobile.co.jp/en/index.aspx",
+  "products": [
+   "i-mobile"
+  ],
+  "domains": [
+   "i-mobile.co.jp"
+  ]
+ },
+ {
+  "id": "pulsepoint_ad_exchange",
+  "name": "PulsePoint",
+  "category": "advertising",
+  "reach": 0.0010364341972908,
+  "rank": 148,
+  "website_url": "https://www.contextweb.com/",
+  "products": [
+   "PulsePoint"
+  ],
+  "domains": [
+   "contextweb.com",
+   "pulsepoint.com"
+  ]
+ },
+ {
+  "id": "vg_wort",
+  "name": "VG Wort",
+  "category": "site_analytics",
+  "reach": 0.0010315237560703,
+  "rank": 149,
+  "website_url": "https://tom.vgwort.de/portal/showHelp",
+  "products": [
+   "VG Wort"
+  ],
+  "domains": [
+   "vgwort.de"
+  ]
+ },
+ {
+  "id": "mediavine_inc",
+  "name": "Mediavine",
+  "category": "advertising",
+  "reach": 0.0010206146540833,
+  "rank": 150,
+  "website_url": "https://www.mediavine.com/exchange/",
+  "products": [
+   "Mediavine Exchange",
+   "PubNation",
+   "Journey"
+  ],
+  "domains": [
+   "mediavine.com",
+   "pb-ing-mediavine.ccgateway.net",
+   "pubnation.com",
+   "journeymv.com"
+  ]
+ },
+ {
+  "id": "smaato",
+  "name": "Verve Group",
+  "category": "advertising",
+  "reach": 0.0010159792573635,
+  "rank": 151,
+  "website_url": "https://www.smaato.com/",
+  "products": [
+   "Smaato"
+  ],
+  "domains": [
+   "smaato.net"
+  ]
+ },
+ {
+  "id": "yieldmo",
+  "name": "Yieldmo",
+  "category": "advertising",
+  "reach": 0.0010021717244704,
+  "rank": 152,
+  "website_url": "https://www.yieldmo.com/",
+  "products": [
+   "Yieldmo"
+  ],
+  "domains": [
+   "yieldmo.com"
+  ]
+ },
+ {
+  "id": "wp",
+  "name": "WP",
+  "category": "advertising",
+  "reach": 0.0010004085995329,
+  "rank": 153,
+  "website_url": "https://www.wp.pl/",
+  "products": [
+   "Wirtualna Polska"
+  ],
+  "domains": [
+   "wp.pl",
+   "wpimg.pl"
+  ]
+ },
+ {
+  "id": "blis",
+  "name": "Blis",
+  "category": "site_analytics",
+  "reach": 0.0009968360106389245,
+  "rank": 154,
+  "website_url": "https://www.blis.com/index.php",
+  "products": [
+   "Blis"
+  ],
+  "domains": [
+   "blismedia.com"
+  ]
+ },
+ {
+  "id": "dynamic_yield",
+  "name": "Dynamic Yield",
+  "category": "site_analytics",
+  "reach": 0.0009884598592297732,
+  "rank": 155,
+  "website_url": "https://www.dynamicyield.com/",
+  "products": [
+   "Dynamic Yield"
+  ],
+  "domains": [
+   "dynamicyield.com"
+  ]
+ },
+ {
+  "id": "united_inc",
+  "name": "United",
+  "category": "advertising",
+  "reach": 0.0009799334797102228,
+  "rank": 156,
+  "website_url": "https://en.ad-stir.com/",
+  "products": [
+   "adstir"
+  ],
+  "domains": [
+   "ad-stir.com"
+  ]
+ },
+ {
+  "id": "supership",
+  "name": "Supership",
+  "category": "advertising",
+  "reach": 0.0009788871147621717,
+  "rank": 157,
+  "website_url": "https://supership.jp/en/",
+  "products": [
+   "Supership"
+  ],
+  "domains": [
+   "socdm.com"
+  ]
+ },
+ {
+  "id": "whos.amung.us",
+  "name": "whos.amung.us",
+  "category": "site_analytics",
+  "reach": 0.0009618709784962526,
+  "rank": 158,
+  "website_url": "https://whos.amung.us/",
+  "products": [
+   "Whos.amung.us"
+  ],
+  "domains": [
+   "amung.us"
+  ]
+ },
+ {
+  "id": "blue_triangle",
+  "name": "Blue Triangle",
+  "category": "site_analytics",
+  "reach": 0.000945351118177124,
+  "rank": 159,
+  "website_url": "https://www.bluetriangle.com/",
+  "products": [
+   "Blue Triangle"
+  ],
+  "domains": [
+   "bluetriangletech.com",
+   "btttag.com"
+  ]
+ },
+ {
+  "id": "adyoulike",
+  "name": "Open Web",
+  "category": "advertising",
+  "reach": 0.0009420393731165412,
+  "rank": 160,
+  "website_url": "https://www.adyoulike.com/",
+  "products": [
+   "Adyoulike"
+  ],
+  "domains": [
+   "adyoulike.com",
+   "omnitagjs.com"
+  ]
+ },
+ {
+  "id": "epsilon",
+  "name": "Epsilon",
+  "category": "advertising",
+  "reach": 0.0009401813279302156,
+  "rank": 161,
+  "website_url": "https://www.epsilon.com/",
+  "products": [
+   "Epsilon"
+  ],
+  "domains": [
+   "fastclick.net",
+   "mediaplex.com",
+   "mplxtms.com"
+  ]
+ },
+ {
+  "id": "megafon",
+  "name": "Megafon",
+  "category": "advertising",
+  "reach": 0.0009396641246844646,
+  "rank": 162,
+  "website_url": "https://mail.ru/",
+  "products": [
+   "Mail.Ru Banner Network"
+  ],
+  "domains": [
+   "ad.mail.ru"
+  ]
+ },
+ {
+  "id": "prosieben_sat1",
+  "name": "ProSiebenSat.1 Media",
+  "category": "advertising",
+  "reach": 0.000939447377659511,
+  "rank": 163,
+  "website_url": "http://www.yieldlab.de/",
+  "products": [
+   "Yieldlab",
+   "Adition",
+   "The ADEX"
+  ],
+  "domains": [
+   "yieldlab.net",
+   "adition.com",
+   "theadex.com"
+  ]
+ },
+ {
+  "id": "tvsquared",
+  "name": "TV Squared",
+  "category": "advertising",
+  "reach": 0.0009377119066528144,
+  "rank": 164,
+  "website_url": "https://tvsquared.com/",
+  "products": [
+   "TVSquared"
+  ],
+  "domains": [
+   "tvsquared.com"
+  ]
+ },
+ {
+  "id": "bombora",
+  "name": "Bombora",
+  "category": "site_analytics",
+  "reach": 0.0009203138471808568,
+  "rank": 165,
+  "website_url": "",
+  "products": [
+   "Bombora"
+  ],
+  "domains": [
+   "ml314.com"
+  ]
+ },
+ {
+  "id": "clever_push",
+  "name": "Clever Push",
+  "category": "site_analytics",
+  "reach": 0.0008989620230123336,
+  "rank": 166,
+  "website_url": "https://clevertap.com/",
+  "products": [
+   "Clever Push"
+  ],
+  "domains": [
+   "cleverpush.com"
+  ]
+ },
+ {
+  "id": "stroer",
+  "name": "Ströer SSP",
+  "category": "advertising",
+  "reach": 0.0008983356988505714,
+  "rank": 167,
+  "website_url": "http://www.adscale.de/",
+  "products": [
+   "AdScale",
+   "Stroer Digital Media",
+   "Seeding Alliance"
+  ],
+  "domains": [
+   "adscale.de",
+   "interactivemedia.net",
+   "stroeerdigitalgroup.de",
+   "stroeerdigitalmedia.de",
+   "stroeerdp.de",
+   "stroeermediabrands.de",
+   "bacontent.de",
+   "nativendo.de"
+  ]
+ },
+ {
+  "id": "mparticle",
+  "name": "mParticle",
+  "category": "site_analytics",
+  "reach": 0.0008961689760045707,
+  "rank": 168,
+  "website_url": "https://www.mparticle.com/",
+  "products": [
+   "mParticle"
+  ],
+  "domains": [
+   "mparticle.com"
+  ]
+ },
+ {
+  "id": "convert",
+  "name": "Convert",
+  "category": "site_analytics",
+  "reach": 0.0008947294767974657,
+  "rank": 169,
+  "website_url": "",
+  "products": [
+   "Convert"
+  ],
+  "domains": [
+   "convertexperiments.com"
+  ]
+ },
+ {
+  "id": "revcontent",
+  "name": "Revcontent",
+  "category": "advertising",
+  "reach": 0.000865775811281349,
+  "rank": 170,
+  "website_url": "https://www.revcontent.com/",
+  "products": [
+   "RevContent"
+  ],
+  "domains": [
+   "revcontent.com"
+  ]
+ },
+ {
+  "id": "arc_publishing",
+  "name": "Arc Publishing",
+  "category": "site_analytics",
+  "reach": 0.0008634596077284838,
+  "rank": 171,
+  "website_url": "https://www.arcpublishing.com/",
+  "products": [
+   "Arc Publishing"
+  ],
+  "domains": [
+   "arcpublishing.com"
+  ]
+ },
+ {
+  "id": "daconsortium",
+  "name": "D.A.Consortium",
+  "category": "advertising",
+  "reach": 0.0008576874102329116,
+  "rank": 172,
+  "website_url": "https://www.platform-one.co.jp/",
+  "products": [
+   "Platform One"
+  ],
+  "domains": [
+   "impact-ad.jp"
+  ]
+ },
+ {
+  "id": "adman",
+  "name": "ADMAN",
+  "category": "advertising",
+  "reach": 0.0008552179889555104,
+  "rank": 173,
+  "website_url": "https://www.adman.gr/",
+  "products": [
+   "ADMAN"
+  ],
+  "domains": [
+   "adman.gr",
+   "adman.in.gr"
+  ]
+ },
+ {
+  "id": "inmobi",
+  "name": "InMobi",
+  "category": "advertising",
+  "reach": 0.0008439449014473251,
+  "rank": 174,
+  "website_url": "https://www.inmobi.com",
+  "products": [
+   "InMobi"
+  ],
+  "domains": [
+   "sync.inmobi.com"
+  ]
+ },
+ {
+  "id": "thetradedesk",
+  "name": "theTradeDesk",
+  "category": "advertising",
+  "reach": 0.0008214824356267987,
+  "rank": 175,
+  "website_url": "https://unifiedid.com/",
+  "products": [
+   "Unified ID 2.0"
+  ],
+  "domains": [
+   "unifiedid.com",
+   "uidapi.com"
+  ]
+ },
+ {
+  "id": "siteimprove",
+  "name": "Siteimprove",
+  "category": "site_analytics",
+  "reach": 0.0008087003403828165,
+  "rank": 176,
+  "website_url": "https://www.siteimprove.com/",
+  "products": [
+   "Siteimprove Analytics"
+  ],
+  "domains": [
+   "siteimproveanalytics.com",
+   "siteimproveanalytics.io"
+  ]
+ },
+ {
+  "id": "apple",
+  "name": "Apple",
+  "category": "advertising",
+  "reach": 0.0008027876310227919,
+  "rank": 177,
+  "website_url": "https://www.apple.com/",
+  "products": [
+   "iTunes Link Maker"
+  ],
+  "domains": [
+   "apple.com",
+   "autolinkmaker.itunes.apple.com"
+  ]
+ },
+ {
+  "id": "semasio",
+  "name": "Semasio",
+  "category": "advertising",
+  "reach": 0.0008009191221869858,
+  "rank": 178,
+  "website_url": "https://semasio.com/",
+  "products": [
+   "Semasio"
+  ],
+  "domains": [
+   "semasio.net"
+  ]
+ },
+ {
+  "id": "airbrake",
+  "name": "Airbrake",
+  "category": "advertising",
+  "reach": 0.0007998361344657525,
+  "rank": 179,
+  "website_url": "https://airbrake.io/",
+  "products": [
+   "Airbrake"
+  ],
+  "domains": [
+   "airbrake.io"
+  ]
+ },
+ {
+  "id": "conviva",
+  "name": "Conviva",
+  "category": "site_analytics",
+  "reach": 0.0007972717929394923,
+  "rank": 180,
+  "website_url": "https://www.conviva.com/",
+  "products": [
+   "Conviva"
+  ],
+  "domains": [
+   "conviva.com"
+  ]
+ },
+ {
+  "id": "valuecommerce",
+  "name": "ValueCommerce",
+  "category": "advertising",
+  "reach": 0.000796629025899975,
+  "rank": 181,
+  "website_url": "https://www.valuecommerce.ne.jp",
+  "products": [
+   "ValueCommerce"
+  ],
+  "domains": [
+   "valuecommerce.com"
+  ]
+ },
+ {
+  "id": "zoominfo",
+  "name": "ZoomInfo",
+  "category": "advertising",
+  "reach": 0.0007958950756292703,
+  "rank": 182,
+  "website_url": "https://www.zoominfo.com",
+  "products": [
+   "ZoomInfo"
+  ],
+  "domains": [
+   "zoominfo.com",
+   "clickagy.com"
+  ]
+ },
+ {
+  "id": "~ispot.tv",
+  "name": "iSpot.tv",
+  "category": "advertising",
+  "reach": 0.000794389804911145,
+  "rank": 183,
+  "website_url": "https://www.ispot.tv/",
+  "products": [
+   "iSpot.tv"
+  ],
+  "domains": [
+   "ispot.tv"
+  ]
+ },
+ {
+  "id": "ibm",
+  "name": "IBM",
+  "category": "advertising",
+  "reach": 0.0007911565372216661,
+  "rank": 184,
+  "website_url": "http://www.theweathercompany.com/",
+  "products": [
+   "The Weather Company"
+  ],
+  "domains": [
+   "w-x.co",
+   "weather.com",
+   "wfxtriggers.com"
+  ]
+ },
+ {
+  "id": "nexx360",
+  "name": "Nexx360",
+  "category": "advertising",
+  "reach": 0.0007852901668807694,
+  "rank": 185,
+  "website_url": "https://www.nexx360.io",
+  "products": [
+   "nexx360"
+  ],
+  "domains": [
+   "fast.nexx360.io"
+  ]
+ },
+ {
+  "id": "quora",
+  "name": "Quora",
+  "category": "advertising",
+  "reach": 0.0007813543398690275,
+  "rank": 186,
+  "website_url": "https://quoraadsupport.zendesk.com/hc/en-us/articles/115010466208-How-do-I-install-the-Quora-pixel",
+  "products": [
+   "Quora"
+  ],
+  "domains": [
+   "a.quora.com",
+   "q.quora.com"
+  ]
+ },
+ {
+  "id": "digiteka",
+  "name": "Digiteka",
+  "category": "advertising",
+  "reach": 0.0007775844364419051,
+  "rank": 187,
+  "website_url": "",
+  "products": [
+   "Digiteka",
+   "VideoAdX"
+  ],
+  "domains": [
+   "digiteka.net",
+   "ultimedia.com",
+   "videoadex.com"
+  ]
+ },
+ {
+  "id": "trueanthem",
+  "name": "trueAnthem",
+  "category": "advertising",
+  "reach": 0.000773221842012065,
+  "rank": 188,
+  "website_url": "https://www.trueanthem.com/",
+  "products": [
+   "True Anthem"
+  ],
+  "domains": [
+   "tru.am"
+  ]
+ },
+ {
+  "id": "centro",
+  "name": "Centro",
+  "category": "advertising",
+  "reach": 0.0007674077899185709,
+  "rank": 189,
+  "website_url": "http://www.sitescout.com",
+  "products": [
+   "SiteScout by Centro"
+  ],
+  "domains": [
+   "pixel.ad",
+   "sitescout.com"
+  ]
+ },
+ {
+  "id": "ziff_davis",
+  "name": "Ziff Davis",
+  "category": "advertising",
+  "reach": 0.000764999655730984,
+  "rank": 190,
+  "website_url": "https://www.ziffdavis.com/",
+  "products": [
+   "Ziff Davis"
+  ],
+  "domains": [
+   "webtest.net",
+   "zdbb.net",
+   "ziffdavis.com",
+   "ziffdavisinternational.com",
+   "ziffprod.com",
+   "ziffstatic.com"
+  ]
+ },
+ {
+  "id": "loopme",
+  "name": "LoopMe",
+  "category": "advertising",
+  "reach": 0.0007647268534409563,
+  "rank": 191,
+  "website_url": "https://loopme.com/",
+  "products": [
+   "LoopMe"
+  ],
+  "domains": [
+   "loopme.me"
+  ]
+ },
+ {
+  "id": "insider",
+  "name": "Insider",
+  "category": "site_analytics",
+  "reach": 0.0007636864677211795,
+  "rank": 192,
+  "website_url": "https://useinsider.com/",
+  "products": [
+   "Insider"
+  ],
+  "domains": [
+   "useinsider.com"
+  ]
+ },
+ {
+  "id": "vivendi",
+  "name": "Vivendi",
+  "category": "advertising",
+  "reach": 0.000744394487693249,
+  "rank": 193,
+  "website_url": "https://advertisers.dailymotion.com/en/",
+  "products": [
+   "Dailymotion Advertising"
+  ],
+  "domains": [
+   "dmxleo.com"
+  ]
+ },
+ {
+  "id": "yieldlove",
+  "name": "Yieldlove",
+  "category": "advertising",
+  "reach": 0.0007405797400540672,
+  "rank": 194,
+  "website_url": "https://www.yieldlove.com/",
+  "products": [
+   "Yieldlove"
+  ],
+  "domains": [
+   "yieldlove-ad-serving.net",
+   "yieldlove.com"
+  ]
+ },
+ {
+  "id": "anonymousads",
+  "name": "AnonymousAds",
+  "category": "advertising",
+  "reach": 0.0007344330933877996,
+  "rank": 195,
+  "website_url": "https://a-ads.com/",
+  "products": [
+   "AnonymousAds"
+  ],
+  "domains": [
+   "a-ads.com"
+  ]
+ },
+ {
+  "id": "blueconic",
+  "name": "BlueConic",
+  "category": "site_analytics",
+  "reach": 0.0007322282529615484,
+  "rank": 196,
+  "website_url": "https://www.blueconic.com/",
+  "products": [
+   "BlueConic Plugin"
+  ],
+  "domains": [
+   "blueconic.net"
+  ]
+ },
+ {
+  "id": "demandbase",
+  "name": "Demandbase",
+  "category": "advertising",
+  "reach": 0.0007310959366070499,
+  "rank": 197,
+  "website_url": "https://www.demandbase.com/",
+  "products": [
+   "Demandbase"
+  ],
+  "domains": [
+   "company-target.com",
+   "demandbase.com"
+  ]
+ },
+ {
+  "id": "samurai_factory",
+  "name": "Samurai Factory",
+  "category": "site_analytics",
+  "reach": 0.0007268895495158833,
+  "rank": 198,
+  "website_url": "https://www.ninja.co.jp/analysis/",
+  "products": [
+   "Ninja Access Analysis"
+  ],
+  "domains": [
+   "cho-chin.com",
+   "donburako.com",
+   "hishaku.com",
+   "shinobi.jp"
+  ]
+ },
+ {
+  "id": "bidtellect",
+  "name": "Simpli.fi",
+  "category": "advertising",
+  "reach": 0.0007183437375044406,
+  "rank": 199,
+  "website_url": "https://www.bidtellect.com/",
+  "products": [
+   "Bidtellect"
+  ],
+  "domains": [
+   "bttrack.com"
+  ]
+ },
+ {
+  "id": "active_campaign",
+  "name": "Active Campaign",
+  "category": "site_analytics",
+  "reach": 0.0007095086803252151,
+  "rank": 200,
+  "website_url": "https://www.activecampaign.com",
+  "products": [
+   "Active Campaign"
+  ],
+  "domains": [
+   "trackcmp.net",
+   "app-us1.com"
+  ]
+ },
+ {
+  "id": "spotify",
+  "name": "Spotify",
+  "category": "site_analytics",
+  "reach": 0.0007075041440461623,
+  "rank": 201,
+  "website_url": "https://help.adanalytics.spotify.com/about-ad-analytics",
+  "products": [
+   "Spotify Ad Analytics"
+  ],
+  "domains": [
+   "pixel.byspotify.com"
+  ]
+ },
+ {
+  "id": "deep_intent",
+  "name": "Deep Intent",
+  "category": "advertising",
+  "reach": 0.0007072395631950122,
+  "rank": 202,
+  "website_url": "https://www.deepintent.com/",
+  "products": [
+   "DeepIntent"
+  ],
+  "domains": [
+   "deepintent.com"
+  ]
+ },
+ {
+  "id": "ozone",
+  "name": "Ozone",
+  "category": "advertising",
+  "reach": 0.0007031161378961554,
+  "rank": 203,
+  "website_url": "https://ozoneproject.com/",
+  "products": [
+   "Ozone"
+  ],
+  "domains": [
+   "ozoneproject.com",
+   "the-ozone-project.com"
+  ]
+ },
+ {
+  "id": "solarwinds",
+  "name": "SolarWinds",
+  "category": "site_analytics",
+  "reach": 0.0007027910173587252,
+  "rank": 204,
+  "website_url": "https://www.pingdom.com/",
+  "products": [
+   "Pingdom"
+  ],
+  "domains": [
+   "pingdom.net"
+  ]
+ },
+ {
+  "id": "maze",
+  "name": "Maze",
+  "category": "site_analytics",
+  "reach": 0.000700653443250563,
+  "rank": 205,
+  "website_url": "https://maze.co",
+  "products": [
+   "Maze"
+  ],
+  "domains": [
+   "maze.co"
+  ]
+ },
+ {
+  "id": "logicad",
+  "name": "Logicad",
+  "category": "advertising",
+  "reach": 0.0006994979573865005,
+  "rank": 206,
+  "website_url": "https://www.logicad.com/",
+  "products": [
+   "Logicad"
+  ],
+  "domains": [
+   "cd-ladsp-com.s3.amazonaws.com",
+   "ladmp.com",
+   "ladsp.com"
+  ]
+ },
+ {
+  "id": "dstillery",
+  "name": "Dstillery",
+  "category": "advertising",
+  "reach": 0.0006985622081615288,
+  "rank": 207,
+  "website_url": "https://dstillery.com/",
+  "products": [
+   "Dstillery"
+  ],
+  "domains": [
+   "m6d.com",
+   "media6degrees.com",
+   "dstillery.com"
+  ]
+ },
+ {
+  "id": "~adsco.re",
+  "name": "Adscore",
+  "category": "advertising",
+  "reach": 0.0006914469265147793,
+  "rank": 208,
+  "website_url": "https://www.adscore.com/",
+  "products": [
+   "Adscore"
+  ],
+  "domains": [
+   "adsco.re"
+  ]
+ },
+ {
+  "id": "bigcommerce",
+  "name": "BigCommerce",
+  "category": "site_analytics",
+  "reach": 0.000679128221462077,
+  "rank": 209,
+  "website_url": "https://www.bigcommerce.com/",
+  "products": [
+   "BigCommerce"
+  ],
+  "domains": [
+   "bigcommerce.com"
+  ]
+ },
+ {
+  "id": "adocean",
+  "name": "AdOcean",
+  "category": "advertising",
+  "reach": 0.0006764943714071247,
+  "rank": 210,
+  "website_url": "http://adocean.cz/en",
+  "products": [
+   "AdOcean"
+  ],
+  "domains": [
+   "adocean.pl"
+  ]
+ },
+ {
+  "id": "signifyd",
+  "name": "Signifyd",
+  "category": "site_analytics",
+  "reach": 0.000667494138046814,
+  "rank": 211,
+  "website_url": "",
+  "products": [
+   "Signifyd"
+  ],
+  "domains": [
+   "cdn-scripts.signifyd.com",
+   "signifyd.com"
+  ]
+ },
+ {
+  "id": "adswizz",
+  "name": "AdsWizz",
+  "category": "advertising",
+  "reach": 0.0006622996834832731,
+  "rank": 212,
+  "website_url": "https://www.adswizz.com/",
+  "products": [
+   "AdsWizz"
+  ],
+  "domains": [
+   "adswizz.com"
+  ]
+ },
+ {
+  "id": "monetate",
+  "name": "Monetate",
+  "category": "site_analytics",
+  "reach": 0.0006615141623687002,
+  "rank": 213,
+  "website_url": "http://monetate.com",
+  "products": [
+   "Monetate"
+  ],
+  "domains": [
+   "monetate.net"
+  ]
+ },
+ {
+  "id": "captify",
+  "name": "Captify",
+  "category": "advertising",
+  "reach": 0.0006579804384584237,
+  "rank": 214,
+  "website_url": "https://www.captify.co.uk/",
+  "products": [
+   "Captify"
+  ],
+  "domains": [
+   "captifymedia.com",
+   "cpx.to"
+  ]
+ },
+ {
+  "id": "thecoolcompany",
+  "name": "The COOL company",
+  "category": "advertising",
+  "reach": 0.0006420338366501204,
+  "rank": 215,
+  "website_url": "https://cool.co/publisher-experiences/",
+  "products": [
+   "COOL Publisher Experiences"
+  ],
+  "domains": [
+   "cool.co",
+   "ingage.tech"
+  ]
+ },
+ {
+  "id": "eyeota",
+  "name": "Eyeota",
+  "category": "advertising",
+  "reach": 0.000639937369736346,
+  "rank": 216,
+  "website_url": "https://www.eyeota.com/",
+  "products": [
+   "Eyeota"
+  ],
+  "domains": [
+   "eyeota.net"
+  ]
+ },
+ {
+  "id": "simpli.fi",
+  "name": "Simplifi Holdings",
+  "category": "advertising",
+  "reach": 0.0006164397500207831,
+  "rank": 217,
+  "website_url": "http://www.simpli.fi",
+  "products": [
+   "Simpli.fi"
+  ],
+  "domains": [
+   "simpli.fi"
+  ]
+ },
+ {
+  "id": "medium",
+  "name": "Medium",
+  "category": "site_analytics",
+  "reach": 0.000608855098954479,
+  "rank": 218,
+  "website_url": "https://embed.ly/",
+  "products": [
+   "Embedly"
+  ],
+  "domains": [
+   "embed.ly",
+   "embedly.com"
+  ]
+ },
+ {
+  "id": "us_government",
+  "name": "USA Government",
+  "category": "site_analytics",
+  "reach": 0.0005935310842902662,
+  "rank": 219,
+  "website_url": "https://digital.gov/",
+  "products": [
+   "Digital.gov"
+  ],
+  "domains": [
+   "digitalgov.gov"
+  ]
+ },
+ {
+  "id": "sprinklr",
+  "name": "Sprinklr",
+  "category": "site_analytics",
+  "reach": 0.000574696515225341,
+  "rank": 220,
+  "website_url": "https://www.sprinklr.com/",
+  "products": [
+   "Sprinklr"
+  ],
+  "domains": [
+   "sprinklr.com"
+  ]
+ },
+ {
+  "id": "dianomi",
+  "name": "Dianomi",
+  "category": "advertising",
+  "reach": 0.0005737749666675214,
+  "rank": 221,
+  "website_url": "https://www.dianomi.com/cms/",
+  "products": [
+   "Dianomi"
+  ],
+  "domains": [
+   "d3von6il1wr7wo.cloudfront.net",
+   "dianomi.com",
+   "dianomioffers.co.uk"
+  ]
+ },
+ {
+  "id": "weborama",
+  "name": "WEBORAMA",
+  "category": "advertising",
+  "reach": 0.0005731531269269651,
+  "rank": 222,
+  "website_url": "https://weborama.com/",
+  "products": [
+   "Weborama"
+  ],
+  "domains": [
+   "adrcdn.com",
+   "adrcntr.com",
+   "weborama.com",
+   "weborama.fr",
+   "weborama.nl"
+  ]
+ },
+ {
+  "id": "netsprint",
+  "name": "Netsprint",
+  "category": "site_analytics",
+  "reach": 0.0005728810720404718,
+  "rank": 223,
+  "website_url": "http://audience.netsprint.eu/",
+  "products": [
+   "Netsprint Audience"
+  ],
+  "domains": [
+   "nsaudience.pl"
+  ]
+ },
+ {
+  "id": "movable_ink",
+  "name": "Movable Ink",
+  "category": "site_analytics",
+  "reach": 0.0005710783347156861,
+  "rank": 224,
+  "website_url": "https://movableink.com/",
+  "products": [
+   "Movable Ink"
+  ],
+  "domains": [
+   "micpn.com",
+   "track.coherentpath.com"
+  ]
+ },
+ {
+  "id": "media_innovation_group",
+  "name": "Xaxis",
+  "category": "advertising",
+  "reach": 0.0005632193865522857,
+  "rank": 225,
+  "website_url": "https://www.xaxis.com/",
+  "products": [
+   "Xaxis"
+  ],
+  "domains": [
+   "mookie1.com"
+  ]
+ },
+ {
+  "id": "emarsys",
+  "name": "Emarsys",
+  "category": "advertising",
+  "reach": 0.000556296187613857,
+  "rank": 226,
+  "website_url": "https://www.scarabresearch.com/",
+  "products": [
+   "Scarab Research"
+  ],
+  "domains": [
+   "scarabresearch.com"
+  ]
+ },
+ {
+  "id": "samba_tv",
+  "name": "Samba TV",
+  "category": "advertising",
+  "reach": 0.0005553985559691358,
+  "rank": 227,
+  "website_url": "https://samba.tv/",
+  "products": [
+   "Samba TV"
+  ],
+  "domains": [
+   "samba.tv"
+  ]
+ },
+ {
+  "id": "adelphic",
+  "name": "Viant",
+  "category": "site_analytics",
+  "reach": 0.000553208663613571,
+  "rank": 228,
+  "website_url": "",
+  "products": [
+   "Adelphic"
+  ],
+  "domains": [
+   "ipredictive.com"
+  ]
+ },
+ {
+  "id": "userinsight",
+  "name": "UserInsight",
+  "category": "advertising",
+  "reach": 0.0005499649322746117,
+  "rank": 229,
+  "website_url": "http://nakanohito.jp/",
+  "products": [
+   "Nakanohito"
+  ],
+  "domains": [
+   "nakanohito.jp"
+  ]
+ },
+ {
+  "id": "clicktale",
+  "name": "ClickTale",
+  "category": "site_analytics",
+  "reach": 0.0005491427883868571,
+  "rank": 230,
+  "website_url": "http://www.clicktale.com/",
+  "products": [
+   "ClickTale"
+  ],
+  "domains": [
+   "clicktale.com",
+   "clicktale.net",
+   "clicktale.pantherssl.com",
+   "clicktalecdn.sslcs.cdngc.net"
+  ]
+ },
+ {
+  "id": "~airbnb",
+  "name": "Airbnb",
+  "category": "site_analytics",
+  "reach": 0.0005480306519277852,
+  "rank": 231,
+  "website_url": "https://affiliate.withairbnb.com/",
+  "products": [
+   "Airbnb"
+  ],
+  "domains": [
+   "muscache.com",
+   "musthird.com"
+  ]
+ },
+ {
+  "id": "neodata",
+  "name": "Neodata",
+  "category": "advertising",
+  "reach": 0.0005476995521620804,
+  "rank": 232,
+  "website_url": "https://neodatagroup.com/",
+  "products": [
+   "Neodata"
+  ],
+  "domains": [
+   "neodatagroup.com"
+  ]
+ },
+ {
+  "id": "a8",
+  "name": "A8",
+  "category": "advertising",
+  "reach": 0.0005462480944984263,
+  "rank": 233,
+  "website_url": "https://www.a8.net/",
+  "products": [
+   "A8"
+  ],
+  "domains": [
+   "a8.net"
+  ]
+ },
+ {
+  "id": "zuora",
+  "name": "Zuora",
+  "category": "site_analytics",
+  "reach": 0.0005405244782325851,
+  "rank": 234,
+  "website_url": "https://www.zuora.com/products/zephr/",
+  "products": [
+   "Zephr"
+  ],
+  "domains": [
+   "zephr.com"
+  ]
+ },
+ {
+  "id": "sonobi",
+  "name": "Sonobi",
+  "category": "advertising",
+  "reach": 0.0005336805040687945,
+  "rank": 235,
+  "website_url": "https://sonobi.com/",
+  "products": [
+   "Sonobi"
+  ],
+  "domains": [
+   "sonobi.com"
+  ]
+ },
+ {
+  "id": "roq.ad",
+  "name": "Roqad",
+  "category": "advertising",
+  "reach": 0.0005318329225319496,
+  "rank": 236,
+  "website_url": "https://www.roq.ad/",
+  "products": [
+   "Roq.ad"
+  ],
+  "domains": [
+   "rqtrk.eu"
+  ]
+ },
+ {
+  "id": "mediarithmics",
+  "name": "mediarithmics",
+  "category": "advertising",
+  "reach": 0.000530197603598852,
+  "rank": 237,
+  "website_url": "http://www.mediarithmics.com/en/",
+  "products": [
+   "Mediarithmics"
+  ],
+  "domains": [
+   "mediarithmics.com"
+  ]
+ },
+ {
+  "id": "samsung",
+  "name": "Samsung",
+  "category": "advertising",
+  "reach": 0.0005220359570040511,
+  "rank": 238,
+  "website_url": "https://adgear.com/",
+  "products": [
+   "AdGear"
+  ],
+  "domains": [
+   "adgear.com",
+   "adgrx.com"
+  ]
+ },
+ {
+  "id": "mediamath",
+  "name": "MediaMath",
+  "category": "advertising",
+  "reach": 0.0005208423535597382,
+  "rank": 239,
+  "website_url": "https://www.mediamath.com/",
+  "products": [
+   "MediaMath"
+  ],
+  "domains": [
+   "mathads.com",
+   "mathtag.com"
+  ]
+ },
+ {
+  "id": "viglink",
+  "name": "VigLink",
+  "category": "advertising",
+  "reach": 0.0005123697870946591,
+  "rank": 240,
+  "website_url": "http://www.viglink.com",
+  "products": [
+   "VigLink"
+  ],
+  "domains": [
+   "viglink.com"
+  ]
+ },
+ {
+  "id": "mediago",
+  "name": "MediaGo",
+  "category": "advertising",
+  "reach": 0.0005096873558099759,
+  "rank": 241,
+  "website_url": "https://www.mediago.com/",
+  "products": [
+   "MediaGo"
+  ],
+  "domains": [
+   "mediago.io"
+  ]
+ },
+ {
+  "id": "rollbar",
+  "name": "Rollbar",
+  "category": "site_analytics",
+  "reach": 0.0004998604941407046,
+  "rank": 242,
+  "website_url": "https://www.rollbar.com/",
+  "products": [
+   "Rollbar"
+  ],
+  "domains": [
+   "rollbar.com"
+  ]
+ },
+ {
+  "id": "performax",
+  "name": "Performax",
+  "category": "advertising",
+  "reach": 0.0004983955832134326,
+  "rank": 243,
+  "website_url": "https://www.performax.cz/",
+  "products": [
+   "Performax"
+  ],
+  "domains": [
+   "performax.cz"
+  ]
+ },
+ {
+  "id": "ad_river",
+  "name": "Ad River",
+  "category": "advertising",
+  "reach": 0.0004976945186982381,
+  "rank": 244,
+  "website_url": "https://www.adriver.ru/",
+  "products": [
+   "AdRiver"
+  ],
+  "domains": [
+   "adriver.ru"
+  ]
+ },
+ {
+  "id": "trackjs",
+  "name": "TrackJS",
+  "category": "site_analytics",
+  "reach": 0.0004955240588345658,
+  "rank": 245,
+  "website_url": "http://www.trackjs.com/",
+  "products": [
+   "TrackJS"
+  ],
+  "domains": [
+   "d2zah9y47r7bi2.cloudfront.net",
+   "dl1d2m8ri9v3j.cloudfront.net",
+   "trackjs.com"
+  ]
+ },
+ {
+  "id": "confirmit",
+  "name": "Confirmit",
+  "category": "advertising",
+  "reach": 0.0004936622766305687,
+  "rank": 246,
+  "website_url": "https://confirmit.com/",
+  "products": [
+   "Confirmit"
+  ],
+  "domains": [
+   "confirmit.com"
+  ]
+ },
+ {
+  "id": "~queue-it",
+  "name": "Queue-it",
+  "category": "site_analytics",
+  "reach": 0.000489523155857491,
+  "rank": 247,
+  "website_url": "https://queue-it.com/",
+  "products": [
+   "Queue-it"
+  ],
+  "domains": [
+   "queue-it.net"
+  ]
+ },
+ {
+  "id": "seznam",
+  "name": "Seznam",
+  "category": "site_analytics",
+  "reach": 0.0004859296396644688,
+  "rank": 248,
+  "website_url": "",
+  "products": [
+   "Seznam"
+  ],
+  "domains": [
+   "im.cz",
+   "imedia.cz",
+   "szn.cz"
+  ]
+ },
+ {
+  "id": "matomo",
+  "name": "Matomo",
+  "category": "site_analytics",
+  "reach": 0.0004833914572619098,
+  "rank": 249,
+  "website_url": "https://matomo.org",
+  "products": [
+   "Matomo"
+  ],
+  "domains": [
+   "matomo.cloud",
+   "matomo.org",
+   "piwik.org"
+  ]
+ },
+ {
+  "id": "perion",
+  "name": "Perion",
+  "category": "advertising",
+  "reach": 0.0004792979281044258,
+  "rank": 250,
+  "website_url": "https://www.undertone.com/",
+  "products": [
+   "Undertone"
+  ],
+  "domains": [
+   "undertone.com"
+  ]
+ },
+ {
+  "id": "dentsu_aegis_network",
+  "name": "Dentsu",
+  "category": "advertising",
+  "reach": 0.0004790505375345651,
+  "rank": 251,
+  "website_url": "https://www.merkle.com/",
+  "products": [
+   "Merkle"
+  ],
+  "domains": [
+   "rkdms.com"
+  ]
+ },
+ {
+  "id": "adpushup",
+  "name": "AdPushUp",
+  "category": "advertising",
+  "reach": 0.0004752342950883148,
+  "rank": 252,
+  "website_url": "https://www.adrecover.com/",
+  "products": [
+   "AdRecover"
+  ],
+  "domains": [
+   "adrecover.com"
+  ]
+ },
+ {
+  "id": "logly",
+  "name": "logly",
+  "category": "site_analytics",
+  "reach": 0.00046832230720290094,
+  "rank": 253,
+  "website_url": "https://logly.co.jp/",
+  "products": [
+   "logly"
+  ],
+  "domains": [
+   "logly.co.jp"
+  ]
+ },
+ {
+  "id": "aniview",
+  "name": "Aniview",
+  "category": "advertising",
+  "reach": 0.0004643902172088306,
+  "rank": 254,
+  "website_url": "https://www.aniview.com/",
+  "products": [
+   "Aniview"
+  ],
+  "domains": [
+   "aniview.com"
+  ]
+ },
+ {
+  "id": "internet_billboard",
+  "name": "Internet BillBoard",
+  "category": "advertising",
+  "reach": 0.0004515199283477984,
+  "rank": 255,
+  "website_url": "https://www.ibillboard.com/en/",
+  "products": [
+   "Internet BillBoard"
+  ],
+  "domains": [
+   "bbelements.com",
+   "goadservices.com",
+   "ibillboard.com",
+   "mediainter.net"
+  ]
+ },
+ {
+  "id": "receptiv",
+  "name": "Receptiv",
+  "category": "advertising",
+  "reach": 0.0004438949174906409,
+  "rank": 256,
+  "website_url": "https://www.getreceptiv.com",
+  "products": [
+   "Receptiv"
+  ],
+  "domains": [
+   "contxtful.com",
+   "getreceptiv.com",
+   "receptivity.io"
+  ]
+ },
+ {
+  "id": "eskimi",
+  "name": "Eskimi",
+  "category": "advertising",
+  "reach": 0.0004430279293908269,
+  "rank": 257,
+  "website_url": "https://www.eskimi.com/",
+  "products": [
+   "Eskimi"
+  ],
+  "domains": [
+   "ittpx.eskimi.com"
+  ]
+ },
+ {
+  "id": "acceleration_partners",
+  "name": "Acceleration Partners",
+  "category": "advertising",
+  "reach": 0.0004423306018933041,
+  "rank": 258,
+  "website_url": "https://www.accelerationpartners.com/",
+  "products": [
+   "Acceleration Partners"
+  ],
+  "domains": [
+   "lantern.roeye.com",
+   "lantern.roeyecdn.com"
+  ]
+ },
+ {
+  "id": "news_corp",
+  "name": "News",
+  "category": "advertising",
+  "reach": 0.0004380479796416366,
+  "rank": 259,
+  "website_url": "",
+  "products": [
+   "News Connect"
+  ],
+  "domains": [
+   "newscgp.com"
+  ]
+ },
+ {
+  "id": "sirdata",
+  "name": "Sirdata",
+  "category": "advertising",
+  "reach": 0.0004364388198322404,
+  "rank": 260,
+  "website_url": "https://www.sirdata.com/",
+  "products": [
+   "Sirdata"
+  ],
+  "domains": [
+   "sddan.com"
+  ]
+ },
+ {
+  "id": "assertive_communications",
+  "name": "Assertive Communications",
+  "category": "advertising",
+  "reach": 0.0004355695895218234,
+  "rank": 261,
+  "website_url": "https://assertcom.de/",
+  "products": [
+   "Assertive Communications"
+  ],
+  "domains": [
+   "assertcom.de"
+  ]
+ },
+ {
+  "id": "rambler",
+  "name": "Rambler",
+  "category": "site_analytics",
+  "reach": 0.0004336061604371584,
+  "rank": 262,
+  "website_url": "https://www.rambler.ru/",
+  "products": [
+   "Rambler"
+  ],
+  "domains": [
+   "rambler.ru",
+   "top100.ru"
+  ]
+ },
+ {
+  "id": "decibel_insight",
+  "name": "Medallia",
+  "category": "site_analytics",
+  "reach": 0.00042623526678167055,
+  "rank": 263,
+  "website_url": "",
+  "products": [
+   "Decibel Insight"
+  ],
+  "domains": [
+   "decibelinsight.net"
+  ]
+ },
+ {
+  "id": "snowplow",
+  "name": "Snowplow Analytics",
+  "category": "site_analytics",
+  "reach": 0.0004186991969450975,
+  "rank": 264,
+  "website_url": "https://snowplow.io/",
+  "products": [
+   "Snowplow"
+  ],
+  "domains": [
+   "d346whrrklhco7.cloudfront.net",
+   "d78fikflryjgj.cloudfront.net",
+   "dc8xl0ndzn2cb.cloudfront.net",
+   "playwire.com",
+   "snplow.net"
+  ]
+ },
+ {
+  "id": "mouseflow",
+  "name": "Mouseflow",
+  "category": "site_analytics",
+  "reach": 0.00041128121686694735,
+  "rank": 265,
+  "website_url": "https://mouseflow.com/",
+  "products": [
+   "Mouseflow"
+  ],
+  "domains": [
+   "mouseflow.com"
+  ]
+ },
+ {
+  "id": "accesstrade",
+  "name": "AccessTrade",
+  "category": "advertising",
+  "reach": 0.0004016045833080748,
+  "rank": 266,
+  "website_url": "https://www.accesstrade.global/",
+  "products": [
+   "AccessTrade"
+  ],
+  "domains": [
+   "accesstrade.net"
+  ]
+ },
+ {
+  "id": "~digioh",
+  "name": "Digioh",
+  "category": "advertising",
+  "reach": 0.0003994034798994953,
+  "rank": 267,
+  "website_url": "https://digioh.com/",
+  "products": [
+   "Digioh"
+  ],
+  "domains": [
+   "digioh.com",
+   "lightboxcdn.com"
+  ]
+ },
+ {
+  "id": "stats_perform",
+  "name": "Stats Perform",
+  "category": "site_analytics",
+  "reach": 0.0003945984225773364,
+  "rank": 268,
+  "website_url": "https://www.statsperform.com/products/opta-data/",
+  "products": [
+   "Opta"
+  ],
+  "domains": [
+   "opta.net"
+  ]
+ },
+ {
+  "id": "exponential_interactive",
+  "name": "Exponential Interactive",
+  "category": "advertising",
+  "reach": 0.0003933853866411311,
+  "rank": 269,
+  "website_url": "https://www.tribalfusion.com/",
+  "products": [
+   "Tribal Fusion"
+  ],
+  "domains": [
+   "exponential.com",
+   "tribalfusion.com"
+  ]
+ },
+ {
+  "id": "freakout",
+  "name": "FreakOut",
+  "category": "advertising",
+  "reach": 0.0003870055500721548,
+  "rank": 270,
+  "website_url": "https://www.fout.co.jp/",
+  "products": [
+   "FreakOut"
+  ],
+  "domains": [
+   "fout.jp"
+  ]
+ },
+ {
+  "id": "big_wall_vision",
+  "name": "Big Wall Vision",
+  "category": "advertising",
+  "reach": 0.0003863762362962553,
+  "rank": 271,
+  "website_url": "http://rtmark.net/",
+  "products": [
+   "Advertising Technologies Ltd"
+  ],
+  "domains": [
+   "rtmark.net"
+  ]
+ },
+ {
+  "id": "clicky",
+  "name": "Clicky",
+  "category": "site_analytics",
+  "reach": 0.0003822916759811832,
+  "rank": 272,
+  "website_url": "http://getclicky.com/",
+  "products": [
+   "Clicky"
+  ],
+  "domains": [
+   "getclicky.com",
+   "staticstuff.net"
+  ]
+ },
+ {
+  "id": "claritas",
+  "name": "Claritas",
+  "category": "advertising",
+  "reach": 0.0003763969043059822,
+  "rank": 273,
+  "website_url": "https://claritas.com/",
+  "products": [
+   "Claritas"
+  ],
+  "domains": [
+   "trkn.us"
+  ]
+ },
+ {
+  "id": "ipinfo.io",
+  "name": "ipinfo.io",
+  "category": "site_analytics",
+  "reach": 0.00037496562653775473,
+  "rank": 274,
+  "website_url": "https://ipinfo.io/",
+  "products": [
+   "Ipinfo"
+  ],
+  "domains": [
+   "ipinfo.io"
+  ]
+ },
+ {
+  "id": "izooto",
+  "name": "iZooto",
+  "category": "site_analytics",
+  "reach": 0.0003747914815142576,
+  "rank": 275,
+  "website_url": "",
+  "products": [
+   "iZooto"
+  ],
+  "domains": [
+   "cdn.izooto.com"
+  ]
+ },
+ {
+  "id": "acuity_ads",
+  "name": "Acuity Ads",
+  "category": "advertising",
+  "reach": 0.00037375034839094647,
+  "rank": 276,
+  "website_url": "http://www.acuityads.com/",
+  "products": [
+   "Acuity Ads"
+  ],
+  "domains": [
+   "acuityplatform.com"
+  ]
+ },
+ {
+  "id": "infolinks",
+  "name": "Infolinks",
+  "category": "advertising",
+  "reach": 0.0003733534771142213,
+  "rank": 277,
+  "website_url": "https://www.infolinks.com/",
+  "products": [
+   "InfoLinks"
+  ],
+  "domains": [
+   "infolinks.com",
+   "intextscript.com"
+  ]
+ },
+ {
+  "id": "hybrid_adtech",
+  "name": "Hybrid Adtech",
+  "category": "advertising",
+  "reach": 0.00037189753502936114,
+  "rank": 278,
+  "website_url": "https://hybrid.ai/",
+  "products": [
+   "Hybrid.ai"
+  ],
+  "domains": [
+   "hybrid.ai",
+   "targetix.net"
+  ]
+ },
+ {
+  "id": "xplosion_interactive",
+  "name": "xplosion interactive",
+  "category": "advertising",
+  "reach": 0.000371338477185688,
+  "rank": 279,
+  "website_url": "http://www.xplosion.de/",
+  "products": [
+   "xplosion"
+  ],
+  "domains": [
+   "xplosion.de"
+  ]
+ },
+ {
+  "id": "sales_manago",
+  "name": "SALESmanago",
+  "category": "site_analytics",
+  "reach": 0.0003708526648883784,
+  "rank": 280,
+  "website_url": "https://www.salesmanago.pl",
+  "products": [
+   "SALESmanago"
+  ],
+  "domains": [
+   "salesmanago.com",
+   "salesmanago.pl"
+  ]
+ },
+ {
+  "id": "mediav",
+  "name": "MediaV",
+  "category": "advertising",
+  "reach": 0.0003693309512924979,
+  "rank": 281,
+  "website_url": "https://www.mediav.com/",
+  "products": [
+   "MediaV"
+  ],
+  "domains": [
+   "mediav.com"
+  ]
+ },
+ {
+  "id": "buysellads.com",
+  "name": "BuySellAds.com",
+  "category": "advertising",
+  "reach": 0.0003677001167806064,
+  "rank": 282,
+  "website_url": "https://buysellads.com/",
+  "products": [
+   "BuySellAds"
+  ],
+  "domains": [
+   "buysellads.com",
+   "servedby-buysellads.com",
+   "buysellads.net"
+  ]
+ },
+ {
+  "id": "turner",
+  "name": "AT&T",
+  "category": "site_analytics",
+  "reach": 0.0003661126316737056,
+  "rank": 283,
+  "website_url": "https://www.warnermedia.com/",
+  "products": [
+   "Warner Media"
+  ],
+  "domains": [
+   "ngtv.io",
+   "turner.com",
+   "warnermedia.com"
+  ]
+ },
+ {
+  "id": "yottaa",
+  "name": "Yottaa",
+  "category": "site_analytics",
+  "reach": 0.0003625041674099969,
+  "rank": 284,
+  "website_url": "https://www.yottaa.com/",
+  "products": [
+   "Yottaa"
+  ],
+  "domains": [
+   "yottaa.net",
+   "yottaa.com"
+  ]
+ },
+ {
+  "id": "columbia_online",
+  "name": "Columbia Online",
+  "category": "advertising",
+  "reach": 0.000361394273161528,
+  "rank": 285,
+  "website_url": "",
+  "products": [
+   "Columbia Online"
+  ],
+  "domains": [
+   "ade.clmbtech.com",
+   "static.clmbtech.com"
+  ]
+ },
+ {
+  "id": "kloudend",
+  "name": "Kloudend",
+  "category": "site_analytics",
+  "reach": 0.00034812636562023627,
+  "rank": 286,
+  "website_url": "https://ipapi.co/",
+  "products": [
+   "ipapi"
+  ],
+  "domains": [
+   "ipapi.co"
+  ]
+ },
+ {
+  "id": "adjust",
+  "name": "Adjust",
+  "category": "site_analytics",
+  "reach": 0.0003476046779532792,
+  "rank": 287,
+  "website_url": "https://www.adjust.com/",
+  "products": [
+   "Adjust"
+  ],
+  "domains": [
+   "adjust.com"
+  ]
+ },
+ {
+  "id": "shogun_labs",
+  "name": "Shogun Labs",
+  "category": "site_analytics",
+  "reach": 0.0003448639491929188,
+  "rank": 288,
+  "website_url": "https://getshogun.com/help/en/articles/3054981-get-more-from-your-pages-with-analytics",
+  "products": [
+   "Shogun Analytics"
+  ],
+  "domains": [
+   "na.shgcdn3.com"
+  ]
+ },
+ {
+  "id": "delivrai",
+  "name": "Delivr.ai",
+  "category": "advertising",
+  "reach": 0.0003387359876150092,
+  "rank": 289,
+  "website_url": "https://www.delivr.ai/solutions/resolution",
+  "products": [
+   "Delivr.ai"
+  ],
+  "domains": [
+   "delivr.ai",
+   "usbrowserspeed.com"
+  ]
+ },
+ {
+  "id": "6sense",
+  "name": "6Sense",
+  "category": "site_analytics",
+  "reach": 0.0003367262195112162,
+  "rank": 290,
+  "website_url": "https://6sense.com/",
+  "products": [
+   "6Sense"
+  ],
+  "domains": [
+   "6sc.co",
+   "6sense.com"
+  ]
+ },
+ {
+  "id": "umeng",
+  "name": "Umeng",
+  "category": "site_analytics",
+  "reach": 0.0003363794242712906,
+  "rank": 291,
+  "website_url": "https://www.umeng.com/",
+  "products": [
+   "Umeng"
+  ],
+  "domains": [
+   "cnzz.com",
+   "umeng.com"
+  ]
+ },
+ {
+  "id": "varify",
+  "name": "Varify",
+  "category": "site_analytics",
+  "reach": 0.00033434798146500224,
+  "rank": 292,
+  "website_url": "https://varify.io/",
+  "products": [
+   "Varify"
+  ],
+  "domains": [
+   "varify.io"
+  ]
+ },
+ {
+  "id": "tradedoubler",
+  "name": "Tradedoubler",
+  "category": "advertising",
+  "reach": 0.0003298523492060528,
+  "rank": 293,
+  "website_url": "https://www.tradedoubler.com/",
+  "products": [
+   "TradeDoubler"
+  ],
+  "domains": [
+   "tradedoubler.com"
+  ]
+ },
+ {
+  "id": "adotmob",
+  "name": "Adot",
+  "category": "advertising",
+  "reach": 0.00032943978245510684,
+  "rank": 294,
+  "website_url": "https://adotmob.com/",
+  "products": [
+   "Adotmob"
+  ],
+  "domains": [
+   "adotmob.com"
+  ]
+ },
+ {
+  "id": "kenshoo",
+  "name": "Kenshoo",
+  "category": "site_analytics",
+  "reach": 0.0003261676497818432,
+  "rank": 295,
+  "website_url": "http://www.kenshoo.com/",
+  "products": [
+   "Kenshoo"
+  ],
+  "domains": [
+   "xg4ken.com"
+  ]
+ },
+ {
+  "id": "sendinblue",
+  "name": "sendinblue",
+  "category": "advertising",
+  "reach": 0.00032571920766124977,
+  "rank": 296,
+  "website_url": "",
+  "products": [
+   "sendinblue"
+  ],
+  "domains": [
+   "sibautomation.com"
+  ]
+ },
+ {
+  "id": "gainsight",
+  "name": "Gainsight",
+  "category": "site_analytics",
+  "reach": 0.00031976165408916565,
+  "rank": 297,
+  "website_url": "https://www.gainsight.com/product-experience/",
+  "products": [
+   "Gainsight PX"
+  ],
+  "domains": [
+   "gainsight.com",
+   "aptrinsic.com",
+   "web-sdk.aptrinsic.com"
+  ]
+ },
+ {
+  "id": "adlabs",
+  "name": "AdLabs",
+  "category": "advertising",
+  "reach": 0.00031744545053630045,
+  "rank": 298,
+  "website_url": "https://www.adlabs.ru/",
+  "products": [
+   "AdLabs"
+  ],
+  "domains": [
+   "adlabs.ru",
+   "clickiocdn.com",
+   "luxup.ru",
+   "mixmarket.biz"
+  ]
+ },
+ {
+  "id": "catchpoint_systems",
+  "name": "Catchpoint Systems",
+  "category": "site_analytics",
+  "reach": 0.00031277417844678527,
+  "rank": 299,
+  "website_url": "https://www.catchpoint.com/",
+  "products": [
+   "Catchpoint"
+  ],
+  "domains": [
+   "3gl.net"
+  ]
+ },
+ {
+  "id": "bloomreach",
+  "name": "BloomReach",
+  "category": "advertising",
+  "reach": 0.00031197221445445727,
+  "rank": 300,
+  "website_url": "https://www.bloomreach.com/en",
+  "products": [
+   "BloomReach"
+  ],
+  "domains": [
+   "brcdn.com",
+   "brsrvr.com",
+   "brtstats.com"
+  ]
+ },
+ {
+  "id": "triggermail",
+  "name": "TriggerMail",
+  "category": "advertising",
+  "reach": 0.00030995945673652697,
+  "rank": 301,
+  "website_url": "https://www.bluecore.com/",
+  "products": [
+   "Bluecore"
+  ],
+  "domains": [
+   "bluecore.com",
+   "triggeredmail.appspot.com"
+  ]
+ },
+ {
+  "id": "getsitecontrol",
+  "name": "GetSiteControl",
+  "category": "advertising",
+  "reach": 0.0003072463819069366,
+  "rank": 302,
+  "website_url": "",
+  "products": [
+   "Get Site Control"
+  ],
+  "domains": [
+   "getsitecontrol.com"
+  ]
+ },
+ {
+  "id": "mapp_digital",
+  "name": "Mapp Digital",
+  "category": "site_analytics",
+  "reach": 0.0003040146090245264,
+  "rank": 303,
+  "website_url": "https://mapp.com/digital-analytics/",
+  "products": [
+   "Mapp Digital Analytics"
+  ],
+  "domains": [
+   "d1r27qvpjiaqj3.cloudfront.net",
+   "mateti.net",
+   "wbtrk.net",
+   "wcfbc.net",
+   "webtrekk-asia.net",
+   "webtrekk.com",
+   "webtrekk.de",
+   "webtrekk.net",
+   "wt-eu02.net",
+   "wt-safetag.com"
+  ]
+ },
+ {
+  "id": "myfonts",
+  "name": "MyFonts",
+  "category": "site_analytics",
+  "reach": 0.0002941100173876855,
+  "rank": 304,
+  "website_url": "https://www.myfonts.com/",
+  "products": [
+   "MyFonts"
+  ],
+  "domains": [
+   "myfonts.net"
+  ]
+ },
+ {
+  "id": "first_impression",
+  "name": "First Impression",
+  "category": "advertising",
+  "reach": 0.0002930883167562668,
+  "rank": 305,
+  "website_url": "",
+  "products": [
+   "First Impression"
+  ],
+  "domains": [
+   "firstimpression.io"
+  ]
+ },
+ {
+  "id": "wysistat",
+  "name": "Wysistat",
+  "category": "site_analytics",
+  "reach": 0.0002904679199649323,
+  "rank": 306,
+  "website_url": "https://www.wysistat.net/",
+  "products": [
+   "WysiStat"
+  ],
+  "domains": [
+   "wysistat.com",
+   "wysistat.net"
+  ]
+ },
+ {
+  "id": "~qualaroo",
+  "name": "Qualaroo",
+  "category": "site_analytics",
+  "reach": 0.00028968763067509966,
+  "rank": 307,
+  "website_url": "",
+  "products": [
+   "Qualaroo"
+  ],
+  "domains": [
+   "qualaroo.com"
+  ]
+ },
+ {
+  "id": "ironsource",
+  "name": "ironSource",
+  "category": "advertising",
+  "reach": 0.0002868400232093312,
+  "rank": 308,
+  "website_url": "https://www.streamrail.com/",
+  "products": [
+   "StreamRail"
+  ],
+  "domains": [
+   "streamrail.com",
+   "streamrail.net"
+  ]
+ },
+ {
+  "id": "azerion",
+  "name": "Azerion",
+  "category": "advertising",
+  "reach": 0.00028218967841877707,
+  "rank": 309,
+  "website_url": "https://sublimeskinz.com/home",
+  "products": [
+   "Azerion"
+  ],
+  "domains": [
+   "ayads.co"
+  ]
+ },
+ {
+  "id": "mntn",
+  "name": "MNTN",
+  "category": "site_analytics",
+  "reach": 0.00027774113258249,
+  "rank": 310,
+  "website_url": "https://mountain.com/",
+  "products": [
+   "MNTN"
+  ],
+  "domains": [
+   "mountain.com"
+  ]
+ },
+ {
+  "id": "shopify",
+  "name": "Shopify",
+  "category": "site_analytics",
+  "reach": 0.0002755400291739104,
+  "rank": 311,
+  "website_url": "https://www.shopify.com/",
+  "products": [
+   "Shopify Stats"
+  ],
+  "domains": [
+   "shopify.com",
+   "stats.myshopify.com"
+  ]
+ },
+ {
+  "id": "cognitiv",
+  "name": "Cognitiv",
+  "category": "advertising",
+  "reach": 0.00027546827843461544,
+  "rank": 312,
+  "website_url": "https://www.cognitiv.ai/",
+  "products": [
+   "Cognitiv"
+  ],
+  "domains": [
+   "cognitivlabs.com"
+  ]
+ },
+ {
+  "id": "51.la",
+  "name": "51.La",
+  "category": "site_analytics",
+  "reach": 0.00027317075997010826,
+  "rank": 313,
+  "website_url": "https://www.51.la/",
+  "products": [
+   "51.La"
+  ],
+  "domains": [
+   "51.la"
+  ]
+ },
+ {
+  "id": "smartclip",
+  "name": "smartclip Holding AG",
+  "category": "advertising",
+  "reach": 0.00026796509435355253,
+  "rank": 314,
+  "website_url": "",
+  "products": [
+   "SmartClip"
+  ],
+  "domains": [
+   "smartclip.net"
+  ]
+ },
+ {
+  "id": "alliance_gravity",
+  "name": "Alliance Gravity",
+  "category": "advertising",
+  "reach": 0.0002674277112123748,
+  "rank": 315,
+  "website_url": "https://www.alliancegravity.com/",
+  "products": [
+   "Alliance Gravity"
+  ],
+  "domains": [
+   "tag.agrvt.com",
+   "events.agrvt.com"
+  ]
+ },
+ {
+  "id": "clickonometrics",
+  "name": "Clickonometrics",
+  "category": "advertising",
+  "reach": 0.00026647701391671656,
+  "rank": 316,
+  "website_url": "http://clickonometrics.pl/",
+  "products": [
+   "Clickonometrics"
+  ],
+  "domains": [
+   "clickonometrics.pl"
+  ]
+ },
+ {
+  "id": "onthe.io",
+  "name": "onthe.io",
+  "category": "site_analytics",
+  "reach": 0.0002637422643846308,
+  "rank": 317,
+  "website_url": "",
+  "products": [
+   "OnThe.io"
+  ],
+  "domains": [
+   "onthe.io"
+  ]
+ },
+ {
+  "id": "crimtan",
+  "name": "Crimtan",
+  "category": "advertising",
+  "reach": 0.00025859190662961493,
+  "rank": 318,
+  "website_url": "https://www.crimtan.com/",
+  "products": [
+   "Crimtan"
+  ],
+  "domains": [
+   "ctnsnet.com"
+  ]
+ },
+ {
+  "id": "brandwatch",
+  "name": "Brandwatch",
+  "category": "site_analytics",
+  "reach": 0.0002573325316742816,
+  "rank": 319,
+  "website_url": "https://www.brandwatch.com/",
+  "products": [
+   "Brandwatch"
+  ],
+  "domains": [
+   "brandwatch.com",
+   "crimsonhexagon.com",
+   "hexagon-analytics.com"
+  ]
+ },
+ {
+  "id": "granify",
+  "name": "Granify",
+  "category": "site_analytics",
+  "reach": 0.0002548773110640325,
+  "rank": 320,
+  "website_url": "http://granify.com/",
+  "products": [
+   "Granify"
+  ],
+  "domains": [
+   "d2bw638ufki166.cloudfront.net",
+   "granify.com"
+  ]
+ },
+ {
+  "id": "innovid",
+  "name": "Innovid",
+  "category": "advertising",
+  "reach": 0.00025131443841591743,
+  "rank": 321,
+  "website_url": "https://www.innovid.com/",
+  "products": [
+   "Innovid"
+  ],
+  "domains": [
+   "innovid.com"
+  ]
+ },
+ {
+  "id": "adtheorant",
+  "name": "AdTheorent",
+  "category": "advertising",
+  "reach": 0.0002512337188342106,
+  "rank": 322,
+  "website_url": "https://adtheorent.com/",
+  "products": [
+   "Adtheorent"
+  ],
+  "domains": [
+   "adentifi.com"
+  ]
+ },
+ {
+  "id": "fit_analytics",
+  "name": "Fit Analytics",
+  "category": "site_analytics",
+  "reach": 0.0002502538728007139,
+  "rank": 323,
+  "website_url": "",
+  "products": [
+   "Fit Analytics"
+  ],
+  "domains": [
+   "fitanalytics.com"
+  ]
+ },
+ {
+  "id": "dataxu",
+  "name": "DataXu",
+  "category": "advertising",
+  "reach": 0.00024404743385170045,
+  "rank": 324,
+  "website_url": "http://www.dataxu.com/",
+  "products": [
+   "DataXu"
+  ],
+  "domains": [
+   "w55c.net"
+  ]
+ },
+ {
+  "id": "~trustx",
+  "name": "Trustx",
+  "category": "advertising",
+  "reach": 0.00024155334825766648,
+  "rank": 325,
+  "website_url": "https://trustx.org",
+  "products": [
+   "Trustx"
+  ],
+  "domains": [
+   "trustx.org"
+  ]
+ },
+ {
+  "id": "securedvisit",
+  "name": "SecuredVisit",
+  "category": "advertising",
+  "reach": 0.0002405241735909045,
+  "rank": 326,
+  "website_url": "http://securedvisit.com/",
+  "products": [
+   "SecuredVisit"
+  ],
+  "domains": [
+   "securedvisit.com"
+  ]
+ },
+ {
+  "id": "rtl_group",
+  "name": "RTL Group",
+  "category": "advertising",
+  "reach": 0.00023862352640312252,
+  "rank": 327,
+  "website_url": "https://www.spotx.tv/",
+  "products": [
+   "SpotX"
+  ],
+  "domains": [
+   "spotx.tv",
+   "spotxcdn.com",
+   "spotxchange.com"
+  ]
+ },
+ {
+  "id": "adverticum",
+  "name": "Adverticum",
+  "category": "advertising",
+  "reach": 0.000237129466738012,
+  "rank": 328,
+  "website_url": "https://adverticum.net/english/",
+  "products": [
+   "Adverticum"
+  ],
+  "domains": [
+   "adverticum.net"
+  ]
+ },
+ {
+  "id": "the_moneytizer",
+  "name": "The Moneytizer",
+  "category": "advertising",
+  "reach": 0.000235256473481,
+  "rank": 329,
+  "website_url": "",
+  "products": [
+   "Moneytizer"
+  ],
+  "domains": [
+   "ads.themoneytizer.com"
+  ]
+ },
+ {
+  "id": "nextmillmedia",
+  "name": "Next Millennium Media",
+  "category": "advertising",
+  "reach": 0.00022851863061908328,
+  "rank": 330,
+  "website_url": "https://nmm.nextmillmedia.com/",
+  "products": [
+   "Next Millennium Media"
+  ],
+  "domains": [
+   "cookies.nextmillmedia.com",
+   "pbs.nextmillmedia.com"
+  ]
+ },
+ {
+  "id": "admixer",
+  "name": "ADMIXER",
+  "category": "advertising",
+  "reach": 0.0002224803574652924,
+  "rank": 331,
+  "website_url": "https://admixer.net/",
+  "products": [
+   "Admixer"
+  ],
+  "domains": [
+   "admixer.net"
+  ]
+ },
+ {
+  "id": "invoca",
+  "name": "Invoca",
+  "category": "site_analytics",
+  "reach": 0.000220926505517436,
+  "rank": 332,
+  "website_url": "https://www.invoca.com/",
+  "products": [
+   "Invoca"
+  ],
+  "domains": [
+   "ringrevenue.com",
+   "invoca.net",
+   "invocacdn.com"
+  ]
+ },
+ {
+  "id": "cpmstar",
+  "name": "CPMStar",
+  "category": "advertising",
+  "reach": 0.0002195580096460917,
+  "rank": 333,
+  "website_url": "http://www.cpmstar.com",
+  "products": [
+   "CPMStar"
+  ],
+  "domains": [
+   "cpmstar.com"
+  ]
+ },
+ {
+  "id": "narrative.io",
+  "name": "Narrative.io",
+  "category": "site_analytics",
+  "reach": 0.0002163105412894607,
+  "rank": 334,
+  "website_url": "https://www.narrative.io/",
+  "products": [
+   "Narrative"
+  ],
+  "domains": [
+   "narrative.io"
+  ]
+ },
+ {
+  "id": "adtelligent",
+  "name": "Adtelligent",
+  "category": "advertising",
+  "reach": 0.00021407281510769932,
+  "rank": 335,
+  "website_url": "https://adtelligent.com/",
+  "products": [
+   "Adtelligent"
+  ],
+  "domains": [
+   "adtelligent.com"
+  ]
+ },
+ {
+  "id": "enreach",
+  "name": "Enreach",
+  "category": "advertising",
+  "reach": 0.00021392109219023188,
+  "rank": 336,
+  "website_url": "https://enreach.me/",
+  "products": [
+   "Enreach"
+  ],
+  "domains": [
+   "adtlgc.com"
+  ]
+ },
+ {
+  "id": "~kount",
+  "name": "Kount",
+  "category": "site_analytics",
+  "reach": 0.0002132835569754549,
+  "rank": 337,
+  "website_url": "https://kount.com/",
+  "products": [
+   "Kount"
+  ],
+  "domains": [
+   "kaptcha.com"
+  ]
+ },
+ {
+  "id": "singular_labs",
+  "name": "Singular Labs",
+  "category": "site_analytics",
+  "reach": 0.0002035120031677234,
+  "rank": 338,
+  "website_url": "https://www.singular.net/privacy-policy/",
+  "products": [
+   "Singular"
+  ],
+  "domains": [
+   "singular.net"
+  ]
+ },
+ {
+  "id": "sojern",
+  "name": "Sojern",
+  "category": "advertising",
+  "reach": 0.00020061730927929263,
+  "rank": 339,
+  "website_url": "https://www.sojern.com/",
+  "products": [
+   "Sojern"
+  ],
+  "domains": [
+   "sojern.com"
+  ]
+ },
+ {
+  "id": "~arkoselabs.com",
+  "name": "Arkose Labs",
+  "category": "site_analytics",
+  "reach": 0.00020032059007616665,
+  "rank": 340,
+  "website_url": "https://www.arkoselabs.com/",
+  "products": [
+   "Arkose Labs"
+  ],
+  "domains": [
+   "arkoselabs.com"
+  ]
+ },
+ {
+  "id": "cloud_technologies",
+  "name": "Cloud Technologies",
+  "category": "advertising",
+  "reach": 0.0001974916676987562,
+  "rank": 341,
+  "website_url": "https://www.onaudience.com/",
+  "products": [
+   "OnAudience"
+  ],
+  "domains": [
+   "onaudience.com"
+  ]
+ },
+ {
+  "id": "~vidazoo.com",
+  "name": "Vidazoo",
+  "category": "advertising",
+  "reach": 0.0001971381458270217,
+  "rank": 342,
+  "website_url": "https://www.vidazoo.com/",
+  "products": [
+   "Vidazoo"
+  ],
+  "domains": [
+   "vidazoo.com"
+  ]
+ },
+ {
+  "id": "between_digital",
+  "name": "Between Digital",
+  "category": "advertising",
+  "reach": 0.00018816257678334365,
+  "rank": 343,
+  "website_url": "https://betweendigital.ru/ssp",
+  "products": [
+   "Between Digital"
+  ],
+  "domains": [
+   "betweendigital.com",
+   "intencysrv.com"
+  ]
+ },
+ {
+  "id": "media2_stat.media",
+  "name": "Media2 Stat.Media",
+  "category": "site_analytics",
+  "reach": 0.00018621484317289937,
+  "rank": 344,
+  "website_url": "https://smi2.net/",
+  "products": [
+   "smi2.ru"
+  ],
+  "domains": [
+   "smi2.net",
+   "smi2.ru",
+   "stat.media"
+  ]
+ },
+ {
+  "id": "globale",
+  "name": "Global-e",
+  "category": "site_analytics",
+  "reach": 0.0001811138140511488,
+  "rank": 345,
+  "website_url": "https://www.global-e.com/",
+  "products": [
+   "Global-e Analytics"
+  ],
+  "domains": [
+   "globale-analytics-sdk.global-e.com"
+  ]
+ },
+ {
+  "id": "wandz_ai",
+  "name": "Wandz.ai",
+  "category": "site_analytics",
+  "reach": 0.0001799613178012236,
+  "rank": 346,
+  "website_url": "https://wandz.ai",
+  "products": [
+   "Wandz.ai"
+  ],
+  "domains": [
+   "namogoo.coom",
+   "nmgassets.com",
+   "wandz.ai"
+  ]
+ },
+ {
+  "id": "sundaysky",
+  "name": "SundaySky",
+  "category": "advertising",
+  "reach": 0.00017981706891909935,
+  "rank": 347,
+  "website_url": "https://www.sundaysky.com/",
+  "products": [
+   "SundaySky"
+  ],
+  "domains": [
+   "sundaysky.com"
+  ]
+ },
+ {
+  "id": "maxmind",
+  "name": "MaxMind",
+  "category": "advertising",
+  "reach": 0.00017881779039371026,
+  "rank": 348,
+  "website_url": "http://www.maxmind.com/",
+  "products": [
+   "MaxMind"
+  ],
+  "domains": [
+   "maxmind.com"
+  ]
+ },
+ {
+  "id": "millward_brown",
+  "name": "Kantar Group",
+  "category": "site_analytics",
+  "reach": 0.00017574895148178237,
+  "rank": 349,
+  "website_url": "https://www.kantar.com/",
+  "products": [
+   "InsightExpress"
+  ],
+  "domains": [
+   "insightexpressai.com"
+  ]
+ },
+ {
+  "id": "true_fit",
+  "name": "True Fit",
+  "category": "advertising",
+  "reach": 0.00017515177605785875,
+  "rank": 350,
+  "website_url": "",
+  "products": [
+   "True Fit"
+  ],
+  "domains": [
+   "truefitcorp.com"
+  ]
+ },
+ {
+  "id": "speee",
+  "name": "Speee",
+  "category": "advertising",
+  "reach": 0.00017197007921224817,
+  "rank": 351,
+  "website_url": "https://speee.jp",
+  "products": [
+   "Speee"
+  ],
+  "domains": [
+   "speee-ad.akamaized.net"
+  ]
+ },
+ {
+  "id": "navegg",
+  "name": "Navegg",
+  "category": "site_analytics",
+  "reach": 0.00016840421694999585,
+  "rank": 352,
+  "website_url": "https://www.navegg.com/en/",
+  "products": [
+   "Navegg"
+  ],
+  "domains": [
+   "navdmp.com"
+  ]
+ },
+ {
+  "id": "netease",
+  "name": "NetEase",
+  "category": "advertising",
+  "reach": 0.0001676134640106827,
+  "rank": 353,
+  "website_url": "http://126.net/",
+  "products": [
+   "NetEase"
+  ],
+  "domains": [
+   "126.net",
+   "163.com"
+  ]
+ },
+ {
+  "id": "mather_economics",
+  "name": "Mather Economics",
+  "category": "site_analytics",
+  "reach": 0.00016550354383329047,
+  "rank": 354,
+  "website_url": "",
+  "products": [
+   "Mather Analytics"
+  ],
+  "domains": [
+   "matheranalytics.com"
+  ]
+ },
+ {
+  "id": "engine_group",
+  "name": "Big Village",
+  "category": "advertising",
+  "reach": 0.00016211855322634418,
+  "rank": 355,
+  "website_url": "https://orcinternational.com/",
+  "products": [
+   "ORC International"
+  ],
+  "domains": [
+   "emxdgt.com"
+  ]
+ },
+ {
+  "id": "gravitec",
+  "name": "Gravitec",
+  "category": "site_analytics",
+  "reach": 0.00016046081218721705,
+  "rank": 356,
+  "website_url": "",
+  "products": [
+   "Gravitec"
+  ],
+  "domains": [
+   "cdn.gravitec.net"
+  ]
+ },
+ {
+  "id": "visa",
+  "name": "Visa",
+  "category": "site_analytics",
+  "reach": 0.00015870291907449068,
+  "rank": 357,
+  "website_url": "https://www.cardinalcommerce.com/",
+  "products": [
+   "Cardinal",
+   "CyberSource"
+  ],
+  "domains": [
+   "cardinalcommerce.com",
+   "cybersource.com"
+  ]
+ },
+ {
+  "id": "raygun",
+  "name": "Raygun",
+  "category": "advertising",
+  "reach": 0.00015778660234141138,
+  "rank": 358,
+  "website_url": "",
+  "products": [
+   "Raygun"
+  ],
+  "domains": [
+   "raygun.io"
+  ]
+ },
+ {
+  "id": "resonate",
+  "name": "Resonate",
+  "category": "advertising",
+  "reach": 0.00015478951416877842,
+  "rank": 359,
+  "website_url": "https://www.resonatenetworks.com/",
+  "products": [
+   "Resonate Networks"
+  ],
+  "domains": [
+   "reson8.com"
+  ]
+ },
+ {
+  "id": "synacor",
+  "name": "Synacor",
+  "category": "advertising",
+  "reach": 0.00015406004831927973,
+  "rank": 360,
+  "website_url": "https://www.synacor.com/",
+  "products": [
+   "Synacor"
+  ],
+  "domains": [
+   "technorati.com",
+   "technoratimedia.com"
+  ]
+ },
+ {
+  "id": "infonline",
+  "name": "INFOnline",
+  "category": "site_analytics",
+  "reach": 0.00015394420077145978,
+  "rank": 361,
+  "website_url": "https://www.infonline.de/",
+  "products": [
+   "INFOnline"
+  ],
+  "domains": [
+   "ioam.de",
+   "iocnt.net",
+   "ivwbox.de"
+  ]
+ },
+ {
+  "id": "i.r.v.",
+  "name": "Content Exchange",
+  "category": "advertising",
+  "reach": 0.00015138509106993976,
+  "rank": 362,
+  "website_url": "https://www.contentexchange.me/",
+  "products": [
+   "Content Exchange"
+  ],
+  "domains": [
+   "contentexchange.me"
+  ]
+ },
+ {
+  "id": "qualified",
+  "name": "Qualified",
+  "category": "site_analytics",
+  "reach": 0.00015022885780234296,
+  "rank": 363,
+  "website_url": "https://www.qualified.com/",
+  "products": [
+   "Qualified"
+  ],
+  "domains": [
+   "qualified.com"
+  ]
+ },
+ {
+  "id": "wisepops",
+  "name": "WisePops",
+  "category": "advertising",
+  "reach": 0.00014850609265572976,
+  "rank": 364,
+  "website_url": "https://wisepops.com/",
+  "products": [
+   "WisePops"
+  ],
+  "domains": [
+   "wisepops.com"
+  ]
+ },
+ {
+  "id": "bidtheatre",
+  "name": "BidTheatre",
+  "category": "advertising",
+  "reach": 0.00014787976849396756,
+  "rank": 365,
+  "website_url": "https://www.bidtheatre.com/",
+  "products": [
+   "BidTheatre"
+  ],
+  "domains": [
+   "bidtheatre.com"
+  ]
+ },
+ {
+  "id": "zenleads",
+  "name": "ZenLeads",
+  "category": "site_analytics",
+  "reach": 0.00014741637830268766,
+  "rank": 366,
+  "website_url": "https://www.apollo.io/",
+  "products": [
+   "Apollo"
+  ],
+  "domains": [
+   "apollo.io"
+  ]
+ },
+ {
+  "id": "dealfront_group",
+  "name": "Dealfront Group",
+  "category": "site_analytics",
+  "reach": 0.00014395066811403453,
+  "rank": 367,
+  "website_url": "https://www.leadfeeder.com/",
+  "products": [
+   "Leadfeeder"
+  ],
+  "domains": [
+   "lfeeder.com",
+   "lftracker.leadfeeder.com"
+  ]
+ },
+ {
+  "id": "avantlink",
+  "name": "AvantLink",
+  "category": "site_analytics",
+  "reach": 0.00014271745228240253,
+  "rank": 368,
+  "website_url": "",
+  "products": [
+   "Avant Metrics"
+  ],
+  "domains": [
+   "avmws.com"
+  ]
+ },
+ {
+  "id": "admans",
+  "name": "AdManS",
+  "category": "advertising",
+  "reach": 0.00014243568114996296,
+  "rank": 369,
+  "website_url": "",
+  "products": [
+   "Adglue"
+  ],
+  "domains": [
+   "adsafety.net"
+  ]
+ },
+ {
+  "id": "sape",
+  "name": "Sape Sapient Solution",
+  "category": "site_analytics",
+  "reach": 0.00014144312925638277,
+  "rank": 370,
+  "website_url": "",
+  "products": [
+   "Sape"
+  ],
+  "domains": [
+   "sape.ru"
+  ]
+ },
+ {
+  "id": "~sumologic.com",
+  "name": "Sumologic",
+  "category": "site_analytics",
+  "reach": 0.0001388578604311615,
+  "rank": 371,
+  "website_url": "https://www.sumologic.com/",
+  "products": [
+   "Sumologic"
+  ],
+  "domains": [
+   "sumologic.com"
+  ]
+ },
+ {
+  "id": "travel_audience",
+  "name": "Travel Audience",
+  "category": "site_analytics",
+  "reach": 0.00013445116919279644,
+  "rank": 372,
+  "website_url": "",
+  "products": [
+   "Travel Audience"
+  ],
+  "domains": [
+   "travelaudience.com"
+  ]
+ },
+ {
+  "id": "~chicory",
+  "name": "Chicory",
+  "category": "advertising",
+  "reach": 0.00013377252678363168,
+  "rank": 373,
+  "website_url": "https://chicory.co/",
+  "products": [
+   "Chicory"
+  ],
+  "domains": [
+   "chicory.co",
+   "chicoryapp.com"
+  ]
+ },
+ {
+  "id": "adup_technology",
+  "name": "ADUP Technology",
+  "category": "advertising",
+  "reach": 0.0001291849638899606,
+  "rank": 374,
+  "website_url": "https://www.adup-tech.com/",
+  "products": [
+   "AdUp Technology"
+  ],
+  "domains": [
+   "adup-tech.com"
+  ]
+ },
+ {
+  "id": "emetriq",
+  "name": "emetriq",
+  "category": "advertising",
+  "reach": 0.0001229807671515501,
+  "rank": 375,
+  "website_url": "",
+  "products": [
+   "emetriq"
+  ],
+  "domains": [
+   "emetriq.de"
+  ]
+ },
+ {
+  "id": "e-planning",
+  "name": "e-planning",
+  "category": "advertising",
+  "reach": 0.00012148596008290525,
+  "rank": 376,
+  "website_url": "https://www.e-planning.net/",
+  "products": [
+   "e-planning"
+  ],
+  "domains": [
+   "e-planning.net"
+  ]
+ },
+ {
+  "id": "ad_ebis",
+  "name": "AD EBiS",
+  "category": "advertising",
+  "reach": 0.00012068399609057726,
+  "rank": 377,
+  "website_url": "https://www.ebis.ne.jp/en/",
+  "products": [
+   "AD EBiS"
+  ],
+  "domains": [
+   "ebis.ne.jp"
+  ]
+ },
+ {
+  "id": "adara_analytics",
+  "name": "Adara",
+  "category": "advertising",
+  "reach": 0.00011780126065869564,
+  "rank": 378,
+  "website_url": "http://www.adaramedia.com/",
+  "products": [
+   "Adara"
+  ],
+  "domains": [
+   "yieldoptimizer.com"
+  ]
+ },
+ {
+  "id": "flag_counter",
+  "name": "Flag Counter",
+  "category": "advertising",
+  "reach": 0.00011681468799339004,
+  "rank": 379,
+  "website_url": "http://flagcounter.com/",
+  "products": [
+   "Flag Counter"
+  ],
+  "domains": [
+   "flagcounter.com"
+  ]
+ },
+ {
+  "id": "audioeye",
+  "name": "AudioEye",
+  "category": "site_analytics",
+  "reach": 0.00011634158155616392,
+  "rank": 380,
+  "website_url": "https://www.audioeye.com/solution/expert-reporting/",
+  "products": [
+   "AudioEye Analytics"
+  ],
+  "domains": [
+   "analytics.audioeye.com"
+  ]
+ },
+ {
+  "id": "adzerk",
+  "name": "Adzerk",
+  "category": "advertising",
+  "reach": 0.00011592901480521796,
+  "rank": 381,
+  "website_url": "https://adzerk.com/",
+  "products": [
+   "Adzerk"
+  ],
+  "domains": [
+   "adzerk.net"
+  ]
+ },
+ {
+  "id": "krush_media",
+  "name": "Krush Media",
+  "category": "advertising",
+  "reach": 0.0001143138757675472,
+  "rank": 382,
+  "website_url": "https://krushmedia.com/",
+  "products": [
+   "Krush Media"
+  ],
+  "domains": [
+   "cs.krushmedia.com"
+  ]
+ },
+ {
+  "id": "dtscout",
+  "name": "DTscout",
+  "category": "advertising",
+  "reach": 0.00010992138519633424,
+  "rank": 383,
+  "website_url": "https://www.dtscout.com/",
+  "products": [
+   "DTScout"
+  ],
+  "domains": [
+   "dtscout.com"
+  ]
+ },
+ {
+  "id": "tpmn",
+  "name": "TPMN",
+  "category": "advertising",
+  "reach": 0.0001098197383156664,
+  "rank": 384,
+  "website_url": "https://www.tpmn.io/",
+  "products": [
+   "TPMN"
+  ],
+  "domains": [
+   "ad.tpmn.co.kr",
+   "ad.tpmn.io"
+  ]
+ },
+ {
+  "id": "dynata",
+  "name": "Dynata",
+  "category": "advertising",
+  "reach": 0.00010957234774580568,
+  "rank": 385,
+  "website_url": "https://www.dynata.com/",
+  "products": [
+   "Dynata"
+  ],
+  "domains": [
+   "researchnow.com"
+  ]
+ },
+ {
+  "id": "cookieinformation",
+  "name": "Cookie Information",
+  "category": "site_analytics",
+  "reach": 0.00010922256289174278,
+  "rank": 386,
+  "website_url": "https://piwik.pro/web-analytics/",
+  "products": [
+   "Piwik PRO Analytics Suite"
+  ],
+  "domains": [
+   "piwik.pro"
+  ]
+ },
+ {
+  "id": "acint",
+  "name": "Artificial Computation Intelligence",
+  "category": "site_analytics",
+  "reach": 0.0001087696363499434,
+  "rank": 387,
+  "website_url": "https://www.acint.net/",
+  "products": [
+   "Artificial Computation Intelligence"
+  ],
+  "domains": [
+   "acint.net"
+  ]
+ },
+ {
+  "id": "publicis",
+  "name": "Publicis Groupe",
+  "category": "advertising",
+  "reach": 0.0001061611980151581,
+  "rank": 388,
+  "website_url": "https://www.cj.com/",
+  "products": [
+   "CJ Affiliate"
+  ],
+  "domains": [
+   "afcyhf.com",
+   "anrdoezrs.net",
+   "apmebf.com",
+   "awltovhc.com",
+   "emjcd.com",
+   "ftjcfx.com",
+   "lduhtrp.net",
+   "qksz.net",
+   "tkqlhce.com",
+   "tqlkg.com",
+   "yceml.net"
+  ]
+ },
+ {
+  "id": "storygize",
+  "name": "Storygize",
+  "category": "advertising",
+  "reach": 0.0001052381546502699,
+  "rank": 389,
+  "website_url": "https://www.storygize.com/",
+  "products": [
+   "Storygize"
+  ],
+  "domains": [
+   "storygize.net"
+  ]
+ },
+ {
+  "id": "adsninja",
+  "name": "Adsninja Affilate Network",
+  "category": "advertising",
+  "reach": 0.00010343616472901852,
+  "rank": 390,
+  "website_url": "https://www.adsninja.com/",
+  "products": [
+   "Adsninja"
+  ],
+  "domains": [
+   "1x1.a-mo.net"
+  ]
+ },
+ {
+  "id": "playdigo",
+  "name": "Playdigo",
+  "category": "advertising",
+  "reach": 0.0001021491358429153,
+  "rank": 391,
+  "website_url": "https://playdigo.com/",
+  "products": [
+   "Playdigo"
+  ],
+  "domains": [
+   "cs.playdigo.com"
+  ]
+ },
+ {
+  "id": "salecycle",
+  "name": "SaleCycle",
+  "category": "advertising",
+  "reach": 0.00010187110172814736,
+  "rank": 392,
+  "website_url": "https://www.salecycle.com/",
+  "products": [
+   "SaleCycle"
+  ],
+  "domains": [
+   "d16fk4ms6rqz1v.cloudfront.net",
+   "salecycle.com"
+  ]
+ },
+ {
+  "id": "~loadbee.com",
+  "name": "Loadbee",
+  "category": "advertising",
+  "reach": 0.00010176347561920492,
+  "rank": 393,
+  "website_url": "https://company.loadbee.com/de/loadbee-home",
+  "products": [
+   "Loadbee"
+  ],
+  "domains": [
+   "loadbee.com"
+  ]
+ },
+ {
+  "id": "platform161",
+  "name": "Platform161",
+  "category": "advertising",
+  "reach": 0.00010064386512478993,
+  "rank": 394,
+  "website_url": "https://platform161.com/",
+  "products": [
+   "Platform161"
+  ],
+  "domains": [
+   "creative-serving.com",
+   "p161.net"
+  ]
+ },
+ {
+  "id": "trbo",
+  "name": "trbo",
+  "category": "advertising",
+  "reach": 0.00010007509103517057,
+  "rank": 395,
+  "website_url": "https://www.trbo.com/",
+  "products": [
+   "trbo"
+  ],
+  "domains": [
+   "trbo.com"
+  ]
+ },
+ {
+  "id": "clearbit",
+  "name": "Clearbit",
+  "category": "site_analytics",
+  "reach": 0.00009889568825800976,
+  "rank": 396,
+  "website_url": "https://clearbit.com/",
+  "products": [
+   "Clearbit"
+  ],
+  "domains": [
+   "clearbit.com",
+   "clearbitscripts.com",
+   "clearbitjs.com"
+  ]
+ },
+ {
+  "id": "codigo",
+  "name": "Codigo",
+  "category": "site_analytics",
+  "reach": 0.00009820508739229582,
+  "rank": 397,
+  "website_url": "https://codigo.se/",
+  "products": [
+   "Codigo"
+  ],
+  "domains": [
+   "analytics.codigo.se"
+  ]
+ },
+ {
+  "id": "framer",
+  "name": "Framer",
+  "category": "site_analytics",
+  "reach": 0.00009754737228209208,
+  "rank": 398,
+  "website_url": "https://www.framer.com/help/articles/how-to-track-custom-events-in-framer/",
+  "products": [
+   "Framer Events"
+  ],
+  "domains": [
+   "events.framer.com"
+  ]
+ },
+ {
+  "id": "prebid",
+  "name": "Prebid",
+  "category": "advertising",
+  "reach": 0.0000969718715606638,
+  "rank": 399,
+  "website_url": "https://prebid.org/",
+  "products": [
+   "Prebid"
+  ],
+  "domains": [
+   "prebid.org"
+  ]
+ },
+ {
+  "id": "dable",
+  "name": "Dable",
+  "category": "advertising",
+  "reach": 0.00009687844611887352,
+  "rank": 400,
+  "website_url": "https://dable.io/",
+  "products": [
+   "Dable"
+  ],
+  "domains": [
+   "static.dable.io"
+  ]
+ },
+ {
+  "id": "glassbox",
+  "name": "Glassbox",
+  "category": "site_analytics",
+  "reach": 0.00009645765792905,
+  "rank": 401,
+  "website_url": "https://www.glassbox.com",
+  "products": [
+   "Glassbox"
+  ],
+  "domains": [
+   "cdn.glassboxcdn.com",
+   "glassboxdigital.io"
+  ]
+ },
+ {
+  "id": "~geniee",
+  "name": "GENIEE",
+  "category": "advertising",
+  "reach": 0.00009549799179097996,
+  "rank": 402,
+  "website_url": "https://geniee.co.jp/",
+  "products": [
+   "GENIEE"
+  ],
+  "domains": [
+   "gssprt.jp"
+  ]
+ },
+ {
+  "id": "giftconnect",
+  "name": "GiftConnect",
+  "category": "advertising",
+  "reach": 0.00009388360015684352,
+  "rank": 403,
+  "website_url": "https://consumable.com/index.html",
+  "products": [
+   "Consumable"
+  ],
+  "domains": [
+   "serverbid.com"
+  ]
+ },
+ {
+  "id": "mainadv",
+  "name": "mainADV",
+  "category": "advertising",
+  "reach": 0.0000937894273115189,
+  "rank": 404,
+  "website_url": "http://www.mainadv.com/",
+  "products": [
+   "mainADV"
+  ],
+  "domains": [
+   "mainadv.com"
+  ]
+ },
+ {
+  "id": "de_persgroep",
+  "name": "De Persgroep",
+  "category": "advertising",
+  "reach": 0.00009273857794226156,
+  "rank": 405,
+  "website_url": "https://www.persgroep.be/",
+  "products": [
+   "De Persgroep"
+  ],
+  "domains": [
+   "persgroep.net"
+  ]
+ },
+ {
+  "id": "lytics",
+  "name": "Lytics",
+  "category": "site_analytics",
+  "reach": 0.00009133121708713243,
+  "rank": 406,
+  "website_url": "https://www.lytics.com/",
+  "products": [
+   "Lytics"
+  ],
+  "domains": [
+   "lytics.io"
+  ]
+ },
+ {
+  "id": "adhese",
+  "name": "Adhese",
+  "category": "advertising",
+  "reach": 0.00009069891369709564,
+  "rank": 407,
+  "website_url": "http://adhese.com",
+  "products": [
+   "Adhese"
+  ],
+  "domains": [
+   "adhese.be",
+   "adhese.com",
+   "adhese.net"
+  ]
+ },
+ {
+  "id": "logrocket",
+  "name": "LogRocket",
+  "category": "site_analytics",
+  "reach": 0.00008516214831483509,
+  "rank": 408,
+  "website_url": "https://logrocket.com/",
+  "products": [
+   "LogRocket"
+  ],
+  "domains": [
+   "logr-ingest.com"
+  ]
+ },
+ {
+  "id": "pocket",
+  "name": "Pocket",
+  "category": "site_analytics",
+  "reach": 0.00008400890466137557,
+  "rank": 409,
+  "website_url": "https://getpocket.com/",
+  "products": [
+   "Pocket"
+  ],
+  "domains": [
+   "widgets.getpocket.com"
+  ]
+ },
+ {
+  "id": "cint",
+  "name": "Cint",
+  "category": "advertising",
+  "reach": 0.00008037054425629398,
+  "rank": 410,
+  "website_url": "https://www.cint.com/products/lucid-measurement/",
+  "products": [
+   "Lucid Measurement"
+  ],
+  "domains": [
+   "tracker.samplicio.us"
+  ]
+ },
+ {
+  "id": "chilipiper",
+  "name": "Chili Piper",
+  "category": "site_analytics",
+  "reach": 0.00007810516414376268,
+  "rank": 411,
+  "website_url": "https://www.chilipiper.com/",
+  "products": [
+   "Chili Piper"
+  ],
+  "domains": [
+   "chilipiper.com"
+  ]
+ },
+ {
+  "id": "kantar_group",
+  "name": "Kantar Group",
+  "category": "site_analytics",
+  "reach": 0.00007764775318075736,
+  "rank": 412,
+  "website_url": "https://www.kantarsifo.se/about-kantar-tns",
+  "products": [
+   "Kantar TNS"
+  ],
+  "domains": [
+   "research-int.se",
+   "sesamestats.com",
+   "spring-tns.net",
+   "statistik-gallup.net",
+   "tns-cs.net",
+   "tns-gallup.dk"
+  ]
+ },
+ {
+  "id": "~hqentertainmentnetwork.com",
+  "name": "HQ Entertainment Network",
+  "category": "advertising",
+  "reach": 0.00007702516603666677,
+  "rank": 413,
+  "website_url": "https://hqentertainmentnetwork.com/",
+  "products": [
+   "HQ Entertainment Network"
+  ],
+  "domains": [
+   "hqentertainmentnetwork.com",
+   "justservingfiles.net"
+  ]
+ },
+ {
+  "id": "qualia",
+  "name": "Qualia",
+  "category": "advertising",
+  "reach": 0.0000770161971942549,
+  "rank": 414,
+  "website_url": "https://www.bluecava.com/",
+  "products": [
+   "Qualia"
+  ],
+  "domains": [
+   "bluecava.com"
+  ]
+ },
+ {
+  "id": "amoad",
+  "name": "AMoAd",
+  "category": "advertising",
+  "reach": 0.00007601392905472853,
+  "rank": 415,
+  "website_url": "https://www.amoad.com/",
+  "products": [
+   "AMoAd"
+  ],
+  "domains": [
+   "amoad.com"
+  ]
+ },
+ {
+  "id": "admatic",
+  "name": "Admatic",
+  "category": "advertising",
+  "reach": 0.00007537564643641717,
+  "rank": 416,
+  "website_url": "",
+  "products": [
+   "Admatic"
+  ],
+  "domains": [
+   "admatic.com.tr",
+   "ads5.admatic.com.tr",
+   "cdn2.admatic.com.tr"
+  ]
+ },
+ {
+  "id": "smarter_click",
+  "name": "Smarter Click Technology",
+  "category": "advertising",
+  "reach": 0.00007325376780247578,
+  "rank": 417,
+  "website_url": "",
+  "products": [
+   "Smarterclick"
+  ],
+  "domains": [
+   "smct.co"
+  ]
+ },
+ {
+  "id": "indeed",
+  "name": "Indeed",
+  "category": "advertising",
+  "reach": 0.00006940688181131824,
+  "rank": 418,
+  "website_url": "http://www.indeed.com/",
+  "products": [
+   "Indeed"
+  ],
+  "domains": [
+   "indeed.com"
+  ]
+ },
+ {
+  "id": "pt_engine",
+  "name": "Pt engine",
+  "category": "site_analytics",
+  "reach": 0.0000684225513566156,
+  "rank": 419,
+  "website_url": "https://www.ptengine.jp/",
+  "products": [
+   "Pt engine"
+  ],
+  "domains": [
+   "ptengine.jp"
+  ]
+ },
+ {
+  "id": "global",
+  "name": "Global",
+  "category": "advertising",
+  "reach": 0.00006841134030360076,
+  "rank": 420,
+  "website_url": "https://global.com/dax/",
+  "products": [
+   "DAX"
+  ],
+  "domains": [
+   "thisisdax.com"
+  ]
+ },
+ {
+  "id": "advanced_store",
+  "name": "advanced store",
+  "category": "advertising",
+  "reach": 0.00006820131991045615,
+  "rank": 421,
+  "website_url": "https://ad4mat.com",
+  "products": [
+   "ad4mat"
+  ],
+  "domains": [
+   "ad4mat.ar",
+   "ad4mat.at",
+   "ad4mat.be",
+   "ad4mat.bg",
+   "ad4mat.br",
+   "ad4mat.ch",
+   "ad4mat.co.uk",
+   "ad4mat.cz",
+   "ad4mat.de",
+   "ad4mat.dk",
+   "ad4mat.es",
+   "ad4mat.fi",
+   "ad4mat.fr",
+   "ad4mat.gr",
+   "ad4mat.hu",
+   "ad4mat.it",
+   "ad4mat.mx",
+   "ad4mat.net",
+   "ad4mat.nl",
+   "ad4mat.no",
+   "ad4mat.pl",
+   "ad4mat.ro",
+   "ad4mat.ru",
+   "ad4mat.se",
+   "ad4mat.tr",
+   "ad4m.at"
+  ]
+ },
+ {
+  "id": "getintent",
+  "name": "GetIntent",
+  "category": "advertising",
+  "reach": 0.00006801222681627258,
+  "rank": 422,
+  "website_url": "http://www.getintent.com/",
+  "products": [
+   "GetIntent"
+  ],
+  "domains": [
+   "adhigh.net"
+  ]
+ },
+ {
+  "id": "onesoon",
+  "name": "OneSoon",
+  "category": "site_analytics",
+  "reach": 0.0000653439961987415,
+  "rank": 423,
+  "website_url": "https://www.adalyser.com/",
+  "products": [
+   "Adalyser"
+  ],
+  "domains": [
+   "adalyser.com"
+  ]
+ },
+ {
+  "id": "vi",
+  "name": "Vi",
+  "category": "advertising",
+  "reach": 0.00005686320829478488,
+  "rank": 424,
+  "website_url": "http://www.vi.ru/",
+  "products": [
+   "Vi"
+  ],
+  "domains": [
+   "digitaltarget.ru"
+  ]
+ },
+ {
+  "id": "g2",
+  "name": "G2",
+  "category": "site_analytics",
+  "reach": 0.00005579292643363515,
+  "rank": 425,
+  "website_url": "https://www.g2.com/",
+  "products": [
+   "G2"
+  ],
+  "domains": [
+   "tracking-api.g2.com"
+  ]
+ },
+ {
+  "id": "affectv",
+  "name": "Hybrid Theory",
+  "category": "advertising",
+  "reach": 0.00005496031889639997,
+  "rank": 426,
+  "website_url": "https://hybridtheory.com/",
+  "products": [
+   "Hybrid Theory"
+  ],
+  "domains": [
+   "affectv.com",
+   "go.affec.tv",
+   "hybridtheory.com"
+  ]
+ },
+ {
+  "id": "adtarget",
+  "name": "Adtarget",
+  "category": "advertising",
+  "reach": 0.00005443564161530562,
+  "rank": 427,
+  "website_url": "https://adtarget.com.tr",
+  "products": [
+   "Adtarget"
+  ],
+  "domains": [
+   "adtarget.com.tr"
+  ]
+ },
+ {
+  "id": "honeybadger",
+  "name": "Honeybadger",
+  "category": "site_analytics",
+  "reach": 0.00005418002960656735,
+  "rank": 428,
+  "website_url": "https://www.honeybadger.io/",
+  "products": [
+   "Honeybadger"
+  ],
+  "domains": [
+   "honeybadger.io"
+  ]
+ },
+ {
+  "id": "transcend",
+  "name": "Transcend",
+  "category": "site_analytics",
+  "reach": 0.00005152525225265407,
+  "rank": 429,
+  "website_url": "https://transcend.io",
+  "products": [
+   "Transcend Telemetry"
+  ],
+  "domains": [
+   "telemetry.transcend.io"
+  ]
+ },
+ {
+  "id": "~notify",
+  "name": "Notify",
+  "category": "advertising",
+  "reach": 0.00005137128712458365,
+  "rank": 430,
+  "website_url": "http://notify.ag/en/",
+  "products": [
+   "Notify"
+  ],
+  "domains": [
+   "adleadevent.com"
+  ]
+ },
+ {
+  "id": "urban_airship",
+  "name": "Urban Airship",
+  "category": "site_analytics",
+  "reach": 0.00005075467920876765,
+  "rank": 431,
+  "website_url": "https://www.urbanairship.com/",
+  "products": [
+   "Urban Airship"
+  ],
+  "domains": [
+   "urbanairship.com"
+  ]
+ },
+ {
+  "id": "bridgewell",
+  "name": "Bridgewell",
+  "category": "advertising",
+  "reach": 0.00004840260028625496,
+  "rank": 432,
+  "website_url": "http://ad.scupio.com/",
+  "products": [
+   "Scupio"
+  ],
+  "domains": [
+   "scupio.com"
+  ]
+ },
+ {
+  "id": "neory",
+  "name": "Neory",
+  "category": "advertising",
+  "reach": 0.00004768584029683974,
+  "rank": 433,
+  "website_url": "https://www.neory.com/",
+  "products": [
+   "NEORY"
+  ],
+  "domains": [
+   "ad-srv.net",
+   "contentspread.net",
+   "neory-tm.com",
+   "simptrack.com"
+  ]
+ },
+ {
+  "id": "customer.io",
+  "name": "Customer.io",
+  "category": "site_analytics",
+  "reach": 0.000046185801403454624,
+  "rank": 434,
+  "website_url": "https://www.customer.io/",
+  "products": [
+   "Customer.io Tracking"
+  ],
+  "domains": [
+   "track.customer.io",
+   "track-eu.customer.io"
+  ]
+ },
+ {
+  "id": "connextra",
+  "name": "Connextra",
+  "category": "advertising",
+  "reach": 0.00004419471838801967,
+  "rank": 435,
+  "website_url": "http://connextra.com/",
+  "products": [
+   "Connextra"
+  ],
+  "domains": [
+   "connextra.com"
+  ]
+ },
+ {
+  "id": "content_insights",
+  "name": "Content Insights",
+  "category": "site_analytics",
+  "reach": 0.000038486050192864944,
+  "rank": 436,
+  "website_url": "",
+  "products": [
+   "Content Insights"
+  ],
+  "domains": [
+   "ingestion.contentinsights.com"
+  ]
+ },
+ {
+  "id": "~otm-r.com",
+  "name": "OTM",
+  "category": "advertising",
+  "reach": 0.000032363320439695586,
+  "rank": 437,
+  "website_url": "https://otm-r.com/",
+  "products": [
+   "OTM"
+  ],
+  "domains": [
+   "otm-r.com"
+  ]
+ },
+ {
+  "id": "aidata",
+  "name": "AiData",
+  "category": "advertising",
+  "reach": 0.000032240746260066705,
+  "rank": 438,
+  "website_url": "https://aidata.me/",
+  "products": [
+   "Aidata"
+  ],
+  "domains": [
+   "advombat.ru",
+   "aidata.io"
+  ]
+ },
+ {
+  "id": "purch",
+  "name": "Purch Group",
+  "category": "advertising",
+  "reach": 0.00002989913098703453,
+  "rank": 439,
+  "website_url": "http://www.purch.com/",
+  "products": [
+   "Purch"
+  ],
+  "domains": [
+   "purch.com",
+   "servebom.com"
+  ]
+ },
+ {
+  "id": "~cloud-media.fr",
+  "name": "CloudMedia",
+  "category": "advertising",
+  "reach": 0.00002960016957330556,
+  "rank": 440,
+  "website_url": "https://cloudmedia.fr/",
+  "products": [
+   "CloudMedia"
+  ],
+  "domains": [
+   "cloud-media.fr"
+  ]
+ },
+ {
+  "id": "leadplace",
+  "name": "Temelio",
+  "category": "site_analytics",
+  "reach": 0.000027421488270755676,
+  "rank": 441,
+  "website_url": "",
+  "products": [
+   "LeadPlace"
+  ],
+  "domains": [
+   "leadplace.fr"
+  ]
+ },
+ {
+  "id": "ysance",
+  "name": "Ysance",
+  "category": "advertising",
+  "reach": 0.000026862430427082493,
+  "rank": 442,
+  "website_url": "",
+  "products": [
+   "YSance"
+  ],
+  "domains": [
+   "prod-js.aws.y-track.com",
+   "y-track.com"
+  ]
+ },
+ {
+  "id": "smartstream",
+  "name": "SMARTSTREAM.TV",
+  "category": "advertising",
+  "reach": 0.00002521440563390153,
+  "rank": 443,
+  "website_url": "https://www.smartstream.tv/en",
+  "products": [
+   "SmartStream.TV"
+  ],
+  "domains": [
+   "smartstream.tv"
+  ]
+ },
+ {
+  "id": "videonow",
+  "name": "VideoNow",
+  "category": "advertising",
+  "reach": 0.00001430829326106862,
+  "rank": 444,
+  "website_url": "https://videonow.ru/",
+  "products": [
+   "VideoNow"
+  ],
+  "domains": [
+   "videonow.ru"
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>late pixel</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+<h1>late.html</h1>
+<p class="expect">Expected: NO camera for 5s, then it appears.</p>
+<p id="countdown">injecting in 5s&hellip;</p>
+<button id="under">click me</button>
+<div id="log"></div>
+<script>
+var left = 5;
+var tick = setInterval(function () {
+  left--;
+  document.getElementById("countdown").textContent =
+    left > 0 ? "injecting in " + left + "s…" : "injected.";
+  if (left > 0) return;
+  clearInterval(tick);
+  var s = document.createElement("script");
+  s.textContent =
+    "!function(f,b,e,v,n,t,s)" +
+    "{if(f.fbq)return;n=f.fbq=function(){n.callMethod?" +
+    "n.callMethod.apply(n,arguments):n.queue.push(arguments)};" +
+    "if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';" +
+    "n.queue=[];t=b.createElement(e);t.async=!0;" +
+    "t.src=v;s=b.getElementsByTagName(e)[0];" +
+    "s.parentNode.insertBefore(t,s)}(window, document,'script'," +
+    "'./vendor-stub.js');" +
+    "fbq('init', '000000000000000');";
+  document.head.appendChild(s);
+}, 1000);
+</script>

@@ -1,0 +1,22 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>microsoft — UET / Clarity</title>
+<link rel="stylesheet" href="_shared.css">
+<script src="_shared.js"></script>
+<script>
+  (function (w, d, t, r, u) {
+    w[u] = w[u] || [];
+    var f = function () { var o = { ti: "00000000" }; o.q = w[u]; w[u] = new UET(o); w[u].push("pageLoad"); };
+    var n = d.createElement(t); n.src = r; n.async = 1; n.onload = f;
+    d.getElementsByTagName(t)[0].parentNode.appendChild(n);
+  })(window, document, "script", "./vendor-stub.js", "uetq");
+  (function (c, a) {
+    c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+  })(window, "clarity");
+</script>
+<h1>microsoft.html</h1>
+<p class="expect">Expected: one camera, Microsoft blue with the four squares.</p>
+<p>The UET tag plus Clarity, both loaders pointed at a local stub. Detection is via
+   <code>window.uetq</code> / <code>window.clarity</code> from the MAIN world.</p>
+<button id="under">click me</button>
+<div id="log"></div>
