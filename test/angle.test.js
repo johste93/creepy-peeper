@@ -17,7 +17,8 @@ const geometry = (h) => {
     "\nreturn { clamp, yawFor, leanFor, PIVOT_RIGHT, PIVOT_TOP, NOSE_X, COLLAR_R," +
     " BARREL_MID, MIN_YAW, MAX_YAW, DEAD_R, REST_YAW, REST_LEAN, SLOT_GAP, COL_GAP," +
     " MAX_ROWS, MAX_COLS, BOTTOM_PAD, slotZ, mountZ, perColumn, place, anchorCss," +
-    " UP_ENTER, UP_EXIT };";
+    " UP_ENTER, UP_EXIT, focusT, FOCUS_NEAR, FOCUS_FAR, FOCUS_SWEEP, ZOOM_MAX," +
+    " GLASS_MAX, LENS_R, BARREL_R, BARREL_LEN, COLLAR_LEN, COLLAR_MID, TUBE_LEN, TUBE_R };";
   return new Function(code)();
 };
 let m = geometry(800);
@@ -94,10 +95,58 @@ ok(`yaw stays in [${m.MIN_YAW},${m.MAX_YAW}] across the viewport`, badYaw === 0,
    `${badYaw} outliers`);
 ok("lean stays in [-90,0] across the viewport", badLean === 0, `${badLean} outliers`);
 
-// The barrel must not sweep off the top or right edge, worst case (no foreshortening).
+console.log("\n--- focus and zoom (how far away the pointer is)");
+const focus = (x, y) => m.focusT(x - px, y - py);
+const corner = focus(0, VH);   // the far corner of this viewport
+
+check("the joint itself is at the near stop", focus(px, py), 0, 0);
+check("inside the near stop it stays wound in", focus(px, py + m.FOCUS_NEAR - 10), 0, 0);
+check("past the far stop it stays at infinity", focus(px - 4000, py), 1, 0);
+check("the geometric mean of the two stops is half the travel",
+      focus(px - Math.sqrt(m.FOCUS_NEAR * m.FOCUS_FAR), py), 0.5, 0.001);
+ok("a log scale spends most of the travel up close",
+   focus(px - 300, py) > (300 - m.FOCUS_NEAR) / (m.FOCUS_FAR - m.FOCUS_NEAR) + 0.3,
+   `${focus(px - 300, py).toFixed(2)} of the ring used by 300px out`);
+ok("the far corner of the viewport is near infinity", corner > 0.9,
+   `t = ${corner.toFixed(2)} at the corner of a ${VW}x${VH} viewport`);
+
+let badT = 0, prev = -1, backwards = 0;
+for (let d = 0; d <= 3000; d += 3) {
+  const t = m.focusT(-d, 0);
+  if (!(t >= 0 && t <= 1) || Number.isNaN(t)) badT++;
+  if (t < prev) backwards++;
+  prev = t;
+}
+ok("the ring never winds past either stop", badT === 0,
+   `travel ${(m.FOCUS_SWEEP).toFixed(0)}deg, rack ${m.ZOOM_MAX}px`);
+ok("pulling the pointer further away never winds focus back", backwards === 0);
+
+// Racking out must not open the barrel up or burst the glass out of its shroud.
+const overlap = m.TUBE_LEN + 2 - m.ZOOM_MAX;
+ok("the ring pulls clear of the barrel nose, baring the tube",
+   m.ZOOM_MAX > m.COLLAR_LEN,
+   `${m.ZOOM_MAX - m.COLLAR_LEN}px of tube showing at full zoom`);
+ok("the inner tube is still plugged into the barrel at full zoom", overlap > 8,
+   `${overlap.toFixed(0)}px of tube left inside`);
+ok("the tube hides inside the shell when racked in", m.TUBE_R < m.BARREL_R - 1,
+   `tube r${m.TUBE_R}, barrel r${m.BARREL_R}`);
+ok("the glass stays inside the shroud at full zoom",
+   m.LENS_R * m.GLASS_MAX <= m.COLLAR_R - 0.5,
+   `${(m.LENS_R * m.GLASS_MAX).toFixed(1)}px of glass in a ${m.COLLAR_R - 0.5}px mouth`);
+ok("the ring that turns is the one already wrapping the lens",
+   m.COLLAR_MID + m.COLLAR_LEN / 2 === m.NOSE_X && m.COLLAR_R > m.BARREL_R,
+   `collar r${m.COLLAR_R} at the r${m.BARREL_R} barrel's nose`);
+ok("the ring parks on the shell, not off the end of it",
+   m.COLLAR_MID - m.COLLAR_LEN / 2 > 0 && m.COLLAR_LEN < m.BARREL_LEN,
+   `ring rests at ${m.COLLAR_MID - m.COLLAR_LEN / 2}..${m.NOSE_X} of a ${m.BARREL_LEN}px shell`);
+
+// The barrel must not sweep off the top or right edge, worst case (no
+// foreshortening) — measured racked all the way out, which is as long as the
+// camera ever gets. Shortening the retracted barrel is what pays for the travel.
 const rad = d => d * Math.PI / 180;
-const needRight = m.NOSE_X * Math.cos(rad(m.MIN_YAW)) + m.COLLAR_R * Math.sin(rad(m.MIN_YAW));
-const needTop = m.NOSE_X * Math.abs(Math.sin(rad(m.MAX_YAW))) +
+const TIP = m.NOSE_X + m.ZOOM_MAX;
+const needRight = TIP * Math.cos(rad(m.MIN_YAW)) + m.COLLAR_R * Math.sin(rad(m.MIN_YAW));
+const needTop = TIP * Math.abs(Math.sin(rad(m.MAX_YAW))) +
                 m.COLLAR_R * Math.abs(Math.cos(rad(m.MAX_YAW)));
 ok("clears the right edge at MIN_YAW", m.PIVOT_RIGHT >= needRight,
    `${m.PIVOT_RIGHT}px available, ${needRight.toFixed(0)}px needed`);
@@ -109,7 +158,7 @@ ok("clears the top edge at MAX_YAW", m.PIVOT_TOP >= needTop,
 let maxDown = 0, maxUp = 0;
 for (let a = m.MIN_YAW; a <= m.MAX_YAW; a += 0.5) {
   const r = rad(a);
-  const along = m.NOSE_X * Math.sin(r), across = m.COLLAR_R * Math.abs(Math.cos(r));
+  const along = TIP * Math.sin(r), across = m.COLLAR_R * Math.abs(Math.cos(r));
   maxDown = Math.max(maxDown, along + across);
   maxUp = Math.max(maxUp, -along + across);
 }
@@ -315,7 +364,8 @@ console.log("\n--- detail budget");
   const seg = new Function(
     slice("  var SEGMENTS ", "  var ARM_R") +
     slice("  function segmentsFor", "  function buildHead") +
-    "\nreturn { segmentsFor, SEGMENTS, SEGMENTS_FAR, DETAIL_SLOTS };")();
+    "\nreturn { segmentsFor, ribsFor, SEGMENTS, SEGMENTS_FAR, DETAIL_SLOTS," +
+    " RIBS, RIBS_FAR };")();
   ok("the first column keeps the full-detail barrel",
      seg.segmentsFor(0) === seg.SEGMENTS &&
      seg.segmentsFor(seg.DETAIL_SLOTS - 1) === seg.SEGMENTS,
@@ -326,6 +376,11 @@ console.log("\n--- detail budget");
      `slot ${seg.DETAIL_SLOTS}+ at ${seg.SEGMENTS_FAR} faces`);
   ok("a coarse barrel is still a closed cylinder",
      seg.SEGMENTS_FAR >= 8, `${seg.SEGMENTS_FAR} faces`);
+  ok("the knurl thins out on the same budget as the shell",
+     seg.ribsFor(0) === seg.RIBS && seg.ribsFor(seg.DETAIL_SLOTS) === seg.RIBS_FAR &&
+     seg.RIBS_FAR < seg.RIBS, `${seg.RIBS} ribs up close, ${seg.RIBS_FAR} past it`);
+  ok("a far camera still has enough ribs for a turn to read",
+     seg.RIBS_FAR >= 6, `${seg.RIBS_FAR} ribs`);
 }
 
 console.log("\n--- dns hints are not evidence");

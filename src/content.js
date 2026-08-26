@@ -278,6 +278,15 @@
   //   lean (rotateY) — tilts the barrel out of the page toward an assumed
   //                    viewer eye at z = VIEW_Z. Far cursor: nearly side-on.
   //                    Close cursor: pointing straight out at you.
+  //
+  // Aiming is not all a camera does when you move: it also focuses and zooms,
+  // and both of those read off how far away the pointer is.
+  //   focus (rotateX) — the ring wrapping the lens turns about the barrel axis,
+  //                     near stop to infinity, on the log scale a focus scale is
+  //                     printed on.
+  //   zoom (translateX) — that same ring racks out of the barrel on an inner
+  //                       tube as the subject gets further off, its glass
+  //                       reading wider with it.
 
   var PIVOT_RIGHT = 78;   // px from the viewport's right edge to the joint
   var PIVOT_TOP   = 78;   // px from the top, for the first camera in the stack
@@ -291,15 +300,20 @@
   var UP_ENTER    = 185;  // yaw past which the barrel counts as swung upward
   var UP_EXIT     = 175;  // and back down again; the gap stops z-index flicker
   var STANDOFF    = 28;   // how far the camera sits off the wall
-  var BARREL_LEN  = 86;
+  var BARREL_LEN  = 68;   // retracted; the shell gave its front ZOOM_MAX px to
+                          // the rack, so the tip racked out is where 86 ended
   var BARREL_R    = 18;
   var BARREL_BACK = 14;   // how much barrel sits behind the joint
-  var COLLAR_LEN  = 13;
+  var COLLAR_LEN  = 11;
   var COLLAR_R    = 21;
   var LENS_R      = 19;
+  var TUBE_LEN    = 40;   // inner barrel the focus ring rides out on
+  var TUBE_R      = BARREL_R - 1.5;
   var SEGMENTS    = 20;   // faces around the barrel; more = less visible faceting
   var SEGMENTS_FAR = 10;  // coarser shell for cameras past the first column
   var DETAIL_SLOTS = 12;  // how many get the full-detail barrel
+  var RIBS        = 18;   // knurl ridges; they run along the axis, so a turn shows
+  var RIBS_FAR    = 8;    // enough for the turn to still read at that size
   var ARM_R       = 9;
   var PLATE_OUT   = 44;   // joint to wall plate, in the wall plane
   var VIEW_Z      = 430;  // assumed eye distance; drives how hard it leans
@@ -310,8 +324,15 @@
   var SWING_DEG   = 90;   // yaw jumps beyond this get the slow, eased swing
   var DEAD_R      = 40;   // inside this, hold the last yaw instead of jittering
   var HOVER_R     = 64;   // fade when the pointer comes this close to the barrel
+  var FOCUS_NEAR  = 70;   // pointer distance at the ring's near stop
+  var FOCUS_FAR   = 1500; // and at its infinity stop
+  var FOCUS_SWEEP = 250;  // degrees of ring travel between the two
+  var ZOOM_MAX    = 18;   // px the ring racks out; more than COLLAR_LEN, so the
+                          // inner tube is bare by the far end
+  var GLASS_MAX   = 1.07; // how much wider the front element reads at full zoom
   var BARREL_MID  = BARREL_LEN / 2 - BARREL_BACK;
   var NOSE_X      = BARREL_LEN - BARREL_BACK;
+  var COLLAR_MID  = NOSE_X - COLLAR_LEN / 2;
   var OPACITY_IDLE = "0.92";
   var OPACITY_GHOST = "0.12";
 
@@ -391,19 +412,37 @@
     return -Math.asin(dz / len) * 180 / Math.PI;
   }
 
+  // Where along its travel the focus ring sits: 0 at the near stop, 1 at
+  // infinity. Measured in the wall plane, because the pointer has no depth and
+  // that is the distance the eye reads. Log, because that is how a focus scale
+  // is actually printed — most of the travel covers the near end, which is also
+  // where a step of the pointer changes the subject distance most.
+  function focusT(dx, dy) {
+    var d = clamp(Math.sqrt(dx * dx + dy * dy), FOCUS_NEAR, FOCUS_FAR);
+    return Math.log(d / FOCUS_NEAR) / Math.log(FOCUS_FAR / FOCUS_NEAR);
+  }
+
   var SHELL = "#f4f7fb";
 
   var SHADOW_CSS = [
     ":host{--cp-yaw:" + REST_YAW + "deg;--cp-lean:" + REST_LEAN + "deg;",
     "--cp-dur:90ms;--cp-ease:linear;--cp-band:#1877f2;",
+    "--cp-focus:0deg;--cp-zoom:0px;--cp-glass:1;",
     "--cp-stops:#1877f2 0 44%}",
     ".scene{position:absolute;left:0;top:0;width:0;height:0;",
     "perspective:820px;perspective-origin:0 0}",
-    ".rig,.head,.cyl{position:absolute;left:0;top:0;transform-style:preserve-3d}",
+    ".rig,.head,.cyl,.grp,.ribs{position:absolute;left:0;top:0;",
+    "transform-style:preserve-3d}",
     ".head{transform:translateZ(" + STANDOFF + "px) rotateZ(var(--cp-yaw)) ",
     "rotateY(var(--cp-lean));transition:transform var(--cp-dur) var(--cp-ease)}",
     ".face,.disc,.decal,.plate{position:absolute;left:0;top:0;",
     "backface-visibility:hidden}",
+    ".grp{transform:translateX(var(--cp-zoom));",
+    "transition:transform var(--cp-dur) var(--cp-ease)}",
+    ".ribs{transform:rotateX(var(--cp-focus));",
+    "transition:transform var(--cp-dur) var(--cp-ease)}",
+    ".rib{background:linear-gradient(rgba(255,255,255,.34),rgba(6,12,22,.62))}",
+    ".witness{background:#dfe7f2;box-shadow:0 0 2px rgba(4,10,20,.7)}",
     ".disc{border-radius:50%}",
     ".plate{border-radius:7px;background:linear-gradient(158deg,#fff,#c6d1e0);",
     "box-shadow:0 2px 5px rgba(8,18,38,.4)}",
@@ -414,7 +453,8 @@
     ".lens{background:radial-gradient(circle at 37% 31%,#6f8199 0%,#26323f 28%,",
     "#080d14 60%,#1d2733 86%,#070b11 100%);",
     "box-shadow:inset 0 0 0 3px #b3bfcf,inset 0 0 10px 4px rgba(0,0,0,.85),",
-    "0 0 0 1px rgba(10,18,32,.55)}",
+    "0 0 0 1px rgba(10,18,32,.55);",
+    "transition:transform var(--cp-dur) var(--cp-ease)}",
     ".spec{position:absolute;left:0;top:0;width:100%;height:100%;",
     "transform:rotateZ(calc(-1 * var(--cp-yaw)))}",
     ".glint{position:absolute;left:20%;top:14%;width:32%;height:24%;border-radius:50%;",
@@ -433,7 +473,7 @@
     ".decal svg{display:block}",
     "@keyframes cp-blink{0%,45%{opacity:1}55%,100%{opacity:.2}}",
     "@media (prefers-reduced-motion:reduce){",
-    ".head{transition:none}.led{animation:none;opacity:1}}"
+    ".head,.grp,.ribs,.lens{transition:none}.led{animation:none;opacity:1}}"
   ].join("");
 
   function hostCss(slot, z) {
@@ -586,6 +626,12 @@
     return slot < DETAIL_SLOTS ? SEGMENTS : SEGMENTS_FAR;
   }
 
+  // The knurl is the one layer that moves a whole set of children on every
+  // update, so it thins out on the same budget as the shell.
+  function ribsFor(slot) {
+    return slot < DETAIL_SLOTS ? RIBS : RIBS_FAR;
+  }
+
   // The head is a separate layer from its mount so its paint order can change
   // with the swing without dragging the static bracket along with it.
   function buildHead(tracker, slot) {
@@ -603,23 +649,59 @@
     barrel.style.transform = "translateX(" + BARREL_MID + "px)";
     head.appendChild(barrel);
 
+    // Everything from here forward is the focus ring assembly: the collar that
+    // wraps the lens, the lens itself, and the inner tube they ride out on. It
+    // turns about the barrel axis with the focus and racks out with the zoom.
+    var front = el("grp");
+
+    var tube = cylinder(TUBE_LEN, TUBE_R, segs,
+      "background:linear-gradient(90deg,#252d38,#39424f)");
+    tube.style.transform = "translateX(" + (NOSE_X - TUBE_LEN / 2 - 2) + "px)";
+    front.appendChild(tube);
+
     var collar = cylinder(COLLAR_LEN, COLLAR_R, segs,
       "background:linear-gradient(90deg,#dfe6f0,#eff4fa)");
-    collar.style.transform = "translateX(" + (NOSE_X - COLLAR_LEN / 2) + "px)";
-    head.appendChild(collar);
+    collar.style.transform = "translateX(" + COLLAR_MID + "px)";
+    front.appendChild(collar);
 
     var shroud = box(el("disc shroud"), (COLLAR_R - 0.5) * 2, (COLLAR_R - 0.5) * 2);
-    shroud.style.transform = "translateX(" + (NOSE_X - 3) + "px) rotateY(90deg)";
-    head.appendChild(shroud);
+    shroud.style.transform = "translateX(" + (NOSE_X - 4) + "px) rotateY(90deg)";
+    front.appendChild(shroud);
+
+    // The turn itself. The collar's own lighting is baked per face, so turning
+    // that shell would drag the highlight round with it, as if the light moved;
+    // what turns is the knurl on top of it. Ribs run along the axis — the way
+    // you knurl anything meant to be twisted, and the only direction in which a
+    // turn shows: a rib running around the ring would look the same at every
+    // angle.
+    var knurl = el("cyl");
+    knurl.style.transform = "translateX(" + COLLAR_MID + "px)";
+    var ribs = el("ribs");
+    var nribs = ribsFor(slot || 0);
+    for (var i = 0; i < nribs; i++) {
+      var rib = box(el("face rib"), COLLAR_LEN - 3, 2.4);
+      rib.style.transform = "rotateX(" + (i * 360 / nribs) + "deg) " +
+        "translateZ(" + (COLLAR_R + 0.35) + "px)";
+      ribs.appendChild(rib);
+    }
+    // One rib painted as a witness mark, so the ring reads as being at some
+    // definite setting rather than just textured.
+    var witness = box(el("face rib witness"), COLLAR_LEN - 1, 3);
+    witness.style.transform = "translateZ(" + (COLLAR_R + 0.45) + "px)";
+    ribs.appendChild(witness);
+    knurl.appendChild(ribs);
+    front.appendChild(knurl);
 
     var lens = box(el("disc lens"), LENS_R * 2, LENS_R * 2);
-    lens.style.transform = "translateX(" + (NOSE_X - 1) + "px) rotateY(90deg)";
+    lens.style.transform = "translateX(" + (NOSE_X - 1) + "px) rotateY(90deg) " +
+      "scale(var(--cp-glass))";
     // The highlight hangs off a counter-rotated layer, not the lens itself: a
     // reflection comes from a fixed light, so it must not turn with the camera.
     var spec = el("spec");
     spec.appendChild(el("glint"));
     lens.appendChild(spec);
-    head.appendChild(lens);
+    front.appendChild(lens);
+    head.appendChild(front);
 
     var cap = box(el("disc cap"), BARREL_R * 2, BARREL_R * 2);
     cap.style.transform = "translateX(" + (-BARREL_BACK) + "px) rotateY(-90deg)";
@@ -638,7 +720,7 @@
 
     var led = box(el("disc led"), 5, 5);
     led.style.transform =
-      "translateX(50px) rotateX(-38deg) translateZ(" + (COLLAR_R + 0.4) + "px)";
+      "translateX(28px) rotateX(-38deg) translateZ(" + (BARREL_R + 0.6) + "px)";
     head.appendChild(led);
 
     return scene;
@@ -747,12 +829,19 @@
     for (var i = 0; i < cameras.length; i++) measure(cameras[i]);
   }
 
-  function setPose(cam, yaw, lean, durMs, ease) {
+  // One write of five custom properties per camera per frame. Only the four
+  // elements that read them restyle: the head, the knurl, the front group and
+  // the glass — the couple of hundred baked faces behind them never do.
+  function setPose(cam, yaw, lean, t, durMs, ease) {
     cam.lastYaw = yaw;
-    cam.host.style.setProperty("--cp-yaw", yaw + "deg");
-    cam.host.style.setProperty("--cp-lean", lean + "deg");
-    cam.host.style.setProperty("--cp-dur", durMs + "ms");
-    cam.host.style.setProperty("--cp-ease", ease);
+    var st = cam.host.style;
+    st.setProperty("--cp-yaw", yaw + "deg");
+    st.setProperty("--cp-lean", lean + "deg");
+    st.setProperty("--cp-focus", (t * FOCUS_SWEEP).toFixed(1) + "deg");
+    st.setProperty("--cp-zoom", (t * ZOOM_MAX).toFixed(2) + "px");
+    st.setProperty("--cp-glass", (1 + t * (GLASS_MAX - 1)).toFixed(3));
+    st.setProperty("--cp-dur", durMs + "ms");
+    st.setProperty("--cp-ease", ease);
   }
 
   // Hysteresis: without the dead band the z-index would flip back and forth
@@ -799,11 +888,12 @@
     var dy = pendingY - rect.top;
     var yaw = yawFor(dx, dy, cam.lastYaw);
     var lean = leanFor(dx, dy);
+    var t = focusT(dx, dy);
 
     // A big yaw jump means the cursor crossed straight above the joint and the
     // aim flipped between clamp ends; swing round instead of teleporting.
     var swing = Math.abs(yaw - cam.lastYaw) > SWING_DEG;
-    setPose(cam, yaw, lean, swing ? 420 : 90,
+    setPose(cam, yaw, lean, t, swing ? 420 : 90,
             swing ? "cubic-bezier(.4,0,.2,1)" : "linear");
     setUp(cam, yaw);
 
@@ -819,7 +909,7 @@
   function onMouseOut() {
     if (frame) { cancelAnimationFrame(frame); frame = 0; }
     for (var i = 0; i < cameras.length; i++) {
-      setPose(cameras[i], REST_YAW, REST_LEAN, 700, "cubic-bezier(.22,.9,.3,1)");
+      setPose(cameras[i], REST_YAW, REST_LEAN, 0, 700, "cubic-bezier(.22,.9,.3,1)");
       setUp(cameras[i], REST_YAW);
       setGhost(cameras[i], false);
     }

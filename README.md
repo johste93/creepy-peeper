@@ -1,6 +1,6 @@
 # Creepy Peeper
 
-Creepy Peeper is a Chrome extension that shows a surveillance camera for every advertising or analytics company it detects on the page you’re visiting. Each camera uses the company’s logo and follows your mouse pointer as you move around the page.
+Creepy Peeper is a Chrome extension that shows a surveillance camera for every advertising or analytics company it detects on the page you’re visiting. Each camera uses the company’s logo and follows your mouse pointer as you move around the page — swivelling to aim at it, and turning the focus ring around its lens in and out of zoom with how far away it is.
 
 The effect is intentionally uncomfortable. Tracking is usually invisible; Creepy Peeper makes it difficult to ignore.
 

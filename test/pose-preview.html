@@ -27,18 +27,21 @@ const cut = (a, b) => src.slice(src.indexOf(a), src.indexOf(b));
 const code =
   cut("  var F_MARK =", "  function trackerById") +
   cut("  var PIVOT_RIGHT", "  // ------------------------------------------------------------------ cameras") +
-  "\nreturn { SHADOW_CSS, buildMount, buildHead, TRACKERS, REST_YAW, REST_LEAN };";
+  "\nreturn { SHADOW_CSS, buildMount, buildHead, TRACKERS, REST_YAW, REST_LEAN," +
+  " FOCUS_SWEEP, ZOOM_MAX, GLASS_MAX };";
 const m = new Function(code)();
 
+// The third number is focus travel t: 0 is wound in and racked back, 1 is at
+// infinity with the front element all the way out.
 const poses = [
-  ["rest", m.REST_YAW, m.REST_LEAN],
-  ["leaning", 135, -58],
-  ["below", 92, -26],
-  ["far left", 178, -18],
-  ["face-on", 135, -84],
+  ["rest", m.REST_YAW, m.REST_LEAN, 0],
+  ["leaning", 135, -58, 0.35],
+  ["below", 92, -26, 0.7],
+  ["far left", 178, -18, 1],
+  ["face-on", 135, -84, 0],
   // face-on across the yaw range: the lens highlight must not drift between these
-  ["face-on 40", 40, -84],
-  ["face-on 210", 210, -84],
+  ["face-on 40", 40, -84, 0.5],
+  ["face-on 210", 210, -84, 1],
 ];
 
 for (const id of ["l", "d"]) {
@@ -50,7 +53,7 @@ for (const id of ["l", "d"]) {
     const grid = document.createElement("div");
     grid.className = "grid";
     band.appendChild(grid);
-    for (const [name, yaw, lean] of poses) {
+    for (const [name, yaw, lean, t] of poses) {
       const cell = document.createElement("div");
       cell.className = "cell";
       const anchor = document.createElement("div");
@@ -66,10 +69,13 @@ for (const id of ["l", "d"]) {
       anchor.style.setProperty("--cp-stops", tracker.stops);
       anchor.style.setProperty("--cp-yaw", yaw + "deg");
       anchor.style.setProperty("--cp-lean", lean + "deg");
+      anchor.style.setProperty("--cp-focus", (t * m.FOCUS_SWEEP).toFixed(1) + "deg");
+      anchor.style.setProperty("--cp-zoom", (t * m.ZOOM_MAX).toFixed(2) + "px");
+      anchor.style.setProperty("--cp-glass", (1 + t * (m.GLASS_MAX - 1)).toFixed(3));
       cell.appendChild(anchor);
       const label = document.createElement("div");
       label.className = "label";
-      label.textContent = `${name} · ${yaw}° / ${lean}°`;
+      label.textContent = `${name} · ${yaw}° / ${lean}° · t${t}`;
       cell.appendChild(label);
       grid.appendChild(cell);
     }
